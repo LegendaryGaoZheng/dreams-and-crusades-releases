@@ -4,6 +4,7 @@ import hashlib
 import json
 import os
 from pathlib import Path
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -46,7 +47,6 @@ def main():
         'bootstrap':{'url':f'https://github.com/{REPO}/releases/download/{tag}/{jar.name}',
                      'sha256':hashlib.sha256(jar.read_bytes()).hexdigest()},
         'probe':manifest['files'][0]}
-    import urllib.error
     try:
         current=api('GET','contents/update-sources.json')
         sha=current['sha']
