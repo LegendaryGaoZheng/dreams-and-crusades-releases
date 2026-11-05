@@ -2,7 +2,8 @@ name: Build update pilot
 on:
   push:
     paths:
-      - 'bridge/**'
+      - 'bridge/build.py'
+      - 'bridge/DshReleaseSources.java'
       - 'pilot/**'
       - '.github/workflows/update-pilot.yml'
   workflow_dispatch:

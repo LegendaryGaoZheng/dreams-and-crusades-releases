@@ -50,9 +50,19 @@ def main():
     try:
         current=api('GET','contents/update-sources.json')
         sha=current['sha']
+        previous=json.loads(base64.b64decode(current['content']))
+        if previous.get('repository')!=REPO: raise ValueError('Previous index owner')
+        history=dict(previous.get('objects',{}))
+        history.update(root['objects'])
+        root['objects']=history
     except urllib.error.HTTPError as e:
         if e.code!=404:raise
         sha=None
+    history_file=Path('pilot/source-history.json')
+    if history_file.exists():
+        history=json.loads(history_file.read_text())
+        history.update(root['objects'])
+        root['objects']=history
     body={'message':'Point experimental update sources at '+tag,
           'content':base64.b64encode((json.dumps(root,indent=2)+'\n').encode()).decode(),'branch':'main'}
     if sha:body['sha']=sha
