@@ -1,0 +1,31 @@
+name: Build update pilot
+on:
+  push:
+    paths:
+      - 'bridge/**'
+      - 'pilot/**'
+      - '.github/workflows/update-pilot.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: update-pilot-publish
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build pinned bridge
+        run: python bridge/build.py --workspace "$RUNNER_TEMP/dsh-update-pilot"
+      - name: Publish immutable experimental artifacts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python pilot/publish.py
