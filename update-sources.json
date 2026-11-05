@@ -1,25 +1,39 @@
 {
   "format": 1,
   "repository": "LegendaryGaoZheng/dreams-and-crusades-releases",
-  "version": "update-pilot-21fb0cf044f9",
+  "version": "update-pilot-6ca7614dbf6e",
   "objects": {
+    "e72ead799054dee4b93e661dbe012a459817c9d0": {
+      "size": 93,
+      "sha256": "93bf122ecd34dd2f0fa0d201065b2e89b09dbba506d4655092ecc855b3e9d5e9",
+      "urls": [
+        "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-b0f7da3be7b3/update-probe.json"
+      ]
+    },
     "41c3de39d1a1aea78b84442c771a39f83816f603": {
       "size": 93,
       "sha256": "945b15f091a1a62a5cadf4974bd4d7db57cdcc12c0eba86722f63a708f5d7210",
       "urls": [
         "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-21fb0cf044f9/update-probe.json"
       ]
+    },
+    "95326f7993621e8f01d7aed30a6901dbf538bdf9": {
+      "size": 93,
+      "sha256": "f2713268f3405101a305652f9f837f17281b184a9e44b17ac3ad99066f133cb2",
+      "urls": [
+        "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-6ca7614dbf6e/update-probe.json"
+      ]
     }
   },
   "bootstrap": {
-    "url": "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-21fb0cf044f9/automodpack-mc1.21.1-neoforge-4.0.7-dsh1.jar",
+    "url": "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-6ca7614dbf6e/automodpack-mc1.21.1-neoforge-4.0.7-dsh1.jar",
     "sha256": "6a730659749245c2fae533b7972ad0019998a38e7c06953f7f409c855dd3b3db"
   },
   "probe": {
     "path": "kubejs/assets/dream_expedition/update-probe.json",
     "size": 93,
-    "sha1": "41c3de39d1a1aea78b84442c771a39f83816f603",
-    "sha256": "945b15f091a1a62a5cadf4974bd4d7db57cdcc12c0eba86722f63a708f5d7210",
-    "url": "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-21fb0cf044f9/update-probe.json"
+    "sha1": "95326f7993621e8f01d7aed30a6901dbf538bdf9",
+    "sha256": "f2713268f3405101a305652f9f837f17281b184a9e44b17ac3ad99066f133cb2",
+    "url": "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-6ca7614dbf6e/update-probe.json"
   }
 }
