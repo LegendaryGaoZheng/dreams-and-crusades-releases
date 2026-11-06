@@ -53,6 +53,9 @@ def main():
     old = '        // Load the modpack excluding mods from standard mods directory without need to restart the game\n        if (preload) {'
     assert text.count(old) == 1
     text = text.replace(old, '        // Load the modpack excluding mods from standard mods directory without need to restart the game\n        loadInstalledModpack();\n    }\n\n    public void loadInstalledModpack() throws Exception {\n        if (!Files.exists(modpackDir)) return;\n        if (preload) {')
+    old = 'standardModsHashes = standardModsStream\n                        .map(ClientCacheUtils::computeHashIfNeeded)'
+    assert text.count(old) == 1
+    text = text.replace(old, 'standardModsHashes = standardModsStream\n                        .filter(path -> Files.isRegularFile(path) && path.getFileName().toString().endsWith(".jar"))\n                        .map(ClientCacheUtils::computeHashIfNeeded)')
     build = stage / 'bridge'
     build.mkdir(exist_ok=True)
     (build / 'ModpackUpdater.java').write_text(text, encoding='utf-8')
