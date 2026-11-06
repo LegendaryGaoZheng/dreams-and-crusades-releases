@@ -1,5 +1,7 @@
 """Publish only this repository's bridge and harmless pilot probe as prerelease assets."""
 import base64
+import io
+from zipfile import ZipFile, ZIP_DEFLATED
 import hashlib
 import json
 import os
@@ -24,9 +26,16 @@ def main():
     commit = os.environ['GITHUB_SHA']
     tag = 'update-pilot-' + commit[:12]
     stage = Path(os.environ['RUNNER_TEMP'])/'dsh-update-pilot/bridge'
-    jar = stage/'automodpack-mc1.21.1-neoforge-4.0.7-dsh1.jar'
+    jar = stage/'automodpack-mc1.21.1-neoforge-4.0.7-dsh2.jar'
     probe = (json.dumps({'project':'Dreams & Crusades','pilot_commit':commit})+'\n').encode()
     files = {jar.name:jar.read_bytes(),'update-probe.json':probe,'bridge-record.json':(stage/'record.json').read_bytes()}
+    archive = io.BytesIO()
+    with ZipFile(archive, 'w', ZIP_DEFLATED) as z:
+        z.writestr('mods/automodpack-mc1.21.1-neoforge-4.0.7.jar', jar.read_bytes())
+        z.writestr('automodpack/automodpack-client.json', Path('bootstrap/automodpack-client.json').read_bytes())
+        z.writestr('automodpack/.private/automodpack-known-hosts.json', Path('bootstrap/automodpack-known-hosts.json').read_bytes())
+        z.writestr('INSTALL.txt', 'Extract into a NEW isolated PCL Minecraft 1.21.1 NeoForge 21.1.264 instance. Connect to 110.42.10.112:6069, accept installation, close and restart using PCL. Existing players: replace only the AutoModpack JAR with the included JAR while the game is closed; preserve existing client config. Public server certificate pin included; no account secrets. Experimental until clean-client validation is complete.\n')
+    files['dreams-and-crusades-bootstrap.zip'] = archive.getvalue()
     manifest = {'format':1,'repository':REPO,'version':tag,'files':[
         {'path':'kubejs/assets/dream_expedition/update-probe.json','size':len(probe),
          'sha1':hashlib.sha1(probe).hexdigest(),'sha256':hashlib.sha256(probe).hexdigest(),
@@ -34,7 +43,7 @@ def main():
     files['manifest.json']=(json.dumps(manifest,indent=2)+'\n').encode()
     release = api('POST','releases',dict(tag_name=tag,target_commitish=commit,
         name='Incremental update pilot '+commit[:12],prerelease=True,draft=False,
-        body='Experimental AutoModpack 4.0.7 D&C bridge dsh1. LGPL-3.0. Modified source is embedded in the JAR and available under bridge/. Original sources https://github.com/Skidamek/AutoModpack/tree/v4.0.7 . Test assets only; not a complete modpack release.'))
+        body='Experimental AutoModpack 4.0.7 D&C bridge dsh2 (P17 loading fix). LGPL-3.0. Modified source is embedded in the JAR and available under bridge/. Original sources https://github.com/Skidamek/AutoModpack/tree/v4.0.7 . Test assets only; not a complete modpack release.'))
     upload = release['upload_url'].split('{')[0]
     assert urllib.parse.urlparse(upload).hostname=='uploads.github.com'
     for name,data in files.items():
