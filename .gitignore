@@ -133,6 +133,7 @@
 !/tools/test_modpack_state.py
 !/tools/develop_food.py
 !/tools/ModVersionCheck.java
+!/tools/archive_release_instance.py
 !/pack/develop-mods.json
 !/DEVELOP.md
 !/CHANGELOG.md
