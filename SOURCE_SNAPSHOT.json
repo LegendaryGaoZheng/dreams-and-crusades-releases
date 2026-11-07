@@ -1,7 +1,8 @@
 {
-  "local_commit": "1991dca",
+  "local_commit": "7384e28",
   "branch": "develop",
   "tracked_files": 167,
+  "verified": "All 167 initial source blobs matched; repository layout documentation updated subsequently",
   "excluded": "Worlds, credentials, launcher accounts, third-party JARs, caches, logs and uncommitted files",
   "format": "Reviewed source snapshot; local Git history remains in workspace"
 }
