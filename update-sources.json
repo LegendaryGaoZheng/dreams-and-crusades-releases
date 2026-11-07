@@ -1,7 +1,7 @@
 {
   "format": 1,
   "repository": "LegendaryGaoZheng/dreams-and-crusades-releases",
-  "version": "update-pilot-d492a1aa8949",
+  "version": "update-pilot-ac81899ecb31",
   "objects": {
     "e72ead799054dee4b93e661dbe012a459817c9d0": {
       "size": 93,
@@ -44,17 +44,24 @@
       "urls": [
         "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-d492a1aa8949/update-probe.json"
       ]
+    },
+    "ab99c02284178a812487e9f6f426a6b64feea925": {
+      "size": 93,
+      "sha256": "275f3854ac7b3a3447f4cb1f051a366b47df3ec4efa4982922f0431c1f841fb9",
+      "urls": [
+        "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-ac81899ecb31/update-probe.json"
+      ]
     }
   },
   "bootstrap": {
-    "url": "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-d492a1aa8949/automodpack-mc1.21.1-neoforge-4.0.7-dsh2.jar",
+    "url": "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-ac81899ecb31/automodpack-mc1.21.1-neoforge-4.0.7-dsh2.jar",
     "sha256": "3effc7e5adaf092b5bbe67f8fe1001a0f2a14f990039f9ec7db1296e72993072"
   },
   "probe": {
     "path": "kubejs/assets/dream_expedition/update-probe.json",
     "size": 93,
-    "sha1": "f4382aeb62d722b51a5a1f1b91af21e44d4fafa4",
-    "sha256": "b72519bc51e1cee1290ec173eb57188247b7ee0856bc5770c31d90583128dc6d",
-    "url": "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-d492a1aa8949/update-probe.json"
+    "sha1": "ab99c02284178a812487e9f6f426a6b64feea925",
+    "sha256": "275f3854ac7b3a3447f4cb1f051a366b47df3ec4efa4982922f0431c1f841fb9",
+    "url": "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/releases/download/update-pilot-ac81899ecb31/update-probe.json"
   }
 }
