@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "farm_and_charm:barley"
+    }
+  ],
+  "results": [
+    {
+      "id": "farm_and_charm:flour",
+      "count": 2
+    }
+  ],
+  "processing_time": 50
+}

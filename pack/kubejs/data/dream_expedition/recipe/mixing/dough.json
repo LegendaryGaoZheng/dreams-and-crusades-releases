@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "farm_and_charm:flour"
+    },
+    {
+      "item": "farm_and_charm:yeast"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "minecraft:water",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "id": "farm_and_charm:dough",
+      "count": 5
+    }
+  ]
+}

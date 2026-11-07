@@ -1,0 +1,110 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "expedition"
+	group: "669605009D3D37DF"
+	id: "3FBD6F64D79FAC83"
+	order_index: 5
+	quest_links: [ ]
+	images: [{
+		id: "4F1DE065E5C4B934"
+		image: "dream_expedition:textures/quest_atlas/frontier.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -17.3d
+	}]
+	icon: "create:track"
+	quests: [
+		{
+			id: "025E241A099E7638"
+			rewards: [{
+				id: "7A28CA2609847705"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 2.5d
+			tasks: [{
+				count: 8L
+				id: "09DC6F111FDF242B"
+				item: { count: 1, id: "create:track" }
+				type: "item"
+			}]
+			x: 8.1d
+			y: 0.0d
+		}
+		{
+			dependencies: ["025E241A099E7638"]
+			id: "07B73BD573276EA2"
+			rewards: [
+				{
+					id: "14F0E7FABC012CEA"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "7057E3DCD3602ADD"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_shieldman"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "2216628F69AF5422"
+				type: "checkmark"
+			}]
+			x: -6.9d
+			y: 6.3d
+		}
+		{
+			dependencies: ["025E241A099E7638"]
+			id: "79549BFDA80E7575"
+			rewards: [
+				{
+					id: "272BDD79E6C2E518"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "209AD5AD4DAEBB1B"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_archer"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "3E6872C3376990D7"
+				type: "checkmark"
+			}]
+			x: 0.9d
+			y: -10.3d
+		}
+		{
+			dependencies: ["025E241A099E7638"]
+			id: "2C686A4027DE9FC1"
+			rewards: [{
+				id: "76903D84E1083955"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "27B4590A17364A25"
+				item: { count: 1, id: "minecraft:map" }
+				type: "item"
+			}]
+			x: 6.8d
+			y: 8.9d
+		}
+	]
+}

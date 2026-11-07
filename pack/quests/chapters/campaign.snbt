@@ -1,0 +1,223 @@
+{
+	default_hide_dependency_lines: false
+	filename: "campaign"
+	group: "136C2476B3C4FF9B"
+	id: "5E44BFECFB06527B"
+	order_index: 45
+	quest_links: []
+	images: [{
+		id: "0CD7EAE5550045CD"
+		image: "dream_expedition:textures/quest_atlas/banner.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "minecraft:white_banner"
+	quests: [
+		{
+			id: "40D65650A535A35B"
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{
+				id: "0BB593F58E840318"
+				item: { count: 1, id: "minecraft:white_banner" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "72AFA4EE5766DE94"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "3D501B1862D69087"
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 5.0d
+			tasks: [{
+				id: "2BEE80D0D1790A8A"
+				item: { count: 1, id: "minecraft:recovery_compass" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "36FDE382019003E7"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "689ECB8722F08A36"
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 10.0d
+			tasks: [{
+				id: "1B6C36D0773EE34F"
+				item: { count: 1, id: "minecraft:water_bucket" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6C4E4AEEA1DD1D3C"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "6AB298DD4D8003F7"
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 15.0d
+			tasks: [{
+				id: "07A5F6F730E36655"
+				item: { count: 1, id: "minecraft:scaffolding" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6291DA7F21F7741E"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "6B6D1213EABB5244"
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 0.0d
+			tasks: [{
+				id: "517D97573677E601"
+				item: { count: 1, id: "minecraft:ladder" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "54F383F690CF8B14"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "3F2E3E0B056D9CCF"
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 5.0d
+			tasks: [{
+				id: "0C38E48D6C9D9E43"
+				item: { count: 1, id: "minecraft:tnt" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "4E2ECD0207E673A3"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "65DB138B31215F59"
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 10.0d
+			tasks: [{
+				id: "3C46BA37EDD80A19"
+				item: { count: 1, id: "minecraft:obsidian" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "67BBF28B6ACF71E3"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "34F6368E84C605EE"
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 15.0d
+			tasks: [{
+				id: "54B3D19BFE7D1BD0"
+				item: { count: 1, id: "minecraft:diamond_sword" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "26D0CEBC2D851592"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "15211508199685F9"
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 0.0d
+			tasks: [{
+				id: "7005A7B849FE3486"
+				item: { count: 1, id: "minecraft:diamond_chestplate" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "7A2BE8BD76467FE4"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "5A95B0A8ADEB9674"
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 5.0d
+			tasks: [{
+				id: "7EC78696AFEA547A"
+				item: { count: 1, id: "minecraft:enchanted_golden_apple" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "327B5A6945C34BD3"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "0017DF03124D55CA"
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 10.0d
+			tasks: [{
+				id: "4526FEEF52CDF02F"
+				item: { count: 1, id: "minecraft:totem_of_undying" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "451D9A4193CFC154"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "0965886A64CC9766"
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 15.0d
+			tasks: [{
+				id: "0F5D43618F0AD2FF"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "4264CE734C132D8B"
+				type: "xp"
+				xp: 5
+			}]
+		}
+	]
+}

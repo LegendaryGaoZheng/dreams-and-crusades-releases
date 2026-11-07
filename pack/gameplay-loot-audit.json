@@ -1,0 +1,298 @@
+{
+  "ctov:chests/village/village_farm": {
+    "category": "农场与温室",
+    "source": "[Neoforge]ctov-3.6.3.jar",
+    "choices": [
+      [
+        "farm_and_charm:barley",
+        2,
+        6,
+        12
+      ],
+      [
+        "farm_and_charm:oat",
+        2,
+        6,
+        10
+      ],
+      [
+        "farmersdelight:cabbage_seeds",
+        2,
+        5,
+        8
+      ],
+      [
+        "farmersdelight:tomato",
+        2,
+        5,
+        8
+      ],
+      [
+        "farm_and_charm:barley_seeds",
+        2,
+        5,
+        7
+      ]
+    ],
+    "maximum_chests_per_template": 3,
+    "references": {
+      "data/ctov/structure/village/desert_oasis/jobsite/greenhouse.nbt": 2,
+      "data/ctov/structure/village/halloween/jobsite/farm.nbt": 1,
+      "data/ctov/structure/village/halloween/jobsite/fd_farm.nbt": 1,
+      "data/ctov/structure/village/jungle_tree/jobsite/farm.nbt": 3,
+      "data/ctov/structure/village/jungle_tree/jobsite/fd_farm.nbt": 3,
+      "data/ctov/structure/village/mesa/jobsite/farm.nbt": 2,
+      "data/ctov/structure/village/mesa/jobsite/fd_farm.nbt": 2,
+      "data/ctov/structure/village/mesa_fortified/jobsite/farm.nbt": 2,
+      "data/ctov/structure/village/mesa_fortified/jobsite/fd_farm.nbt": 2,
+      "data/ctov/structure/village/mountain/jobsite/farm.nbt": 1,
+      "data/ctov/structure/village/mountain/jobsite/fd_farm.nbt": 1,
+      "data/ctov/structure/village/mushroom/jobsite/farm.nbt": 1,
+      "data/ctov/structure/village/mushroom/jobsite/fd_farm.nbt": 1,
+      "data/ctov/structure/village/plains/jobsite/farm.nbt": 1,
+      "data/ctov/structure/village/plains/jobsite/fd_farm.nbt": 1,
+      "data/ctov/structure/village/savanna/jobsite/farm.nbt": 2,
+      "data/ctov/structure/village/savanna/jobsite/fd_farm.nbt": 2,
+      "data/ctov/structure/village/snowy_igloo/jobsite/farm.nbt": 2,
+      "data/ctov/structure/village/snowy_igloo/jobsite/fd_farm.nbt": 2,
+      "data/ctov/structure/village/swamp_fortified/jobsite/farm.nbt": 2,
+      "data/ctov/structure/village/swamp_fortified/jobsite/fd_farm.nbt": 2,
+      "data/ctov/structure/village/taiga/jobsite/farm.nbt": 2,
+      "data/ctov/structure/village/taiga/jobsite/fd_farm.nbt": 2,
+      "data/ctov/structure/village/taiga_fortified/jobsite/farm.nbt": 2,
+      "data/ctov/structure/village/taiga_fortified/jobsite/fd_farm.nbt": 2
+    }
+  },
+  "ctov:chests/village/village_bakery": {
+    "category": "面包房",
+    "source": "[Neoforge]ctov-3.6.3.jar",
+    "choices": [
+      [
+        "farm_and_charm:flour",
+        1,
+        3,
+        15
+      ],
+      [
+        "bakery:sweet_dough",
+        1,
+        2,
+        10
+      ],
+      [
+        "farmersdelight:apple_pie_slice",
+        1,
+        2,
+        10
+      ]
+    ],
+    "maximum_chests_per_template": 1,
+    "references": {
+      "data/ctov/structure/village/mesa_fortified/jobsite/bakery.nbt": 1,
+      "data/ctov/structure/village/mesa_fortified/jobsite/bakery_jmc.nbt": 1
+    }
+  },
+  "ctov:chests/village/village_smith": {
+    "category": "铁匠铺",
+    "source": "[Neoforge]ctov-3.6.3.jar",
+    "choices": [
+      [
+        "create:andesite_alloy",
+        1,
+        3,
+        14
+      ],
+      [
+        "create:shaft",
+        1,
+        3,
+        8
+      ],
+      [
+        "create:cogwheel",
+        1,
+        2,
+        3
+      ]
+    ],
+    "maximum_chests_per_template": 2,
+    "references": {
+      "data/ctov/structure/village/beach/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/christmas/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/desert/jobsite/smith.nbt": 1,
+      "data/ctov/structure/village/desert_oasis/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/halloween/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/jungle/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/jungle_tree/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/mesa/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/mesa_fortified/jobsite/smith.nbt": 1,
+      "data/ctov/structure/village/mountain/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/mountain_alpine/jobsite/smith.nbt": 1,
+      "data/ctov/structure/village/mushroom/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/plains/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/plains_fortified/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/savanna/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/snowy_igloo/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/swamp/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/swamp_fortified/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/taiga/jobsite/smith.nbt": 2,
+      "data/ctov/structure/village/taiga_fortified/jobsite/smith.nbt": 2
+    }
+  },
+  "kaisyn:outpost/common/food": {
+    "category": "前哨厨房与食物补给点",
+    "source": "t_and_t-1.21.1-1.13.11.jar",
+    "choices": [
+      [
+        "farmersdelight:cooked_bacon",
+        1,
+        3,
+        13
+      ],
+      [
+        "farmersdelight:smoked_ham",
+        1,
+        1,
+        10
+      ],
+      [
+        "farmersdelight:apple_pie_slice",
+        1,
+        2,
+        12
+      ]
+    ],
+    "maximum_chests_per_template": 2,
+    "references": {
+      "data/kaisyn/structure/outpost/camps/beach/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/camps/savanna_plateau/side/kitchen.nbt": 1,
+      "data/kaisyn/structure/outpost/camps/snowy_beach/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/camps/sparse_jungle/side/kitchen.nbt": 1,
+      "data/kaisyn/structure/outpost/camps/wooded_badlands/side/kitchen.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/badlands/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/desert/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/exclusives/classic/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/exclusives/iberian/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/exclusives/mediterranean/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/exclusives/rustic/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/grove/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/jungle/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/old_growth_taiga/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/birch/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/exclusives/nilotic/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/exclusives/oriental/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/exclusives/swedish/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/exclusives/tudor/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/flower_forest/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/forest/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/meadow/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/mushroom_fields/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/savanna/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/snowy_plains/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/snowy_slopes/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/snowy_taiga/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/sunflower_plains/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/swamp/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/taiga/base_plate.nbt": 1,
+      "data/kaisyn/structure/ships/pillager_outpost_ocean/base_plate.nbt": 1,
+      "data/kaisyn/structure/ships/pillager_outpost_ocean/variant/base_plate.nbt": 1,
+      "data/kaisyn/structure/ships/village_ocean/pieces/escort/escort_1.nbt": 1,
+      "data/kaisyn/structure/ships/village_ocean/pieces/escort/escort_2.nbt": 1,
+      "data/kaisyn/structure/ships/village_ocean/pieces/mothership/mothership_1.nbt": 2,
+      "data/kaisyn/structure/ships/village_ocean/pieces/small_ship/small_ship_4.nbt": 1,
+      "data/kaisyn/structure/village/beach_lighthouse/side/beach_main_house_1.nbt": 1,
+      "data/kaisyn/structure/village/beach_lighthouse/side/beach_outdoor_shack_1.nbt": 1,
+      "data/kaisyn/structure/village/exclusives/mediterranean/houses/regular/med_large_house_3.nbt": 1,
+      "data/kaisyn/structure/village/old_growth_taiga_polish/houses/old_growth_taiga_fisher_1.nbt": 1,
+      "data/kaisyn/structure/village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1.nbt": 1
+    }
+  },
+  "kaisyn:outpost/common/armory": {
+    "category": "前哨军械库与工场",
+    "source": "t_and_t-1.21.1-1.13.11.jar",
+    "choices": [
+      [
+        "hundred_years_war:bullet",
+        1,
+        3,
+        21
+      ],
+      [
+        "hundred_years_war:handgonne",
+        1,
+        1,
+        4
+      ]
+    ],
+    "maximum_chests_per_template": 2,
+    "references": {
+      "data/kaisyn/structure/outpost/camps/beach/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/camps/savanna_plateau/side/workshop.nbt": 2,
+      "data/kaisyn/structure/outpost/camps/snowy_beach/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/camps/sparse_jungle/side/workshop.nbt": 1,
+      "data/kaisyn/structure/outpost/camps/wooded_badlands/side/workshop.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/badlands/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/desert/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/exclusives/classic/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/exclusives/iberian/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/exclusives/mediterranean/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/exclusives/rustic/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/grove/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/jungle/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/forts/old_growth_taiga/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/birch/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/exclusives/nilotic/base_plate.nbt": 2,
+      "data/kaisyn/structure/outpost/towers/exclusives/oriental/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/exclusives/swedish/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/exclusives/tudor/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/flower_forest/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/forest/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/meadow/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/mushroom_fields/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/savanna/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/snowy_plains/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/snowy_slopes/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/snowy_taiga/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/sunflower_plains/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/swamp/base_plate.nbt": 1,
+      "data/kaisyn/structure/outpost/towers/taiga/base_plate.nbt": 1,
+      "data/kaisyn/structure/ships/pillager_outpost_ocean/base_plate.nbt": 1,
+      "data/kaisyn/structure/ships/pillager_outpost_ocean/variant/base_plate.nbt": 1
+    }
+  },
+  "kaisyn:outpost/exclusives/outpost_mediterranean_barrel": {
+    "category": "地中海要塞储藏桶",
+    "source": "t_and_t-1.21.1-1.13.11.jar",
+    "choices": [
+      [
+        "vinery:red_wine",
+        1,
+        2,
+        17
+      ],
+      [
+        "vinery:glowing_wine",
+        1,
+        1,
+        14
+      ],
+      [
+        "vinery:mellohi_wine",
+        1,
+        1,
+        4
+      ]
+    ],
+    "maximum_chests_per_template": 13,
+    "references": {
+      "data/kaisyn/structure/outpost/forts/exclusives/iberian/base_plate.nbt": 4,
+      "data/kaisyn/structure/outpost/forts/exclusives/mediterranean/base_plate.nbt": 13,
+      "data/kaisyn/structure/outpost/forts/exclusives/mediterranean/fields/field_2.nbt": 7,
+      "data/kaisyn/structure/outpost/forts/exclusives/rustic/base_plate.nbt": 6,
+      "data/kaisyn/structure/village/beach_lighthouse/side/beach_outdoor_shack_1.nbt": 1,
+      "data/kaisyn/structure/village/exclusives/mediterranean/houses/regular/med_fisher_1.nbt": 2,
+      "data/kaisyn/structure/village/meadow_swiss/houses/meadow_large_house_1.nbt": 1,
+      "data/kaisyn/structure/village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1.nbt": 9
+    }
+  }
+}

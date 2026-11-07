@@ -1,0 +1,198 @@
+{
+	default_hide_dependency_lines: false
+	filename: "power"
+	group: "694D9840A70126D8"
+	id: "0C62E2EDD3E2069E"
+	order_index: 34
+	quest_links: []
+	images: [{
+		id: "62B4E73C8125A2CC"
+		image: "dream_expedition:textures/quest_atlas/works.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "create:andesite_alloy"
+	quests: [
+		{
+			id: "0A41D0AA4A10F20A"
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{
+				id: "4402683782ECD44A"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "2FAB254320A26EBC"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "5261FC2FEBB70F18"
+			dependencies: ["0A41D0AA4A10F20A"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 3.0d
+			tasks: [{
+				id: "4E0E071CFA3FB16A"
+				item: { count: 1, id: "create:shaft" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6921810B3ECCDA81"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "44E81BF7916259CC"
+			dependencies: ["0A41D0AA4A10F20A"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 6.0d
+			tasks: [{
+				id: "1049B0C1B69FAF70"
+				item: { count: 1, id: "create:cogwheel" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "77F79E5F7BF55C25"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "2300234EA29B7036"
+			dependencies: ["0A41D0AA4A10F20A"]
+			optional: false
+			shape: "hexagon"
+			x: 7.0d
+			y: 9.0d
+			tasks: [{
+				id: "437867F2AADCE95C"
+				item: { count: 1, id: "create:large_cogwheel" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "0C5B30CF514DF9FC"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "3F453A39FF5A2530"
+			dependencies: ["2300234EA29B7036"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 12.0d
+			tasks: [{
+				id: "46A96D091B289E08"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/power/water_wheel"
+			}]
+			rewards: [{
+				id: "4E6F230AD70DBF8C"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "1717C3DBA80B70B8"
+			dependencies: ["2300234EA29B7036"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 15.0d
+			tasks: [{
+				id: "2CC915E67D62DB6F"
+				item: { count: 1, id: "create:large_water_wheel" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "42870414705EF0F5"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "198C34B2AFC5F807"
+			dependencies: ["2300234EA29B7036"]
+			optional: false
+			shape: "hexagon"
+			x: 14.0d
+			y: 18.0d
+			tasks: [{
+				id: "0270DE4B5AB7C541"
+				item: { count: 1, id: "create:gearbox" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "61EA1DAC04AA4D74"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "2BA01D637080E925"
+			dependencies: ["198C34B2AFC5F807"]
+			optional: true
+			shape: "circle"
+			x: 21.0d
+			y: 21.0d
+			tasks: [{
+				id: "72AA80B49365C6D7"
+				item: { count: 1, id: "create:vertical_gearbox" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6D4CB28595BEDF99"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "28C4BF110E3DE4E8"
+			dependencies: ["198C34B2AFC5F807"]
+			optional: true
+			shape: "circle"
+			x: 21.0d
+			y: 24.0d
+			tasks: [{
+				id: "3C495ED07E475E1C"
+				item: { count: 1, id: "create:clutch" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "5A0DE4090FBE3F85"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "3862453B604A3075"
+			dependencies: ["198C34B2AFC5F807"]
+			optional: false
+			shape: "hexagon"
+			x: 21.0d
+			y: 27.0d
+			tasks: [{
+				id: "43CD4C22FF5FDF2D"
+				item: { count: 1, id: "create:gearshift" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "2D52317C85678BCB"
+				type: "xp"
+				xp: 10
+			}]
+		}
+	]
+}

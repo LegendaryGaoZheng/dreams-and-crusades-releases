@@ -1,0 +1,485 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farmer"
+	group: "27E9091BEF0C4DA3"
+	id: "4C42BB4EF929B849"
+	order_index: 7
+	quest_links: [ ]
+	images: [{
+		id: "19B8ABB668D67D12"
+		image: "dream_expedition:textures/quest_atlas/hearth.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "farmersdelight:cutting_board"
+	quests: [
+		{
+			id: "53D99CD9AED22D25"
+			rewards: [
+				{
+					id: "4FCCADAB86D1EBC8"
+					type: "xp"
+					xp: 30
+				}
+				{
+					id: "3FA02938E4909154"
+					item: {
+						count: 1
+						id: "farmersdelight:flint_knife"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.5d
+			tasks: [
+				{
+					id: "5DDC896BE012C5C7"
+					item: { count: 1, id: "farmersdelight:cutting_board" }
+					type: "item"
+				}
+				{
+					id: "6C0B5F2A8733BEF3"
+					item: { count: 1, id: "farmersdelight:flint_knife" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["53D99CD9AED22D25"]
+			id: "4E81DE3F33C3C3BF"
+			rewards: [{
+				id: "3440D6BF425E4E54"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "3744A74368E23342"
+				item: { count: 1, id: "farmersdelight:iron_knife" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["53D99CD9AED22D25"]
+			id: "10C623DB65F9E4DC"
+			rewards: [
+				{
+					id: "4835EE7EE815EB42"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 8
+					id: "659CC6BB35CC0114"
+					item: {
+						count: 1
+						id: "minecraft:bowl"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "68BEB32DC120E02B"
+				item: { count: 1, id: "farmersdelight:cooking_pot" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["10C623DB65F9E4DC"]
+			id: "27539BE091D038FF"
+			rewards: [{
+				id: "17B801294F8EBDA0"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "16D0EF0FB15093AF"
+				item: { count: 1, id: "farmersdelight:stove" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["10C623DB65F9E4DC"]
+			id: "70027567537B96A2"
+			rewards: [{
+				id: "1327E412B421FEFC"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "198637D0C3404BB3"
+				item: { count: 1, id: "farmersdelight:skillet" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["10C623DB65F9E4DC"]
+			id: "366B2E63A0AB4794"
+			rewards: [
+				{
+					id: "04791CFBE539DFCD"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "261036B9D4C6BC01"
+					item: {
+						count: 1
+						id: "farmersdelight:tomato_seeds"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				count: 4L
+				id: "3F3F6E6EDBD798C0"
+				item: { count: 1, id: "farmersdelight:tomato" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["366B2E63A0AB4794"]
+			id: "719FD6C66308DB78"
+			rewards: [{
+				id: "7BA6DAC321A346FE"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				count: 4L
+				id: "64BDF38B292AC6D9"
+				item: { count: 1, id: "farmersdelight:onion" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["366B2E63A0AB4794"]
+			id: "56A089692959B426"
+			rewards: [{
+				id: "204A848B08D6AFA9"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				count: 4L
+				id: "4F3EC0EB808CCACA"
+				item: { count: 1, id: "farmersdelight:cabbage" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["10C623DB65F9E4DC"]
+			id: "57ECC025D38A69C0"
+			rewards: [
+				{
+					id: "0A9C33C9363E97F4"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "2A3D2398D174E9B0"
+					item: {
+						count: 1
+						id: "farmersdelight:rice_panicle"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				count: 8L
+				id: "61279F2A47D2B674"
+				item: { count: 1, id: "farmersdelight:rice" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["53D99CD9AED22D25"]
+			id: "4E453642277B00C4"
+			rewards: [{
+				id: "1EDF5B620A471490"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "006C0107982F7ADB"
+				item: { count: 1, id: "farmersdelight:vegetable_soup" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["719FD6C66308DB78"]
+			id: "3E863BE8F54AC6FC"
+			rewards: [
+				{
+					id: "156053E220966947"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "232FFE3EF161965F"
+					item: {
+						count: 1
+						id: "farmersdelight:beef_stew"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "5049E9A0D339D55F"
+				item: { count: 1, id: "farmersdelight:beef_stew" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["53D99CD9AED22D25"]
+			id: "43F2D77D6A89CED6"
+			rewards: [{
+				id: "4B781D0952700FD4"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "gear"
+			size: 2.2d
+			tasks: [{
+				count: 4L
+				id: "64FC8B745783D4AA"
+				item: { count: 1, id: "farmersdelight:fried_rice" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["53D99CD9AED22D25"]
+			id: "151D64435B35463C"
+			rewards: [{
+				id: "563E7A251A49DB40"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				count: 2L
+				id: "0D3B968363325300"
+				item: { count: 1, id: "farmersdelight:hamburger" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["53D99CD9AED22D25"]
+			id: "6BA63755CA705E5E"
+			rewards: [
+				{
+					id: "16E2C866F8A4D170"
+					type: "xp"
+					xp: 80
+				}
+				{
+					id: "0FD14C8BB7014AFC"
+					item: {
+						count: 1
+						id: "farmersdelight:roast_chicken_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.2d
+			tasks: [{
+				id: "592BCA44EF76757C"
+				item: { count: 1, id: "farmersdelight:roast_chicken_block" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["6BA63755CA705E5E"]
+			id: "34400357D4876967"
+			rewards: [{
+				id: "50F65714B17D2E01"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "23F0AFCE150F8483"
+				item: { count: 1, id: "farmersdelight:honey_glazed_ham_block" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["10C623DB65F9E4DC"]
+			id: "520A27225477A891"
+			rewards: [{
+				id: "3E0F09A995A072D1"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "6421B0FD3DE6926F"
+				item: { count: 1, id: "farmersdelight:apple_cider" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["53D99CD9AED22D25"]
+			id: "58090D30B071D1B4"
+			rewards: [{
+				id: "11587EDEE8FACEF5"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				count: 4L
+				id: "6611F47E2D68082C"
+				item: { count: 1, id: "farmersdelight:dog_food" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["58090D30B071D1B4"]
+			id: "4840FE5A32734452"
+			rewards: [{
+				id: "6AB85357FDAB3EDB"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				count: 4L
+				id: "6C138AC600D3F050"
+				item: { count: 1, id: "farmersdelight:horse_feed" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 15.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["43F2D77D6A89CED6"]
+			id: "3D3D8B21DDAED620"
+			repeat_cooldown: 1800
+			rewards: [
+				{
+					id: "566B4ABBF262218E"
+					type: "xp"
+					xp: 60
+				}
+				{
+					id: "4841D49126D9837B"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_shieldman"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.8d
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "1C53C2FA0E236EC6"
+				item: { count: 1, id: "farmersdelight:cooked_rice" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 15.0d
+		}
+		{
+			dependencies: [
+				"6BA63755CA705E5E"
+				"34400357D4876967"
+				"4E453642277B00C4"
+			]
+			id: "6CBFB08EF0FC3E04"
+			rewards: [
+				{
+					id: "1049300CB7D93C07"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "1D2651F1B0E7DCE8"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_archer"
+					}
+					type: "item"
+				}
+			]
+			shape: "heart"
+			size: 2.5d
+			tasks: [{
+				id: "0E3DFD3B6C68BB77"
+				item: { count: 1, id: "farmersdelight:roast_chicken_block" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 15.0d
+		}
+	]
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "project": "veggies-delight",
+    "version": "1.9.3",
+    "filename": "VeggiesDelight-1.21.1-1.9.3.jar",
+    "url": "https://cdn.modrinth.com/data/emQ94xri/versions/9LiRnALb/VeggiesDelight-1.21.1-1.9.3.jar",
+    "sha256": "0bc502a2aa6816ceadce6192f159e2472aced936fa2b6375d03fc609190f90d0",
+    "sha1": "e13dd609c697b88b374829088d4bfbc884dce8fd",
+    "sha512": "bd108223b38236c7cae2a02601e52c98d4f655a45f4f3a8c2f5d298aaa0ed0debbb2639bb08e11c5f33a0ae27242a3d4ff0aab9820915e3dadb1ce06a2763960",
+    "size": 565293
+  },
+  {
+    "project": "crabbers-delight",
+    "version": "1.3.1",
+    "filename": "crabbersdelight-1.21.1-1.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/gBGdVBJy/versions/j5Nzh8kh/crabbersdelight-1.21.1-1.3.1.jar",
+    "sha256": "a1c9757de071485af01768fbb45bd5e94d5f89d6d48d26a432706d952d555ed8",
+    "sha1": "28a459c17e69ce83e7b1f9dd3e22ee4ca62d1248",
+    "sha512": "897d8e98b96c512411a3dd0536700598b159cc6ca5af89eeaf294f739c03433ce0f2e80ca883f257500db72f11c60c616b140527a3fa488a19bb64d8b03b3c46",
+    "size": 1013696
+  },
+  {
+    "project": "enders-delight",
+    "version": "1.3.1",
+    "filename": "endersdelight-1.3.1.jar",
+    "url": "https://cdn.modrinth.com/data/2uEhdGKt/versions/5S67w5gs/endersdelight-1.3.1.jar",
+    "sha256": "dbc7622fa6e3a7168e222ccd70eb1c37dfb71bf935efb5bae4dd60b06978ad48",
+    "sha1": "a3a9f7fd621f14461d37357463dbd16c67d2badf",
+    "sha512": "d39de482cd41537f647b6d96cc1fb2201295198f783579f6c35e0c9ed91ba0ae386a5ca8cdf6a1c6ed02bae4f1901b9dd6896e189893d15eca1baab87666014a",
+    "size": 152797
+  },
+  {
+    "project": "cosmeticarmours",
+    "version": "1.6.0.1",
+    "filename": "CosmeticArmours - 1.6.0.1 - 1.21.1 - NeoForge.jar",
+    "url": "https://cdn.modrinth.com/data/H3JIzTFR/versions/h65hzPFD/CosmeticArmours%20-%201.6.0.1%20-%201.21.1%20-%20NeoForge.jar",
+    "sha256": "12a3e78f83294bcc3140c49dabb86a91fdc5ac2a463942e14cae812b4be065f1",
+    "sha1": "950ca2efb3f080eaf9780e39a5a38b30b3fd5139",
+    "sha512": "c60fd3aabad02165436133317bfafb034ab5c56c202ebac2d46774f7dc69a7542c765ec738e79b7ca09102f0e8fddd9b0afe9d2eaa0d28e584a412c06b88bf57",
+    "size": 19088588
+  },
+  {
+    "project": "patchouli",
+    "version": "1.21.1-93-neoforge",
+    "filename": "Patchouli-1.21.1-93-NEOFORGE.jar",
+    "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar",
+    "sha256": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
+    "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140",
+    "sha512": "0b5c172db9a6eeecb5ca44b359a83548c3a60be7ff313959acdfc1e5b8039736c18e57e947d435b52d06da31159d2d02ea36e5742668dbc826308a4c99e4039f",
+    "size": 646777
+  }
+]

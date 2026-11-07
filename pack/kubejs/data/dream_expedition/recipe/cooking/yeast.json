@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "farm_and_charm:water_bottles"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "result": {
+    "id": "farm_and_charm:yeast",
+    "count": 12
+  },
+  "container": {
+    "id": "minecraft:bowl",
+    "count": 1
+  },
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

@@ -1,0 +1,366 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pets"
+	group: "01643A218C6A9DF4"
+	id: "15220831CBF89D63"
+	order_index: 8
+	quest_links: [ ]
+	images: [{
+		id: "2EC871D54447575F"
+		image: "dream_expedition:textures/quest_atlas/homestead.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "minecraft:bone"
+	quests: [
+		{
+			id: "7DA7B8953979A91D"
+			rewards: [
+				{
+					id: "6264223EBB2E94CF"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 8
+					id: "3808D53877DEF182"
+					item: {
+						count: 1
+						id: "minecraft:bone"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.5d
+			tasks: [
+				{
+					count: 10L
+					id: "0567783E0C4CE966"
+					item: { count: 1, id: "minecraft:bone" }
+					type: "item"
+				}
+				{
+					advancement: "minecraft:husbandry/tame_an_animal"
+					criterion: ""
+					id: "05D52C2A945EECAC"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA7B8953979A91D"]
+			id: "3FA2FF29569B7D5E"
+			rewards: [{
+				id: "19A39CD34B89E61A"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "405745649EE2F8F1"
+				item: { count: 1, id: "minecraft:wolf_armor" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA7B8953979A91D"]
+			id: "7DC45F97DA5D197B"
+			rewards: [{
+				id: "4AA8D3FB3700E9BB"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				count: 4L
+				id: "74F22C7295D8D83C"
+				item: { count: 1, id: "farmersdelight:dog_food" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA7B8953979A91D"]
+			id: "12A654B7FCEF3138"
+			rewards: [{
+				id: "3B49B7AB52137D59"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				advancement: "minecraft:husbandry/breed_an_animal"
+				criterion: ""
+				id: "454B5C64F0D589A7"
+				type: "advancement"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA7B8953979A91D"]
+			id: "64AFB9A31473BEF5"
+			rewards: [{
+				id: "66BBB93C02D792D8"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				count: 10L
+				id: "1DE6FAB627B1022B"
+				item: { count: 1, id: "minecraft:cod" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7DA7B8953979A91D"]
+			id: "6DAEE90F12C86067"
+			rewards: [{
+				id: "5A581A3C8C134D06"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "4802F77E946E4BF1"
+				item: { count: 1, id: "minecraft:string" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7DA7B8953979A91D"]
+			id: "1CA0DD4006ABFF67"
+			rewards: [{
+				id: "691AC966F43DACEB"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "47EC91857153B993"
+				item: { count: 1, id: "minecraft:saddle" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7DA7B8953979A91D"]
+			id: "53DC4C9EA762B536"
+			rewards: [{
+				id: "630241579878676A"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "5AC0E050D2928880"
+				item: { count: 1, id: "minecraft:iron_horse_armor" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7DA7B8953979A91D"]
+			id: "37D40204A3F00BCC"
+			rewards: [{
+				id: "4715A9238EA8119E"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "714FFCF0EE37C1D9"
+				item: { count: 1, id: "minecraft:saddle" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7DA7B8953979A91D"]
+			id: "35ADB89AF5FECAB5"
+			rewards: [{
+				id: "33D54BE77E3F3670"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				count: 4L
+				id: "4675AF161E6EC689"
+				item: { count: 1, id: "farmersdelight:horse_feed" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7DA7B8953979A91D"]
+			id: "694B813A43690806"
+			rewards: [
+				{
+					id: "69BF01AFCEC809E3"
+					type: "xp"
+					xp: 60
+				}
+				{
+					id: "7B204C8767FA7ADA"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_bandit_war_hound_1"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.2d
+			tasks: [{
+				id: "2B7254292E1675A0"
+				item: { count: 1, id: "hundred_years_war:scroll_bandit_war_hound_1" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["694B813A43690806"]
+			id: "7F0F1974B1D6907C"
+			rewards: [{
+				id: "3FB99D41EF76C177"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "7313B85ACFB876A8"
+				item: { count: 1, id: "hundred_years_war:scroll_bandit_war_hound_1" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7F0F1974B1D6907C"]
+			id: "787FD23ED14DAB35"
+			rewards: [{
+				id: "45D50CD163A6A4D1"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "3E2CC0733A851485"
+				item: { count: 1, id: "minecraft:name_tag" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["7DA7B8953979A91D"]
+			id: "347D9E89FA2129F1"
+			rewards: [{
+				id: "49E77B06B72E14BC"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				count: 32L
+				id: "299B42C2FF3E6A52"
+				item: { count: 1, id: "minecraft:oak_planks" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["7F0F1974B1D6907C"]
+			id: "5A89F310F8ECC9D6"
+			rewards: [
+				{
+					id: "3E7212F466A693EE"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "230598649E2F4A94"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:upgrade_base"
+					}
+					type: "item"
+				}
+			]
+			shape: "heart"
+			size: 2.5d
+			tasks: [{
+				id: "202D89B39B93C9FC"
+				item: { count: 1, id: "minecraft:lead" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 18.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["7DA7B8953979A91D"]
+			id: "164F704302514059"
+			repeat_cooldown: 1800
+			rewards: [
+				{
+					id: "7C4FC00F70B383D2"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "2918F680064825F2"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:upgrade_base"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.8d
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "4C062FB622DF3887"
+				item: { count: 1, id: "farmersdelight:dog_food" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 18.0d
+		}
+	]
+}

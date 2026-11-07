@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    {
+      "item": "farm_and_charm:minced_beef"
+    },
+    {
+      "item": "farm_and_charm:minced_beef"
+    },
+    {
+      "tag": "farm_and_charm:cabbage"
+    }
+  ],
+  "result": {
+    "id": "brewery:sausage",
+    "count": 1
+  },
+  "container": {
+    "id": "minecraft:bowl",
+    "count": 1
+  },
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 0,
+  "recipe_book_tab": "meals"
+}

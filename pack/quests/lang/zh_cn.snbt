@@ -1,0 +1,911 @@
+{
+	chapter.0BF8C4D1744F5ABF.chapter_subtitle: ["开局第一课"]
+	chapter.0BF8C4D1744F5ABF.title: "启程"
+	chapter.1128E579660E4BFB.chapter_subtitle: ["招兵与指挥"]
+	chapter.1128E579660E4BFB.title: "建军"
+	chapter.15220831CBF89D63.chapter_subtitle: ["狼、猫、马与战犬"]
+	chapter.15220831CBF89D63.title: "宠物"
+	chapter.23D0A73C60F9F142.chapter_subtitle: ["把夸克用起来"]
+	chapter.23D0A73C60F9F142.title: "夸克工坊"
+	chapter.36BC865578768672.chapter_subtitle: ["Create 换兵员"]
+	chapter.36BC865578768672.title: "军需合同"
+	chapter.3FBD6F64D79FAC83.chapter_subtitle: ["飞艇与据点"]
+	chapter.3FBD6F64D79FAC83.title: "远征"
+	chapter.4C42BB4EF929B849.chapter_subtitle: ["从砧板到丰收宴"]
+	chapter.4C42BB4EF929B849.title: "农夫乐事"
+	chapter.4CFBCBC12F15221E.chapter_subtitle: ["把夸克用起来"]
+	chapter.4CFBCBC12F15221E.title: "夸克工坊"
+	chapter.51CE52FCF264365C.chapter_subtitle: ["战争的终点"]
+	chapter.51CE52FCF264365C.title: "攻城与征服"
+	chapter.53A4658DCFEB3EED.chapter_subtitle: ["Create 与炼钢"]
+	chapter.53A4658DCFEB3EED.title: "工业"
+	chapter.54DE24E68CA9CD64.chapter_subtitle: ["把夸克用起来"]
+	chapter.54DE24E68CA9CD64.title: "夸克工坊"
+	chapter.6E6741FF59014D34.chapter_subtitle: ["从石器到机械"]
+	chapter.6E6741FF59014D34.title: "落脚"
+	chapter_group.095EAE5786577E06.title: "主线"
+	chapter_group.5FDA6DDE30AF0524.title: "军需"
+	quest.015060A7D950F4A6.quest_desc: ["木镐 → 石镐，进入石器时代。"]
+	quest.015060A7D950F4A6.quest_subtitle: "石器时代"
+	quest.015060A7D950F4A6.title: "石制工具"
+	quest.01F066A6A621FEDC.quest_desc: ["用快捷键切换整排快捷栏。"]
+	quest.01F066A6A621FEDC.quest_subtitle: "快捷栏切换"
+	quest.01F066A6A621FEDC.title: "快捷栏切换"
+	quest.025E241A099E7638.quest_desc: ["Create 火车或 Aeronautics 飞艇，选一个作为远征载具。"]
+	quest.025E241A099E7638.quest_subtitle: "火车或飞艇"
+	quest.025E241A099E7638.title: "造出火车或飞艇"
+	quest.03CB4B8F140C7924.quest_desc: ["驯服马并装上马鞍。"]
+	quest.03CB4B8F140C7924.quest_subtitle: "马鞍"
+	quest.03CB4B8F140C7924.title: "马鞍"
+	quest.0484DCA56352110D.quest_desc: ["猫会偶尔给你带礼物。"]
+	quest.0484DCA56352110D.quest_subtitle: "猫的礼物"
+	quest.0484DCA56352110D.title: "猫的礼物"
+	quest.05A71AEFD564FFF0.quest_desc: ["Shift+点击快速转移整组物品。"]
+	quest.05A71AEFD564FFF0.quest_subtitle: "快速转移"
+	quest.05A71AEFD564FFF0.title: "快速转移"
+	quest.05B070DA4399D4D9.quest_desc: ["驯服马并装上马鞍。"]
+	quest.05B070DA4399D4D9.quest_subtitle: "马鞍"
+	quest.05B070DA4399D4D9.title: "马鞍"
+	quest.07A05AE6FCC0B61B.quest_desc: ["精密构件是高级机器的门槛。"]
+	quest.07A05AE6FCC0B61B.quest_subtitle: "高级机器门槛"
+	quest.07A05AE6FCC0B61B.title: "精密构件"
+	quest.07AF9A578D7F9985.quest_desc: ["给基地配一个熔炉和箱子。"]
+	quest.07AF9A578D7F9985.quest_subtitle: "熔炉与箱子"
+	quest.07AF9A578D7F9985.title: "熔炉与箱子"
+	quest.07B73BD573276EA2.quest_desc: ["HYW 的 ancient_white_tower：小心守军。"]
+	quest.07B73BD573276EA2.quest_subtitle: "白塔守军很强"
+	quest.07B73BD573276EA2.title: "抵达白塔"
+	quest.0899E186E985451E.quest_desc: ["在床上睡一觉，设置重生点。"]
+	quest.0899E186E985451E.quest_subtitle: "设置重生点"
+	quest.0899E186E985451E.title: "设置重生点"
+	quest.08AFB0416F248E9F.quest_desc: ["用卷轴部署至少 3 名士兵，并让它们跟随你。"]
+	quest.08AFB0416F248E9F.quest_subtitle: "至少三名士兵"
+	quest.08AFB0416F248E9F.title: "部署三名士兵"
+	quest.09E67FBCB3DCA3A7.quest_desc: ["工具坏了自动从背包补一把。"]
+	quest.09E67FBCB3DCA3A7.quest_subtitle: "自动补工具"
+	quest.09E67FBCB3DCA3A7.title: "自动补工具"
+	quest.09F3C633F88F80B3.quest_desc: ["把队伍扩到 10 人。"]
+	quest.09F3C633F88F80B3.quest_subtitle: "十人小队"
+	quest.09F3C633F88F80B3.title: "十人小队"
+	quest.0ABA7A33B0171C51.quest_desc: ["在占领的区块建一个小据点。"]
+	quest.0ABA7A33B0171C51.quest_subtitle: "守住第一块地"
+	quest.0ABA7A33B0171C51.title: "守住第一块地"
+	quest.0B37085EACB096BE.quest_desc: [
+		"HYW 的所有操作都在手册里：RTS、阵型、关系、攻城。"
+		"找不到手册就按 J 打开任务书，或再领一次补给。"
+	]
+	quest.0B37085EACB096BE.quest_subtitle: "规则都在手册里"
+	quest.0B37085EACB096BE.title: "读完征服者手册"
+	quest.0B60B1D57C04960C.quest_desc: ["用树篱做花园围墙。"]
+	quest.0B60B1D57C04960C.quest_subtitle: "树篱"
+	quest.0B60B1D57C04960C.title: "树篱"
+	quest.0C3AA21DF37B84BD.quest_desc: ["把 HYW 势力的区块打下来，地图会变成你的颜色。"]
+	quest.0C3AA21DF37B84BD.quest_subtitle: "地图变色"
+	quest.0C3AA21DF37B84BD.title: "占领第一块势力地"
+	quest.0FA4CE69A79F0A94.quest_desc: ["炉灶可以同时烧菜和当燃料灶台。"]
+	quest.0FA4CE69A79F0A94.quest_subtitle: "炉灶"
+	quest.0FA4CE69A79F0A94.title: "炉灶"
+	quest.10C623DB65F9E4DC.quest_desc: ["厨锅是热菜的核心，放在炉子上用。"]
+	quest.10C623DB65F9E4DC.quest_subtitle: "厨锅"
+	quest.10C623DB65F9E4DC.title: "厨锅"
+	quest.12A654B7FCEF3138.quest_desc: ["两只驯服的狼可以繁殖。"]
+	quest.12A654B7FCEF3138.quest_subtitle: "繁殖狼"
+	quest.12A654B7FCEF3138.title: "繁殖狼"
+	quest.151D64435B35463C.quest_desc: ["面包 + 肉饼 + 蔬菜。"]
+	quest.151D64435B35463C.quest_subtitle: "汉堡"
+	quest.151D64435B35463C.title: "汉堡"
+	quest.15F3CD4B6D3591CF.quest_desc: ["水车提供稳定的大扭矩。"]
+	quest.15F3CD4B6D3591CF.title: "水车"
+	quest.16172CB6EB4B643B.quest_desc: ["交 16 份狗粮，换背包升级件。在任务书里点击提交。"]
+	quest.16172CB6EB4B643B.quest_subtitle: "狗粮合同"
+	quest.16172CB6EB4B643B.title: "狗粮合同"
+	quest.164F704302514059.quest_desc: ["交 16 份狗粮，换背包升级件。在任务书里点击提交。"]
+	quest.164F704302514059.quest_subtitle: "狗粮合同"
+	quest.164F704302514059.title: "狗粮合同"
+	quest.167989DE98D12660.quest_desc: ["先做砧板（砍树+木板）和燧石刀，农夫乐事的起点。"]
+	quest.167989DE98D12660.quest_subtitle: "砧板与刀"
+	quest.167989DE98D12660.title: "砧板与刀"
+	quest.196C5C112BFC7898.quest_desc: ["卷心菜可以做成卷心菜卷。"]
+	quest.196C5C112BFC7898.quest_subtitle: "卷心菜"
+	quest.196C5C112BFC7898.title: "卷心菜"
+	quest.1A7AA67FDC753724.quest_desc: ["CBC：铸炮、装弹、配攻城工程师。"]
+	quest.1A7AA67FDC753724.quest_subtitle: "CBC 铸炮"
+	quest.1A7AA67FDC753724.title: "造出第一门火炮"
+	quest.1C7DF1CA119436B6.quest_desc: ["骑上马跑一段路。"]
+	quest.1C7DF1CA119436B6.quest_subtitle: "骑乘"
+	quest.1C7DF1CA119436B6.title: "骑乘"
+	quest.1CA0DD4006ABFF67.quest_desc: ["驯服马并装上马鞍。"]
+	quest.1CA0DD4006ABFF67.quest_subtitle: "马鞍"
+	quest.1CA0DD4006ABFF67.title: "马鞍"
+	quest.1D891C596F3E0CDD.quest_desc: ["苹果酿的饮料，恢复不错。"]
+	quest.1D891C596F3E0CDD.quest_subtitle: "苹果酒"
+	quest.1D891C596F3E0CDD.title: "苹果酒"
+	quest.1EC3AD87BFC95252.quest_desc: ["卷轴来自宝箱或怪物掉落；右键地面即可部署。"]
+	quest.1EC3AD87BFC95252.quest_subtitle: "宝箱/怪物掉落"
+	quest.1EC3AD87BFC95252.title: "第一张卷轴"
+	quest.1FD9EBFFC6F1F3C2.quest_desc: ["用 CBC 的钢工艺烧出钢锭，为火炮做准备。"]
+	quest.1FD9EBFFC6F1F3C2.quest_subtitle: "为火炮备料"
+	quest.1FD9EBFFC6F1F3C2.title: "炼钢"
+	quest.22913990092057DD.quest_desc: ["用传送带把机器串起来。"]
+	quest.22913990092057DD.quest_subtitle: "传送带"
+	quest.22913990092057DD.title: "传送带"
+	quest.248FCE53764A6893.quest_desc: [
+		"找村庄或自己搭个小屋，放下床和箱子。"
+		"用 OPAC 圈一块自己的地，之后所有建设都从这里开始。"
+	]
+	quest.248FCE53764A6893.quest_subtitle: "床、箱子、安全屋"
+	quest.248FCE53764A6893.title: "建立第一个落脚点"
+	quest.263C43ED7D85BE27.quest_desc: ["稻米需要水边种植，是炒饭的主料。"]
+	quest.263C43ED7D85BE27.quest_subtitle: "稻米"
+	quest.263C43ED7D85BE27.title: "稻米"
+	quest.27539BE091D038FF.quest_desc: ["炉灶可以同时烧菜和当燃料灶台。"]
+	quest.27539BE091D038FF.quest_subtitle: "炉灶"
+	quest.27539BE091D038FF.title: "炉灶"
+	quest.287EF22261EA0676.quest_desc: ["先做砧板（砍树+木板）和燧石刀，农夫乐事的起点。"]
+	quest.287EF22261EA0676.quest_subtitle: "砧板与刀"
+	quest.287EF22261EA0676.title: "砧板与刀"
+	quest.28928D6B57C3A284.quest_desc: ["夸克的竖半砖，建筑细节神器。"]
+	quest.28928D6B57C3A284.quest_subtitle: "竖半砖"
+	quest.28928D6B57C3A284.title: "竖半砖"
+	quest.29DE7F163E1FC74F.quest_desc: ["把物品放进玻璃框展示。"]
+	quest.29DE7F163E1FC74F.quest_subtitle: "玻璃物品框"
+	quest.29DE7F163E1FC74F.title: "玻璃物品框"
+	quest.29FF5CA6A80C685A.quest_desc: ["用农夫乐事的狗粮喂狼。"]
+	quest.29FF5CA6A80C685A.quest_subtitle: "喂狗粮"
+	quest.29FF5CA6A80C685A.title: "喂狗粮"
+	quest.2A0D3E6610390C74.quest_desc: ["用命名牌给宠物起个名字。"]
+	quest.2A0D3E6610390C74.quest_subtitle: "给宠物命名"
+	quest.2A0D3E6610390C74.title: "给宠物命名"
+	quest.2B2E1544DA94986E.quest_desc: ["自动收集种子的袋子。"]
+	quest.2B2E1544DA94986E.quest_subtitle: "种子袋"
+	quest.2B2E1544DA94986E.title: "种子袋"
+	quest.2C686A4027DE9FC1.quest_desc: ["做一张地图并标记航点。"]
+	quest.2C686A4027DE9FC1.quest_subtitle: "地图与航点"
+	quest.2C686A4027DE9FC1.title: "地图与航点"
+	quest.2C6A976C2A2CCDED.quest_desc: ["工具坏了自动从背包补一把。"]
+	quest.2C6A976C2A2CCDED.quest_subtitle: "自动补工具"
+	quest.2C6A976C2A2CCDED.title: "自动补工具"
+	quest.2CE69C71EF1613CB.quest_desc: ["用骨头驯服狼，它会跟着你。"]
+	quest.2CE69C71EF1613CB.quest_subtitle: "驯服一只狼"
+	quest.2CE69C71EF1613CB.title: "驯服一只狼"
+	quest.2D8C712410A9CB03.quest_desc: ["骑上马跑一段路。"]
+	quest.2D8C712410A9CB03.quest_subtitle: "骑乘"
+	quest.2D8C712410A9CB03.title: "骑乘"
+	quest.2FD4E6DA9572050C.quest_desc: ["按 N 整理一次背包（在控制里绑定 Quark 的 Sort Inventory）。"]
+	quest.2FD4E6DA9572050C.quest_subtitle: "整理背包"
+	quest.2FD4E6DA9572050C.title: "整理背包"
+	quest.30519E41CB688427.quest_desc: ["先砍树，做工作台。"]
+	quest.30519E41CB688427.quest_subtitle: "先造工作台"
+	quest.30519E41CB688427.title: "造出工作台"
+	quest.30BFE8F32F3E01BB.quest_desc: ["马饲料能加速马匹恢复。"]
+	quest.30BFE8F32F3E01BB.quest_subtitle: "马饲料"
+	quest.30BFE8F32F3E01BB.title: "马饲料"
+	quest.310A701FA36E3E64.quest_desc: ["工厂仪表让产线可视化。"]
+	quest.310A701FA36E3E64.title: "工厂仪表"
+	quest.3223F53B15C80F10.quest_desc: ["站在势力区块内执行 /war start，体验一次攻城。"]
+	quest.3223F53B15C80F10.quest_subtitle: "站进区块 /war start"
+	quest.3223F53B15C80F10.title: "首次宣战"
+	quest.338B034334B9E430.quest_desc: ["牛肉 + 蔬菜，硬菜。"]
+	quest.338B034334B9E430.quest_subtitle: "牛肉炖菜"
+	quest.338B034334B9E430.title: "牛肉炖菜"
+	quest.34400357D4876967.quest_desc: ["节日级别的硬菜。"]
+	quest.34400357D4876967.quest_subtitle: "蜜汁火腿"
+	quest.34400357D4876967.title: "蜜汁火腿"
+	quest.347D9E89FA2129F1.quest_desc: ["给宠物搭一个有床和食物的小屋。"]
+	quest.347D9E89FA2129F1.quest_subtitle: "宠物小屋"
+	quest.347D9E89FA2129F1.title: "宠物小屋"
+	quest.355C9A89D3E00376.quest_desc: ["用命名牌给宠物起个名字。"]
+	quest.355C9A89D3E00376.quest_subtitle: "给宠物命名"
+	quest.355C9A89D3E00376.title: "给宠物命名"
+	quest.35ADB89AF5FECAB5.quest_desc: ["用马饲料恢复马匹。"]
+	quest.35ADB89AF5FECAB5.quest_subtitle: "马饲料"
+	quest.35ADB89AF5FECAB5.title: "马饲料"
+	quest.366B2E63A0AB4794.quest_desc: ["番茄种子可以在野外或村庄找到。"]
+	quest.366B2E63A0AB4794.quest_subtitle: "番茄"
+	quest.366B2E63A0AB4794.title: "番茄"
+	quest.3774075A895CD8CD.quest_desc: ["按手册进入 RTS 模式，选中部队、移动、攻击。"]
+	quest.3774075A895CD8CD.quest_subtitle: "选中、移动、攻击"
+	quest.3774075A895CD8CD.title: "用 RTS 指挥一次"
+	quest.37D40204A3F00BCC.quest_desc: ["骑上马跑一段路。"]
+	quest.37D40204A3F00BCC.quest_subtitle: "骑乘"
+	quest.37D40204A3F00BCC.title: "骑乘"
+	quest.387F99A7EE30E121.quest_desc: ["滑槽把物品送上高处。"]
+	quest.387F99A7EE30E121.title: "滑槽"
+	quest.3A4422972F7A5744.quest_desc: ["轴 + 齿轮，机械动力的骨架。"]
+	quest.3A4422972F7A5744.title: "传动轴与齿轮"
+	quest.3C86F208C26F3DAA.quest_desc: ["会飞回来的镐子。"]
+	quest.3C86F208C26F3DAA.quest_subtitle: "Pickarang"
+	quest.3C86F208C26F3DAA.title: "Pickarang"
+	quest.3D13351FAC47C950.quest_desc: ["炉灶可以同时烧菜和当燃料灶台。"]
+	quest.3D13351FAC47C950.quest_subtitle: "炉灶"
+	quest.3D13351FAC47C950.title: "炉灶"
+	quest.3D3D8B21DDAED620.quest_desc: ["交 16 份熟饭，换兵员卷轴。在任务书里点击提交。"]
+	quest.3D3D8B21DDAED620.quest_subtitle: "军粮合同"
+	quest.3D3D8B21DDAED620.title: "军粮合同"
+	quest.3D87D7E1212C76C3.quest_desc: ["做一张地图并标记航点。"]
+	quest.3D87D7E1212C76C3.quest_subtitle: "地图与航点"
+	quest.3D87D7E1212C76C3.title: "地图与航点"
+	quest.3DD1B3A20B3D4A55.quest_desc: ["稻米需要水边种植，是炒饭的主料。"]
+	quest.3DD1B3A20B3D4A55.quest_subtitle: "稻米"
+	quest.3DD1B3A20B3D4A55.title: "稻米"
+	quest.3E1A35C3EAE97734.quest_desc: ["装配台把列车变成移动工厂。"]
+	quest.3E1A35C3EAE97734.title: "装配台"
+	quest.3E863BE8F54AC6FC.quest_desc: ["牛肉 + 蔬菜，硬菜。"]
+	quest.3E863BE8F54AC6FC.quest_subtitle: "牛肉炖菜"
+	quest.3E863BE8F54AC6FC.title: "牛肉炖菜"
+	quest.3EEEF39752068835.quest_desc: ["交 16 份熟饭，换兵员卷轴。在任务书里点击提交。"]
+	quest.3EEEF39752068835.quest_subtitle: "军粮合同"
+	quest.3EEEF39752068835.title: "军粮合同"
+	quest.3FA2FF29569B7D5E.quest_desc: ["给狼穿上狼铠，它会更耐打。"]
+	quest.3FA2FF29569B7D5E.quest_subtitle: "狼铠"
+	quest.3FA2FF29569B7D5E.title: "狼铠"
+	quest.40F48F285BEC07F5.quest_desc: ["风力轴承适合高处的大功率输出。"]
+	quest.40F48F285BEC07F5.title: "风力轴承"
+	quest.41E15C7F8E7CFB68.quest_desc: ["猫会偶尔给你带礼物。"]
+	quest.41E15C7F8E7CFB68.quest_subtitle: "猫的礼物"
+	quest.41E15C7F8E7CFB68.title: "猫的礼物"
+	quest.439D34791B275AC4.quest_desc: ["煎锅适合做汉堡肉饼和煎蛋。"]
+	quest.439D34791B275AC4.quest_subtitle: "煎锅"
+	quest.439D34791B275AC4.title: "煎锅"
+	quest.43F2D77D6A89CED6.quest_desc: ["稻米 + 鸡蛋，军粮首选。"]
+	quest.43F2D77D6A89CED6.quest_subtitle: "炒饭"
+	quest.43F2D77D6A89CED6.title: "炒饭"
+	quest.448B8D94B555B68E.quest_desc: ["快速铺路的工具。"]
+	quest.448B8D94B555B68E.quest_subtitle: "Trowel"
+	quest.448B8D94B555B68E.title: "Trowel"
+	quest.474C1C0C8A2EBDC1.quest_desc: ["铜背罐给手动机器供气。"]
+	quest.474C1C0C8A2EBDC1.title: "铜背罐"
+	quest.4840FE5A32734452.quest_desc: ["马饲料能加速马匹恢复。"]
+	quest.4840FE5A32734452.quest_subtitle: "马饲料"
+	quest.4840FE5A32734452.title: "马饲料"
+	quest.4C7EC83E781344C6.quest_desc: ["用生鱼驯服猫。"]
+	quest.4C7EC83E781344C6.quest_subtitle: "驯服一只猫"
+	quest.4C7EC83E781344C6.title: "驯服一只猫"
+	quest.4C8E479E267AE72F.quest_desc: ["用农夫乐事的狗粮喂狼。"]
+	quest.4C8E479E267AE72F.quest_subtitle: "喂狗粮"
+	quest.4C8E479E267AE72F.title: "喂狗粮"
+	quest.4D8510E0299B7A33.quest_desc: ["两只驯服的狼可以繁殖。"]
+	quest.4D8510E0299B7A33.quest_subtitle: "繁殖狼"
+	quest.4D8510E0299B7A33.title: "繁殖狼"
+	quest.4E22D1438E8D160E.quest_desc: ["找到 HYW 强盗据点，清掉至少 5 名强盗。"]
+	quest.4E22D1438E8D160E.quest_subtitle: "清掉一个据点"
+	quest.4E22D1438E8D160E.title: "清剿一个强盗营地"
+	quest.4E453642277B00C4.quest_desc: ["一锅热汤，回复效果不错。"]
+	quest.4E453642277B00C4.quest_subtitle: "蔬菜汤"
+	quest.4E453642277B00C4.title: "蔬菜汤"
+	quest.4E81DE3F33C3C3BF.quest_desc: ["铁刀比燧石刀耐用，切菜也更快。"]
+	quest.4E81DE3F33C3C3BF.quest_subtitle: "更快的刀"
+	quest.4E81DE3F33C3C3BF.title: "更快的刀"
+	quest.4F0C990A173E2F43.quest_desc: ["（军需合同）交付精密构件，换取远程兵种卷轴。在任务书里点击该任务提交物品。"]
+	quest.4F0C990A173E2F43.quest_subtitle: "交精密构件换弓手"
+	quest.4F0C990A173E2F43.title: "军需合同：精密构件"
+	quest.50E55847CE86D110.quest_desc: ["自动化生产安山合金，为黄铜做准备。"]
+	quest.50E55847CE86D110.quest_subtitle: "自动化产线"
+	quest.50E55847CE86D110.title: "安山合金量产"
+	quest.520A27225477A891.quest_desc: ["苹果酿的饮料，恢复不错。"]
+	quest.520A27225477A891.quest_subtitle: "苹果酒"
+	quest.520A27225477A891.title: "苹果酒"
+	quest.528AEA6E5B91E4A9.quest_desc: ["夸克的绳子可以垂直攀爬。"]
+	quest.528AEA6E5B91E4A9.quest_subtitle: "绳子"
+	quest.528AEA6E5B91E4A9.title: "绳子"
+	quest.5389507E9E74A606.quest_desc: ["招募一名攻城工程师操作攻城器。"]
+	quest.5389507E9E74A606.quest_subtitle: "攻城工程师"
+	quest.5389507E9E74A606.title: "攻城工程师"
+	quest.53D99CD9AED22D25.quest_desc: ["先做砧板（砍树+木板）和燧石刀，农夫乐事的起点。"]
+	quest.53D99CD9AED22D25.quest_subtitle: "砧板与刀"
+	quest.53D99CD9AED22D25.title: "砧板与刀"
+	quest.53DC4C9EA762B536.quest_desc: ["铁马铠能显著提高马的生存。"]
+	quest.53DC4C9EA762B536.quest_subtitle: "马铠"
+	quest.53DC4C9EA762B536.title: "马铠"
+	quest.5494E24B32427453.quest_desc: ["两只驯服的狼可以繁殖。"]
+	quest.5494E24B32427453.quest_subtitle: "繁殖狼"
+	quest.5494E24B32427453.title: "繁殖狼"
+	quest.56A089692959B426.quest_desc: ["卷心菜可以做成卷心菜卷。"]
+	quest.56A089692959B426.quest_subtitle: "卷心菜"
+	quest.56A089692959B426.title: "卷心菜"
+	quest.57A93467B479B58C.quest_desc: ["给基地配一个熔炉和箱子。"]
+	quest.57A93467B479B58C.quest_subtitle: "熔炉与箱子"
+	quest.57A93467B479B58C.title: "熔炉与箱子"
+	quest.57ECC025D38A69C0.quest_desc: ["稻米需要水边种植，是炒饭的主料。"]
+	quest.57ECC025D38A69C0.quest_subtitle: "稻米"
+	quest.57ECC025D38A69C0.title: "稻米"
+	quest.58090D30B071D1B4.quest_desc: ["用肉和谷物做狗粮，宠物分支的必需品。"]
+	quest.58090D30B071D1B4.quest_subtitle: "狗粮"
+	quest.58090D30B071D1B4.title: "狗粮"
+	quest.58A82B26B880530F.quest_desc: ["在箱子里用搜索栏找物品。"]
+	quest.58A82B26B880530F.quest_subtitle: "箱内搜索"
+	quest.58A82B26B880530F.title: "箱内搜索"
+	quest.59477C91DB6D5143.quest_desc: ["煎锅适合做汉堡肉饼和煎蛋。"]
+	quest.59477C91DB6D5143.quest_subtitle: "煎锅"
+	quest.59477C91DB6D5143.title: "煎锅"
+	quest.5A89F310F8ECC9D6.quest_desc: ["同时拥有狼、猫、马、战犬。"]
+	quest.5A89F310F8ECC9D6.quest_subtitle: "动物园"
+	quest.5A89F310F8ECC9D6.title: "动物园"
+	quest.5B6546AD24596FBE.quest_desc: ["按 N 整理一次背包（在控制里绑定 Quark 的 Sort Inventory）。"]
+	quest.5B6546AD24596FBE.quest_subtitle: "整理背包"
+	quest.5B6546AD24596FBE.title: "整理背包"
+	quest.5C8E8EF3EDB7C223.quest_desc: ["安山机壳是机器的外壳，先量产。"]
+	quest.5C8E8EF3EDB7C223.title: "安山机壳"
+	quest.5D08A8258F7313E5.quest_desc: ["安山岩 + 铁粒 → 安山合金，Create 的起点。"]
+	quest.5D08A8258F7313E5.quest_subtitle: "Create 的起点"
+	quest.5D08A8258F7313E5.title: "第一块安山合金"
+	quest.5D2219FBE3E3B6E2.quest_desc: ["Shift+点击快速转移整组物品。"]
+	quest.5D2219FBE3E3B6E2.quest_subtitle: "快速转移"
+	quest.5D2219FBE3E3B6E2.title: "快速转移"
+	quest.5D6D627311595FEF.quest_desc: ["做一张地图并标记航点。"]
+	quest.5D6D627311595FEF.quest_subtitle: "地图与航点"
+	quest.5D6D627311595FEF.title: "地图与航点"
+	quest.5E24E96608C8D56B.quest_desc: ["按 N 整理一次背包（在控制里绑定 Quark 的 Sort Inventory）。"]
+	quest.5E24E96608C8D56B.quest_subtitle: "整理背包"
+	quest.5E24E96608C8D56B.title: "整理背包"
+	quest.5E2E2C587FEB1730.quest_desc: ["牛肉 + 蔬菜，硬菜。"]
+	quest.5E2E2C587FEB1730.quest_subtitle: "牛肉炖菜"
+	quest.5E2E2C587FEB1730.title: "牛肉炖菜"
+	quest.61A03973C5E46EC0.quest_desc: ["铜 + 锌 → 黄铜，机械动力的核心材料。"]
+	quest.61A03973C5E46EC0.quest_subtitle: "机械动力核心"
+	quest.61A03973C5E46EC0.title: "黄铜"
+	quest.6259B066C3019E9B.quest_desc: ["交 16 份熟饭，换兵员卷轴。在任务书里点击提交。"]
+	quest.6259B066C3019E9B.quest_subtitle: "军粮合同"
+	quest.6259B066C3019E9B.title: "军粮合同"
+	quest.62C59776FE500FD3.quest_desc: ["扩张领地，建立前线补给点。"]
+	quest.62C59776FE500FD3.quest_subtitle: "扩张与前线补给"
+	quest.62C59776FE500FD3.title: "占领五块势力地"
+	quest.649E6446772C27A2.quest_desc: ["把队伍扩到 10 人。"]
+	quest.649E6446772C27A2.quest_subtitle: "十人小队"
+	quest.649E6446772C27A2.title: "十人小队"
+	quest.64AFB9A31473BEF5.quest_desc: ["用生鱼驯服猫。"]
+	quest.64AFB9A31473BEF5.quest_subtitle: "驯服一只猫"
+	quest.64AFB9A31473BEF5.title: "驯服一只猫"
+	quest.6542D4667AA9B95F.quest_desc: ["车站让列车自动停靠。"]
+	quest.6542D4667AA9B95F.title: "车站"
+	quest.65E0D72923A6DC19.quest_desc: ["马饲料能加速马匹恢复。"]
+	quest.65E0D72923A6DC19.quest_subtitle: "马饲料"
+	quest.65E0D72923A6DC19.title: "马饲料"
+	quest.6807CA57DFD4509C.quest_desc: ["给基地配一个熔炉和箱子。"]
+	quest.6807CA57DFD4509C.quest_subtitle: "熔炉与箱子"
+	quest.6807CA57DFD4509C.title: "熔炉与箱子"
+	quest.6907508145A22278.quest_desc: ["一键换上一整套护甲。"]
+	quest.6907508145A22278.quest_subtitle: "快速换甲"
+	quest.6907508145A22278.title: "快速换甲"
+	quest.694B813A43690806.quest_desc: ["HYW 的强盗战犬卷轴，部署一只战犬。"]
+	quest.694B813A43690806.quest_subtitle: "战犬卷轴"
+	quest.694B813A43690806.title: "战犬卷轴"
+	quest.69754F56E747F9F4.quest_desc: ["机械臂是自动化分拣的关键。"]
+	quest.69754F56E747F9F4.quest_subtitle: "机械臂"
+	quest.69754F56E747F9F4.title: "机械臂"
+	quest.69CE0A39761CCAC9.quest_desc: ["无线红石，产线联动的关键。"]
+	quest.69CE0A39761CCAC9.title: "红石链接"
+	quest.6B4367B71AA39152.quest_desc: ["夸克的竖半砖，建筑细节神器。"]
+	quest.6B4367B71AA39152.quest_subtitle: "竖半砖"
+	quest.6B4367B71AA39152.title: "竖半砖"
+	quest.6BA63755CA705E5E.quest_desc: ["整只烤鸡，适合宴请。"]
+	quest.6BA63755CA705E5E.quest_subtitle: "烤鸡盛宴"
+	quest.6BA63755CA705E5E.title: "烤鸡盛宴"
+	quest.6CBFB08EF0FC3E04.quest_desc: ["摆一桌菜：烤鸡、火腿、汤和酒。"]
+	quest.6CBFB08EF0FC3E04.quest_subtitle: "丰收宴"
+	quest.6CBFB08EF0FC3E04.title: "丰收宴"
+	quest.6DAEE90F12C86067.quest_desc: ["猫会偶尔给你带礼物。"]
+	quest.6DAEE90F12C86067.quest_subtitle: "猫的礼物"
+	quest.6DAEE90F12C86067.title: "猫的礼物"
+	quest.6E4BAD382C2F1603.quest_desc: ["用生鱼驯服猫。"]
+	quest.6E4BAD382C2F1603.quest_subtitle: "驯服一只猫"
+	quest.6E4BAD382C2F1603.title: "驯服一只猫"
+	quest.6E811EBA2DB28BA5.quest_desc: ["用 OPAC 的 claim 功能把你的基地圈起来。"]
+	quest.6E811EBA2DB28BA5.quest_subtitle: "OPAC 圈地"
+	quest.6E811EBA2DB28BA5.title: "圈一块地"
+	quest.70027567537B96A2.quest_desc: ["煎锅适合做汉堡肉饼和煎蛋。"]
+	quest.70027567537B96A2.quest_subtitle: "煎锅"
+	quest.70027567537B96A2.title: "煎锅"
+	quest.709A0E1FC3B3701D.quest_desc: ["压床是金属板生产线的心脏。"]
+	quest.709A0E1FC3B3701D.title: "机械压床"
+	quest.70CC561ABB53BFB4.quest_desc: ["用骨头驯服狼，它会跟着你。"]
+	quest.70CC561ABB53BFB4.quest_subtitle: "驯服一只狼"
+	quest.70CC561ABB53BFB4.title: "驯服一只狼"
+	quest.719FD6C66308DB78.quest_desc: ["洋葱是炖菜和汤的基础。"]
+	quest.719FD6C66308DB78.quest_subtitle: "洋葱"
+	quest.719FD6C66308DB78.title: "洋葱"
+	quest.72512596FD0B534B.quest_desc: ["苹果酿的饮料，恢复不错。"]
+	quest.72512596FD0B534B.quest_subtitle: "苹果酒"
+	quest.72512596FD0B534B.title: "苹果酒"
+	quest.7297AE4749F30B71.quest_desc: ["工具坏了自动从背包补一把。"]
+	quest.7297AE4749F30B71.quest_subtitle: "自动补工具"
+	quest.7297AE4749F30B71.title: "自动补工具"
+	quest.72EC99E9627F2C0C.quest_desc: ["卷心菜可以做成卷心菜卷。"]
+	quest.72EC99E9627F2C0C.quest_subtitle: "卷心菜"
+	quest.72EC99E9627F2C0C.title: "卷心菜"
+	quest.73A04F2B744C8408.quest_desc: ["夸克的竖半砖，建筑细节神器。"]
+	quest.73A04F2B744C8408.quest_subtitle: "竖半砖"
+	quest.73A04F2B744C8408.title: "竖半砖"
+	quest.74209F394DDA724A.quest_desc: ["轨道是工业物流的动脉。"]
+	quest.74209F394DDA724A.title: "列车轨道"
+	quest.74DF9E2A6EAD17BD.quest_desc: [
+		"欢迎来到梦想与远征。"
+		"先领一份启程包：手册、卷轴、护甲和食物。"
+	]
+	quest.74DF9E2A6EAD17BD.quest_subtitle: "第一份补给"
+	quest.74DF9E2A6EAD17BD.title: "领取启程补给"
+	quest.757B7DDD7B64D59B.quest_desc: [
+		"每隔一段时间可以再领一份口粮与火把。"
+		"右键任务书 → 领取奖励。"
+	]
+	quest.757B7DDD7B64D59B.quest_subtitle: "每两小时可再领"
+	quest.757B7DDD7B64D59B.title: "每日补给（可重复）"
+	quest.76F28D306583E945.quest_desc: ["交 16 份狗粮，换背包升级件。在任务书里点击提交。"]
+	quest.76F28D306583E945.quest_subtitle: "狗粮合同"
+	quest.76F28D306583E945.title: "狗粮合同"
+	quest.787FD23ED14DAB35.quest_desc: ["用命名牌给宠物起个名字。"]
+	quest.787FD23ED14DAB35.quest_subtitle: "给宠物命名"
+	quest.787FD23ED14DAB35.title: "给宠物命名"
+	quest.793C32F48B0CB9A9.quest_desc: ["（军需合同）交付 Create 生产的物资，换取兵员卷轴。在任务书里点击该任务提交物品。"]
+	quest.793C32F48B0CB9A9.quest_subtitle: "交黄铜板换兵"
+	quest.793C32F48B0CB9A9.title: "军需合同：黄铜板"
+	quest.79549BFDA80E7575.quest_desc: ["HYW 的 desert_fortified_oasis：沙漠掠袭者的老巢。"]
+	quest.79549BFDA80E7575.quest_subtitle: "沙漠掠袭者老巢"
+	quest.79549BFDA80E7575.title: "侦察绿洲要塞"
+	quest.7A3749957F6C2B8C.quest_desc: ["把队伍扩到 10 人。"]
+	quest.7A3749957F6C2B8C.quest_subtitle: "十人小队"
+	quest.7A3749957F6C2B8C.title: "十人小队"
+	quest.7BA8577F78A43DD1.quest_desc: ["Shift+点击快速转移整组物品。"]
+	quest.7BA8577F78A43DD1.quest_subtitle: "快速转移"
+	quest.7BA8577F78A43DD1.title: "快速转移"
+	quest.7DA7B8953979A91D.quest_desc: ["用骨头驯服狼，它会跟着你。"]
+	quest.7DA7B8953979A91D.quest_subtitle: "驯服一只狼"
+	quest.7DA7B8953979A91D.title: "驯服一只狼"
+	quest.7DC45F97DA5D197B.quest_desc: ["用农夫乐事的狗粮喂狼。"]
+	quest.7DC45F97DA5D197B.quest_subtitle: "喂狗粮"
+	quest.7DC45F97DA5D197B.title: "喂狗粮"
+	quest.7F0F1974B1D6907C.quest_desc: ["让战犬跟随你作战。"]
+	quest.7F0F1974B1D6907C.quest_subtitle: "战犬随行"
+	quest.7F0F1974B1D6907C.title: "战犬随行"
+	chapter.0C62E2EDD3E2069E.chapter_subtitle: ["从水轮到调速，先确认方向和应力余量，再挂负载。"]
+	chapter.0C62E2EDD3E2069E.title: "旋转动力"
+	chapter.177B355BC512E5EB.chapter_subtitle: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。"]
+	chapter.177B355BC512E5EB.title: "田间四季"
+	chapter.1CE0AC686490B090.chapter_subtitle: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。"]
+	chapter.1CE0AC686490B090.title: "火枪与训练"
+	chapter.4C36215ABE4FCB65.chapter_subtitle: ["先空载检查机器转速和物料路径。盆配方按 JEI 检查热源与流体。"]
+	chapter.4C36215ABE4FCB65.title: "工坊自动化"
+	chapter.5ADEE45DF779F939.chapter_subtitle: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。"]
+	chapter.5ADEE45DF779F939.title: "远方地标"
+	chapter.5BC88CAFCE7054F8.chapter_subtitle: ["先空车走一遍行程，确认轨道两端和停机位置不会占用作物空间。"]
+	chapter.5BC88CAFCE7054F8.title: "田间自动化"
+	chapter.5E44BFECFB06527B.chapter_subtitle: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。"]
+	chapter.5E44BFECFB06527B.title: "战役准备"
+	chapter.7576A3760C63806C.chapter_subtitle: ["从安全出口反向探索。可选调查关注补给箱、厨房、工坊或军械库的区别。"]
+	chapter.7576A3760C63806C.title: "遗迹补给"
+	chapter.75A172242A2B766D.chapter_subtitle: ["布置睡眠、收纳和日常工作区，把危险工序与宠物区隔开。"]
+	chapter.75A172242A2B766D.title: "家园建设"
+	chapter.0A02660DB462C1B9.chapter_subtitle: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。"]
+	chapter.0A02660DB462C1B9.title: "据点与补给"
+	chapter.13B540AFE55FD01D.chapter_subtitle: ["先把输入和输出分开，再用车站或过滤器处理多条线路。"]
+	chapter.13B540AFE55FD01D.title: "物流与铁路"
+	chapter.36E3F2E02FCCC502.chapter_subtitle: ["进村先观察农场、面包房和铁匠铺。公共宝箱的额外补给属于支线奖励。"]
+	chapter.36E3F2E02FCCC502.title: "村落调查"
+	chapter.11A9144FCAD61A00.chapter_subtitle: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。"]
+	chapter.11A9144FCAD61A00.title: "从磨坊到烤炉"
+	chapter.0C57EBDB13B55CFE.chapter_subtitle: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。"]
+	chapter.0C57EBDB13B55CFE.title: "厨锅开火"
+	chapter.1278DBD61CCB8B4C.chapter_subtitle: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。"]
+	chapter.1278DBD61CCB8B4C.title: "兵员编制"
+	chapter.79FE3A29B027E528.chapter_subtitle: ["用可补给的轻装出门，地图和撤退路线比多带装备重要。"]
+	chapter.79FE3A29B027E528.title: "远行准备"
+	chapter.72F6D757934FEDE3.chapter_subtitle: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。"]
+	chapter.72F6D757934FEDE3.title: "葡萄与酿酒"
+	chapter_group.01643A218C6A9DF4.title: "家园与伙伴"
+	chapter_group.669605009D3D37DF.title: "远征与寻宝"
+	chapter_group.694D9840A70126D8.title: "机械与工坊"
+	chapter_group.136C2476B3C4FF9B.title: "领地与征战"
+	chapter_group.27E9091BEF0C4DA3.title: "舌尖上的MC"
+	quest.0017DF03124D55CA.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.0017DF03124D55CA.title: "记录极险任务护符"
+	quest.005D07CDA8E0E331.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.005D07CDA8E0E331.title: "建立仓储控制"
+	quest.00F196995DDE15F9.quest_desc: ["先把输入和输出分开，再用车站或过滤器处理多条线路。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.00F196995DDE15F9.title: "铺设试验轨道"
+	quest.037E5554C41D4593.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "配方线索：Flour、minecraft:sugar、bakery:eggs、minecraft:water。数量与替代项请查看 JEI。"]
+	quest.037E5554C41D4593.title: "和甜面团"
+	quest.043C717119DDEACC.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "配方线索：Rice Bale。数量与替代项请查看 JEI。"]
+	quest.043C717119DDEACC.title: "分离稻穗"
+	quest.04CBEA22DF901C9D.quest_desc: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.04CBEA22DF901C9D.title: "记录玄武岩地形"
+	quest.06206302E270B2FD.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：minecraft:sugar、minecraft:cocoa_beans、bakery:milk。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.06206302E270B2FD.title: "松露巧克力装罐"
+	quest.09339654C97DF841.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "配方线索：farm_and_charm:milk。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.09339654C97DF841.title: "从液态奶制黄油"
+	quest.096F0C0AA9C9A4AE.quest_desc: ["先把输入和输出分开，再用车站或过滤器处理多条线路。", "配方线索：Train Casing、minecraft:compass。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.096F0C0AA9C9A4AE.title: "为列车设站"
+	quest.09F077FC8EBDDB54.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.09F077FC8EBDDB54.title: "记录二阶盾兵"
+	quest.0B525CE3668FEAFE.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.0B525CE3668FEAFE.title: "记录高阶骑乘枪兵"
+	quest.0F45697BEBBBDD3A.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "配方线索：minecraft:book、minecraft:gold_ingot。数量与替代项请查看 JEI。"]
+	quest.0F45697BEBBBDD3A.title: "查阅征服者手册"
+	quest.1059E96B7696F852.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.1059E96B7696F852.title: "种植棕蘑菇菌落"
+	quest.10B76AB353C00CD8.quest_desc: ["用可补给的轻装出门，地图和撤退路线比多带装备重要。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.10B76AB353C00CD8.title: "带上拴绳"
+	quest.12271CE4D0F10578.quest_desc: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.12271CE4D0F10578.title: "设置装备翻新位"
+	quest.123E8606A45B68E7.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.123E8606A45B68E7.title: "白葡萄出汁"
+	quest.12DA18D7EC3C575F.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.12DA18D7EC3C575F.title: "寻找车前草"
+	quest.15211508199685F9.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.15211508199685F9.title: "建立精锐护甲储备"
+	quest.15FB8AFC8E775343.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：Corn、Flour。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.15FB8AFC8E775343.title: "煮玉米糁"
+	quest.169652AD6AC28432.quest_desc: ["布置睡眠、收纳和日常工作区，把危险工序与宠物区隔开。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.169652AD6AC28432.title: "布置共享阅览台"
+	quest.18A92B08CFF3AF0C.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：farm_and_charm:water_bottles、Wild Ribwort。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.18A92B08CFF3AF0C.title: "车前草茶入瓶"
+	quest.18D7B1E40B46F4D9.quest_desc: ["用可补给的轻装出门，地图和撤退路线比多带装备重要。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.18D7B1E40B46F4D9.title: "检索可用的船"
+	quest.193D2577D3E292FA.quest_desc: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.193D2577D3E292FA.title: "收集烈焰棒"
+	quest.198C34B2AFC5F807.quest_desc: ["从水轮到调速，先确认方向和应力余量，再挂负载。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.198C34B2AFC5F807.title: "让动力转向"
+	quest.1B517E8008E91300.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "配方线索：Straw Bale。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.1B517E8008E91300.title: "收集覆盖用稻草"
+	quest.1B82650F9CC1486B.quest_desc: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.1B82650F9CC1486B.title: "布置射击靶"
+	quest.1B8D19795C8F42E9.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.1B8D19795C8F42E9.title: "建立运输工位"
+	quest.1C0EA79BF746E068.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "配方线索：minecraft:sweet_berries。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.1C0EA79BF746E068.title: "用甜浆果酿诺瓦酒"
+	quest.1D3E01D1282B7B4E.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "配方线索：Red Grape。数量与替代项请查看 JEI。"]
+	quest.1D3E01D1282B7B4E.title: "种下红葡萄"
+	quest.1E816D0CC28CE966.quest_desc: ["从安全出口反向探索。可选调查关注补给箱、厨房、工坊或军械库的区别。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.1E816D0CC28CE966.title: "收集远征马具"
+	quest.1EAD902EDADCF881.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.1EAD902EDADCF881.title: "准备空酒瓶"
+	quest.20DE90028739B6B4.quest_desc: ["先空车走一遍行程，确认轨道两端和停机位置不会占用作物空间。", "配方线索：Andesite Casing、Chute。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.20DE90028739B6B4.title: "设置停靠卸货接口"
+	quest.2149935AEFB9313D.quest_desc: ["从安全出口反向探索。可选调查关注补给箱、厨房、工坊或军械库的区别。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.2149935AEFB9313D.title: "收集洞穴矿晶"
+	quest.22937C6129EA45E8.quest_desc: ["先空载检查机器转速和物料路径。盆配方按 JEI 检查热源与流体。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.22937C6129EA45E8.title: "驱动搅拌头"
+	quest.2300234EA29B7036.quest_desc: ["从水轮到调速，先确认方向和应力余量，再挂负载。", "配方线索：Shaft、minecraft:planks。数量与替代项请查看 JEI。"]
+	quest.2300234EA29B7036.title: "用大齿轮变速"
+	quest.25264FED44A82627.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.25264FED44A82627.title: "准备肥沃土壤"
+	quest.254503DF037D861A.quest_desc: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.254503DF037D861A.title: "配发铁头盔"
+	quest.26D8FD40184B7AE1.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "配方线索：minecraft:sugar、Dough、bakery:milk。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.26D8FD40184B7AE1.title: "烘一片吐司"
+	quest.27A71C201FA94B8A.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "配方线索：Flour、Yeast、minecraft:water。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.27A71C201FA94B8A.title: "揉出基础面团"
+	quest.2C4ABDEE395B894B.quest_desc: ["先空载检查机器转速和物料路径。盆配方按 JEI 检查热源与流体。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.2C4ABDEE395B894B.title: "装配机械压力机"
+	quest.2E47EE540C24B429.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.2E47EE540C24B429.title: "建立农业工位"
+	quest.300DF2ACE0FAAE03.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.300DF2ACE0FAAE03.title: "卷心菜留种"
+	quest.30F7EF12747B3014.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.30F7EF12747B3014.title: "记录一阶盾兵"
+	quest.312C5C8C58BEE4BC.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.312C5C8C58BEE4BC.title: "建立渔业工位"
+	quest.320A5C50EA06542E.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.320A5C50EA06542E.title: "安排伐木工位"
+	quest.339DC1EF97A092C2.quest_desc: ["从安全出口反向探索。可选调查关注补给箱、厨房、工坊或军械库的区别。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.339DC1EF97A092C2.title: "补足远程消耗"
+	quest.33E2319A52145AB2.quest_desc: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.33E2319A52145AB2.title: "带回潜影贝壳"
+	quest.347EFC65AB794818.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.347EFC65AB794818.title: "种植红蘑菇菌落"
+	quest.34CA76E1CA9E23FD.quest_desc: ["布置睡眠、收纳和日常工作区，把危险工序与宠物区隔开。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.34CA76E1CA9E23FD.title: "标记房间和道路"
+	quest.34D449F4195E49F6.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：c:foods/cooked_bacon、minecraft:bowl、c:foods/cooked_egg。数量与替代项请查看 JEI。"]
+	quest.34D449F4195E49F6.title: "上桌培根煎蛋"
+	quest.3769F2F2FDEEC489.quest_desc: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.3769F2F2FDEEC489.title: "合成寻路用末影之眼"
+	quest.37D3301211BF1B1B.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.37D3301211BF1B1B.title: "记录二阶长枪兵"
+	quest.3862453B604A3075.quest_desc: ["从水轮到调速，先确认方向和应力余量，再挂负载。", "配方线索：Andesite Casing、Cogwheel、c:dusts/redstone。数量与替代项请查看 JEI。"]
+	quest.3862453B604A3075.title: "让动力换向"
+	quest.3BDC9D9C5114A045.quest_desc: ["先空车走一遍行程，确认轨道两端和停机位置不会占用作物空间。", "配方线索：Secondary Linear Chassis。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.3BDC9D9C5114A045.title: "连接移动结构"
+	quest.3C72EB229F59ACF7.quest_desc: ["布置睡眠、收纳和日常工作区，把危险工序与宠物区隔开。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.3C72EB229F59ACF7.title: "布置阅读区"
+	quest.3CCF63AF07F8FEF2.quest_desc: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.3CCF63AF07F8FEF2.title: "准备点火工具"
+	quest.3DFAE793602E2420.quest_desc: ["先空车走一遍行程，确认轨道两端和停机位置不会占用作物空间。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.3DFAE793602E2420.title: "装配机械收割机"
+	quest.3E5C5925658DE17F.quest_desc: ["从安全出口反向探索。可选调查关注补给箱、厨房、工坊或军械库的区别。", "配方线索：Golden Apple Crate。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.3E5C5925658DE17F.title: "准备紧急救命物资"
+	quest.3F453A39FF5A2530.quest_desc: ["从水轮到调速，先确认方向和应力余量，再挂负载。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.3F453A39FF5A2530.title: "架起小水轮"
+	quest.41DB8A3505233501.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.41DB8A3505233501.title: "布置陈年酒架"
+	quest.41F3724AA2CFF595.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.41F3724AA2CFF595.title: "分箱储存军粮"
+	quest.4212C9DDC717CE65.quest_desc: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.4212C9DDC717CE65.title: "制作手铳"
+	quest.42C24F85DC74FA30.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.42C24F85DC74FA30.title: "寻找荨麻"
+	quest.433A1402491FE079.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.433A1402491FE079.title: "备好基础口粮"
+	quest.434BBE80C4A28B9C.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "配方线索：c:foods/bread、c:foods/cooked_bacon、c:foods/leafy_green、c:crops/tomato。数量与替代项请查看 JEI。"]
+	quest.434BBE80C4A28B9C.title: "装好培根三明治"
+	quest.43ED927B81A99532.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.43ED927B81A99532.title: "白葡萄丰收"
+	quest.443B78B237DA1920.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "配方线索：minecraft:sugar、minecraft:glowstone_dust。数量与替代项请查看 JEI。"]
+	quest.443B78B237DA1920.title: "准备特殊配方酒"
+	quest.470829C0385CDC5C.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "配方线索：Bag of Strawberries。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.470829C0385CDC5C.title: "收获草莓"
+	quest.49082930BBDE7770.quest_desc: ["用可补给的轻装出门，地图和撤退路线比多带装备重要。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.49082930BBDE7770.title: "准备望远镜"
+	quest.4A8AE564B541DB22.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "配方线索：Flour、minecraft:sugar、bakery:eggs、bakery:milk。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.4A8AE564B541DB22.title: "搅拌蛋糕面团"
+	quest.4D4548C74694FE8A.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：Barley、farm_and_charm:water_bottles、minecraft:egg。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.4D4548C74694FE8A.title: "大麦浓汤"
+	quest.4E24FE8770F60FD1.quest_desc: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.4E24FE8770F60FD1.title: "制作火绳枪"
+	quest.505E497BA377AD7C.quest_desc: ["从安全出口反向探索。可选调查关注补给箱、厨房、工坊或军械库的区别。", "配方线索：c:dyes/black、c:strings、Cardboard。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.505E497BA377AD7C.title: "给远征伙伴命名"
+	quest.5261FC2FEBB70F18.quest_desc: ["从水轮到调速，先确认方向和应力余量，再挂负载。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.5261FC2FEBB70F18.title: "引出动力轴"
+	quest.5264655D5911F422.quest_desc: ["布置睡眠、收纳和日常工作区，把危险工序与宠物区隔开。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.5264655D5911F422.title: "给室内添一幅画"
+	quest.5416B740270EEBDB.quest_desc: ["进村先观察农场、面包房和铁匠铺。公共宝箱的额外补给属于支线奖励。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.5416B740270EEBDB.title: "补齐旅行工具材料"
+	quest.550DD953E3EC5C39.quest_desc: ["进村先观察农场、面包房和铁匠铺。公共宝箱的额外补给属于支线奖励。", "配方线索：Cardboard、minecraft:paper。数量与替代项请查看 JEI。"]
+	quest.550DD953E3EC5C39.title: "补齐村落记录"
+	quest.57072C8883148CF4.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.57072C8883148CF4.title: "组建火绳枪兵"
+	quest.5749224838429F22.quest_desc: ["用可补给的轻装出门，地图和撤退路线比多带装备重要。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.5749224838429F22.title: "准备杂物袋"
+	quest.59A0E06A32A2502C.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "配方线索：farm_and_charm:milk、Oat、Strawberry。数量与替代项请查看 JEI。"]
+	quest.59A0E06A32A2502C.title: "草莓燕麦粥"
+	quest.5A63A74F98DAF36E.quest_desc: ["先空载检查机器转速和物料路径。盆配方按 JEI 检查热源与流体。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.5A63A74F98DAF36E.title: "启动石磨"
+	quest.5A95B0A8ADEB9674.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.5A95B0A8ADEB9674.title: "记录稀有急救储备"
+	quest.5D10858E63F06539.quest_desc: ["先空车走一遍行程，确认轨道两端和停机位置不会占用作物空间。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.5D10858E63F06539.title: "准备机械犁"
+	quest.5E14F9944DF9937E.quest_desc: ["先空载检查机器转速和物料路径。盆配方按 JEI 检查热源与流体。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.5E14F9944DF9937E.title: "给容器定量灌装"
+	quest.5E17166035C8625E.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.5E17166035C8625E.title: "编入长枪兵"
+	quest.5E5965A99F156124.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "配方线索：Oat。数量与替代项请查看 JEI。"]
+	quest.5E5965A99F156124.title: "磨出第一批面粉"
+	quest.5FDA494C37D531B5.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：c:crops/beetroot。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.5FDA494C37D531B5.title: "红菜头浓汤"
+	quest.610D1AF35629E9FF.quest_desc: ["先空车走一遍行程，确认轨道两端和停机位置不会占用作物空间。", "配方线索：Brass Casing、Cogwheel、Electron Tube。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.610D1AF35629E9FF.title: "编写往返行程"
+	quest.61D74D65AE5C5E10.quest_desc: ["先空载检查机器转速和物料路径。盆配方按 JEI 检查热源与流体。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.61D74D65AE5C5E10.title: "用储罐缓存液体"
+	quest.6374D5F40A05040B.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.6374D5F40A05040B.title: "记录三阶盾兵"
+	quest.6563486ED6CC1F35.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "配方线索：Bag of Lettuce。数量与替代项请查看 JEI。"]
+	quest.6563486ED6CC1F35.title: "种植生菜"
+	quest.65C2F235998C15AE.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：Mashed Potatoes、farm_and_charm:cabbage。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.65C2F235998C15AE.title: "包一份饺子"
+	quest.65DB138B31215F59.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.65DB138B31215F59.title: "为高风险据点备料"
+	quest.664E6BC9B84319ED.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.664E6BC9B84319ED.title: "烘烤整张苹果派"
+	quest.6666A6984EA42A42.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "配方线索：c:foods/bread、Beef Patty、c:foods/leafy_green、c:crops/tomato、c:crops/onion。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.6666A6984EA42A42.title: "做一份汉堡"
+	quest.689ECB8722F08A36.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.689ECB8722F08A36.title: "随队携带水桶"
+	quest.6AB298DD4D8003F7.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.6AB298DD4D8003F7.title: "准备攀登材料"
+	quest.6B20A34D8CA17910.quest_desc: ["先空载检查机器转速和物料路径。盆配方按 JEI 检查热源与流体。", "配方线索：Cogwheel、Fluid Pipe。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.6B20A34D8CA17910.title: "为流体定向加压"
+	quest.6B6D1213EABB5244.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.6B6D1213EABB5244.title: "布置临时撤离点"
+	quest.6C195CF9A05AC937.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "配方线索：White Grape。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.6C195CF9A05AC937.title: "种下白葡萄"
+	quest.6D330C5472E0C319.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.6D330C5472E0C319.title: "记录高阶枪兵"
+	quest.6D86A5DAE1B25F56.quest_desc: ["从安全出口反向探索。可选调查关注补给箱、厨房、工坊或军械库的区别。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.6D86A5DAE1B25F56.title: "为坐骑准备护甲"
+	quest.6FDEB952259ECDD3.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.6FDEB952259ECDD3.title: "招募盾兵"
+	quest.71C887BC5A3B1C73.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.71C887BC5A3B1C73.title: "安排采矿工位"
+	quest.731E3AEA764260D9.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "配方线索：minecraft:sugar。数量与替代项请查看 JEI。"]
+	quest.731E3AEA764260D9.title: "酿一批红酒"
+	quest.751434FB13E0F81B.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "配方线索：minecraft:sugar、farm_and_charm:water_bottles、minecraft:wheat。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.751434FB13E0F81B.title: "培养酵母"
+	quest.7753942EB79866D0.quest_desc: ["布置睡眠、收纳和日常工作区，把危险工序与宠物区隔开。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.7753942EB79866D0.title: "装饰窗台"
+	quest.786FBA61CE848628.quest_desc: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.786FBA61CE848628.title: "备齐下界门材料"
+	quest.7959C818E87CE816.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.7959C818E87CE816.title: "架设发酵桶"
+	quest.796845167C961BC6.quest_desc: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.796845167C961BC6.title: "设立武器维护点"
+	quest.7B0389FB9A43745B.quest_desc: ["进村先观察农场、面包房和铁匠铺。公共宝箱的额外补给属于支线奖励。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.7B0389FB9A43745B.title: "识别村落集会点"
+	quest.7B32D4F9B472FFAD.quest_desc: ["先空车走一遍行程，确认轨道两端和停机位置不会占用作物空间。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.7B32D4F9B472FFAD.title: "固定机架和储箱"
+	quest.7D3D1053B3E1E037.quest_desc: ["布置睡眠、收纳和日常工作区，把危险工序与宠物区隔开。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.7D3D1053B3E1E037.title: "布置第一处休息位"
+	quest.0A41D0AA4A10F20A.quest_desc: ["从水轮到调速，先确认方向和应力余量，再挂负载。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.0A41D0AA4A10F20A.title: "准备安山合金"
+	quest.128FD5FABDA210CB.quest_desc: ["用可补给的轻装出门，地图和撤退路线比多带装备重要。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.128FD5FABDA210CB.title: "带上盾牌"
+	quest.2E26364EBC2C5085.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.2E26364EBC2C5085.title: "分割生培根"
+	quest.2BA01D637080E925.quest_desc: ["从水轮到调速，先确认方向和应力余量，再挂负载。", "配方线索：Gearbox。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.2BA01D637080E925.title: "布置竖向传动"
+	quest.3D501B1862D69087.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.3D501B1862D69087.title: "准备失散后重集结"
+	quest.7479721FA45AF005.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "配方线索：minecraft:wheat_seeds、minecraft:bone_meal。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.7479721FA45AF005.title: "给燕麦留种"
+	quest.2B423030073205B1.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.2B423030073205B1.title: "储备弩手训练用具"
+	quest.3FD7A21FE3051F61.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.3FD7A21FE3051F61.title: "设置据点补给点"
+	quest.2DB950F123D81C21.quest_desc: ["用加热的 Create 搅拌盆混合余烬面粉、木炭和红石粉。每批产出一份火药。", "保留原有的怪物掉落与药水灌注路线。可在 JEI 查看加工条件。"]
+	quest.2DB950F123D81C21.title: "储备火药"
+	quest.0852F57A0DDC10F6.quest_desc: ["从安全出口反向探索。可选调查关注补给箱、厨房、工坊或军械库的区别。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.0852F57A0DDC10F6.title: "寻找遗迹金属构件"
+	quest.5B4CA748B0635D39.quest_desc: ["用可补给的轻装出门，地图和撤退路线比多带装备重要。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.5B4CA748B0635D39.title: "携带牲畜补给"
+	quest.0FA7D7AAC2D3EBF0.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：c:crops/potato、minecraft:rabbit、c:crops/carrot。数量与替代项请查看 JEI。"]
+	quest.0FA7D7AAC2D3EBF0.title: "兔肉煲"
+	quest.2E99FF0A96BD3146.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.2E99FF0A96BD3146.title: "准备攻城工程师"
+	quest.78DAED5A3343680F.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.78DAED5A3343680F.title: "红葡萄出汁"
+	quest.5A68E17A3677FB48.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：farm_and_charm:water_bottles、Wild Nettle。数量与替代项请查看 JEI。"]
+	quest.5A68E17A3677FB48.title: "荨麻茶入瓶"
+	quest.37ED13422CC0A135.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.37ED13422CC0A135.title: "把南瓜做成宴席"
+	quest.6B50E02E9A6D31FF.quest_desc: ["先空车走一遍行程，确认轨道两端和停机位置不会占用作物空间。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.6B50E02E9A6D31FF.title: "安装龙门小车"
+	quest.292846C86B169EAA.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.292846C86B169EAA.title: "分批收纳瓶装酒"
+	quest.777E41AFA50E32F3.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "配方线索：Rice Panicle。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.777E41AFA50E32F3.title: "试种水田"
+	quest.155DE0C7850F0FB5.quest_desc: ["进村先观察农场、面包房和铁匠铺。公共宝箱的额外补给属于支线奖励。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.155DE0C7850F0FB5.title: "准备交易货币"
+	quest.47B726652B52FA4A.quest_desc: ["先空载检查机器转速和物料路径。盆配方按 JEI 检查热源与流体。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.47B726652B52FA4A.title: "布置可排料的搅拌盆"
+	quest.79B608284E3FE570.quest_desc: ["从安全出口反向探索。可选调查关注补给箱、厨房、工坊或军械库的区别。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.79B608284E3FE570.title: "辨认潮湿遗迹材料"
+	quest.3CAB4871F918FF54.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "配方线索：Sweet Dough、Yeast、minecraft:sugar。数量与替代项请查看 JEI。"]
+	quest.3CAB4871F918FF54.title: "烤出牛角包"
+	quest.04B723B565BD9A15.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.04B723B565BD9A15.title: "烤出巧克力面包"
+	quest.4B29D64BF7D544DE.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "配方线索：Bag of Corn。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.4B29D64BF7D544DE.title: "种一片玉米"
+	quest.28C4BF110E3DE4E8.quest_desc: ["从水轮到调速，先确认方向和应力余量，再挂负载。", "配方线索：Andesite Casing、Shaft、c:dusts/redstone。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.28C4BF110E3DE4E8.title: "隔离动力支路"
+	quest.785BC81A89C3BCBB.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "配方线索：minecraft:glow_berries。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.785BC81A89C3BCBB.title: "用发光浆果酿酒"
+	quest.7C3A6C0D0236E6CF.quest_desc: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.7C3A6C0D0236E6CF.title: "配发铁靴"
+	quest.7E980C807D7B3FA5.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.7E980C807D7B3FA5.title: "给大麦留种"
+	quest.0F87453B88E2C905.quest_desc: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.0F87453B88E2C905.title: "储备末影珍珠"
+	quest.3E42866D23BDCFA1.quest_desc: ["先把输入和输出分开，再用车站或过滤器处理多条线路。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.3E42866D23BDCFA1.title: "连接传送带"
+	quest.0C6ED61D54B0DA71.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：c:crops/cabbage。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.0C6ED61D54B0DA71.title: "试做卷心菜卷"
+	quest.14573A4DDF3CFCB7.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "配方线索：minecraft:chest。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.14573A4DDF3CFCB7.title: "扩展仓储节点"
+	quest.051FA63139683CA0.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.051FA63139683CA0.title: "煎熟培根"
+	quest.3F2E3E0B056D9CCF.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.3F2E3E0B056D9CCF.title: "为爆破方案备料"
+	quest.1D49032954BBD6BC.quest_desc: ["先空载检查机器转速和物料路径。盆配方按 JEI 检查热源与流体。", "配方线索：Andesite Alloy、Andesite Casing。数量与替代项请查看 JEI。"]
+	quest.1D49032954BBD6BC.title: "设置单件加工台"
+	quest.34F6368E84C605EE.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.34F6368E84C605EE.title: "建立精锐武器储备"
+	quest.7AFD44DADF661A9B.quest_desc: ["用可补给的轻装出门，地图和撤退路线比多带装备重要。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.7AFD44DADF661A9B.title: "绘制出发地图"
+	quest.527B824DFE49C495.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.527B824DFE49C495.title: "烘烤面包"
+	quest.12E8B057510DBD22.quest_desc: ["进村先观察农场、面包房和铁匠铺。公共宝箱的额外补给属于支线奖励。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.12E8B057510DBD22.title: "带回村落谷物"
+	quest.4EF99E82D827BEC9.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.4EF99E82D827BEC9.title: "布置葡萄踩汁盆"
+	quest.6AB13ED5DB1B03F0.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.6AB13ED5DB1B03F0.title: "记录一阶长枪兵"
+	quest.1B1CD372C6B3871D.quest_desc: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.1B1CD372C6B3871D.title: "辨认堡垒材料"
+	quest.44E81BF7916259CC.quest_desc: ["从水轮到调速，先确认方向和应力余量，再挂负载。", "配方线索：Shaft、minecraft:planks。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.44E81BF7916259CC.title: "用小齿轮传动"
+	quest.19B2A6D934F94E47.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：farm_and_charm:water_bottles、Strawberry。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.19B2A6D934F94E47.title: "草莓茶入瓶"
+	quest.74E7F0B718024608.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.74E7F0B718024608.title: "训练骑乘枪兵"
+	quest.020A0134C5ADB8D1.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "配方线索：Oat Bale。数量与替代项请查看 JEI。"]
+	quest.020A0134C5ADB8D1.title: "燕麦轮作"
+	quest.77C11794C96C332E.quest_desc: ["进村先观察农场、面包房和铁匠铺。公共宝箱的额外补给属于支线奖励。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.77C11794C96C332E.title: "储存贵重贸易品"
+	quest.07D53A7B49D09B47.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "配方线索：Barley Bale。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.07D53A7B49D09B47.title: "收割一批大麦"
+	quest.3DB2671B8EE5FB8E.quest_desc: ["用可补给的轻装出门，地图和撤退路线比多带装备重要。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.3DB2671B8EE5FB8E.title: "标出安全入口"
+	quest.11D824930947B650.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.11D824930947B650.title: "处理苹果果浆"
+	quest.387511FCA928B1A4.quest_desc: ["先空车走一遍行程，确认轨道两端和停机位置不会占用作物空间。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.387511FCA928B1A4.title: "铺设龙门轴"
+	quest.0D8274734FEE17EF.quest_desc: ["布置睡眠、收纳和日常工作区，把危险工序与宠物区隔开。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.0D8274734FEE17EF.title: "整理备用装备"
+	quest.015A2963BE9BEB0F.quest_desc: ["布置睡眠、收纳和日常工作区，把危险工序与宠物区隔开。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.015A2963BE9BEB0F.title: "布置独立蜂场"
+	quest.08638B35DBB4D8BD.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.08638B35DBB4D8BD.title: "煎好鸡蛋"
+	quest.5D8C4CDCA7F8C5EE.quest_desc: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.5D8C4CDCA7F8C5EE.title: "从下界带回石英"
+	quest.6CA8C6428D51BC71.quest_desc: ["进村先观察农场、面包房和铁匠铺。公共宝箱的额外补给属于支线奖励。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.6CA8C6428D51BC71.title: "储备远行面包"
+	quest.36680E6B3FACD64C.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.36680E6B3FACD64C.title: "番茄苗床"
+	quest.6C76E64A1B706523.quest_desc: ["用可补给的轻装出门，地图和撤退路线比多带装备重要。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.6C76E64A1B706523.title: "制作指南针"
+	quest.2A126AE290489E44.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.2A126AE290489E44.title: "建立繁育工位"
+	quest.40D65650A535A35B.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.40D65650A535A35B.title: "用旗帜标记集结点"
+	quest.2638F9C45B21EAFA.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "配方线索：Warehouse Storage。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.2638F9C45B21EAFA.title: "设置据点交接箱"
+	quest.279DD8C06AF9FDDA.quest_desc: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.279DD8C06AF9FDDA.title: "下界地貌记录"
+	quest.5E5F964FF2A83B79.quest_desc: ["先把输入和输出分开，再用车站或过滤器处理多条线路。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.5E5F964FF2A83B79.title: "准备驾驶台"
+	quest.2600B734305AC711.quest_desc: ["进村先观察农场、面包房和铁匠铺。公共宝箱的额外补给属于支线奖励。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.2600B734305AC711.title: "获得皮革补给"
+	quest.0D58EEDF76076B44.quest_desc: ["先把补给区和训练区分开，保证粮食、工具与弹药都有固定储位。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.0D58EEDF76076B44.title: "建立制造工位"
+	quest.3BAA9C2BFE737A28.quest_desc: ["先把输入和输出分开，再用车站或过滤器处理多条线路。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.3BAA9C2BFE737A28.title: "过滤输送物"
+	quest.650FCD4A6C7C4933.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：Onion、farm_and_charm:cooked_beef、Simple Tomato Soup、minecraft:carrot、minecraft:potato。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.650FCD4A6C7C4933.title: "慢炖匈牙利炖肉"
+	quest.1E4DB8FB99620C22.quest_desc: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.1E4DB8FB99620C22.title: "配发铁护腿"
+	quest.68F5A867242902FC.quest_desc: ["这些节点是可选探索记录。遇到危险区域时先建立返程点。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.68F5A867242902FC.title: "记录末地地貌"
+	quest.026A21F0936C6523.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：minecraft:potato、Onion。数量与替代项请查看 JEI。"]
+	quest.026A21F0936C6523.title: "煮土豆汤"
+	quest.1D366E134A7F63D5.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：Minced Beef、farm_and_charm:cabbage。数量与替代项请查看 JEI。", "选做节点。"]
+	quest.1D366E134A7F63D5.title: "厨锅出香肠"
+	quest.5FF42AFDD7B59DEA.quest_desc: ["先空载检查机器转速和物料路径。盆配方按 JEI 检查热源与流体。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.5FF42AFDD7B59DEA.title: "铺设进料管"
+	quest.2075AB87F0A45399.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.2075AB87F0A45399.title: "储备弓手训练用具"
+	quest.1C47125179809D0C.quest_desc: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.1C47125179809D0C.title: "配发铁胸甲"
+	quest.1717C3DBA80B70B8.quest_desc: ["从水轮到调速，先确认方向和应力余量，再挂负载。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.1717C3DBA80B70B8.title: "扩大水轮供能"
+	quest.5956A67073E85737.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.5956A67073E85737.title: "烤出法棍"
+	quest.7B5E3D4082A283B0.quest_desc: ["用农夫乐事厨锅集中烹饪。放在热源上，按 JEI 给产物准备碗、瓶或罐。", "配方线索：bakery:eggs、bakery:jam、bakery:milk。数量与替代项请查看 JEI。"]
+	quest.7B5E3D4082A283B0.title: "布丁装罐"
+	quest.19B867C6BB9E6714.quest_desc: ["布置睡眠、收纳和日常工作区，把危险工序与宠物区隔开。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.19B867C6BB9E6714.title: "标记储物箱用途"
+	quest.4E6ED69105A6EAFE.quest_desc: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.4E6ED69105A6EAFE.title: "准备铅弹补给"
+	quest.535E0A11D8A89D38.quest_desc: ["从安全出口反向探索。可选调查关注补给箱、厨房、工坊或军械库的区别。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.535E0A11D8A89D38.title: "回收绳线"
+	quest.0965886A64CC9766.quest_desc: ["按不同作战场景配齐备用装备。稀有材料和战利品是独立挑战。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.0965886A64CC9766.title: "记录最高级锻造材料"
+	quest.44D23F55EA50DE1D.quest_desc: ["进村先观察农场、面包房和铁匠铺。公共宝箱的额外补给属于支线奖励。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.44D23F55EA50DE1D.title: "准备采样瓶"
+	quest.3ED09B8E7B4EC10C.quest_desc: ["用可补给的轻装出门，地图和撤退路线比多带装备重要。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.3ED09B8E7B4EC10C.title: "准备野外营火"
+	quest.53507096FFD1F279.quest_desc: ["按当季安排露天种植，先留种再扩大农田。观察作物是否成熟后再收割。", "配方线索：minecraft:dirt、minecraft:rotten_flesh、Straw、minecraft:bone_meal。数量与替代项请查看 JEI。"]
+	quest.53507096FFD1F279.title: "把副产物堆肥"
+	quest.477D00F8CCC8C730.quest_desc: ["从安全出口反向探索。可选调查关注补给箱、厨房、工坊或军械库的区别。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.477D00F8CCC8C730.title: "补充发光标记材料"
+	quest.58D094E989FCFBBC.quest_desc: ["先准备补给，再按兵种安排位置。高阶卷轴属于选做记录。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。"]
+	quest.58D094E989FCFBBC.title: "记录三阶长枪兵"
+	quest.53BE31557A6B143D.quest_desc: ["谷物先磨粉，再和面。用搅拌盆时看清是流体输入还是物品输入。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.53BE31557A6B143D.title: "切分苹果派"
+	quest.19EC10D84AAC6B1F.quest_desc: ["先在安全靶场练习装填和冷却，再携带弹药进入战斗。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.19EC10D84AAC6B1F.title: "备好近战武器"
+	quest.7A8EE2F58DCA65D5.quest_desc: ["进村先观察农场、面包房和铁匠铺。公共宝箱的额外补给属于支线奖励。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.7A8EE2F58DCA65D5.title: "收集烧制砖"
+	quest.08147EC1E75869CE.quest_desc: ["先取葡萄汁，再给发酵桶配空酒瓶和对应原料。取出的酒可进酒架陈年。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.08147EC1E75869CE.title: "红葡萄丰收"
+	quest.2ADC9608FA27D15A.quest_desc: ["先把输入和输出分开，再用车站或过滤器处理多条线路。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.2ADC9608FA27D15A.title: "用漏斗上料"
+	quest.41DEB486235F2955.quest_desc: ["先空载检查机器转速和物料路径。盆配方按 JEI 检查热源与流体。", "目标：在背包中准备 1 件对应物品。可通过制作、交易或探索获得。", "选做节点。"]
+	quest.41DEB486235F2955.title: "成对布置粉碎轮"
+}

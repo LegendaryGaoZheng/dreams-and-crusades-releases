@@ -1,0 +1,306 @@
+{
+	default_hide_dependency_lines: false
+	filename: "winemaking"
+	group: "27E9091BEF0C4DA3"
+	id: "72F6D757934FEDE3"
+	order_index: 33
+	quest_links: []
+	images: [{
+		id: "48F9D2A028C6A3B2"
+		image: "dream_expedition:textures/quest_atlas/hearth.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -11.0d
+	}]
+	icon: "vinery:red_grape_seeds"
+	quests: [
+		{
+			id: "1D3E01D1282B7B4E"
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: -4.0d
+			tasks: [{
+				id: "7AB3AEAD08D337A2"
+				item: { count: 1, id: "vinery:red_grape_seeds" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "449C38B2D001FAFE"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "6C195CF9A05AC937"
+			dependencies: ["1D3E01D1282B7B4E"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{
+				id: "09D035D0AC364349"
+				item: { count: 1, id: "vinery:white_grape_seeds" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "13805CE3E4EC2B6D"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "08147EC1E75869CE"
+			dependencies: ["1D3E01D1282B7B4E"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 4.0d
+			tasks: [{
+				id: "44FA738A91D02B7E"
+				item: { count: 1, id: "vinery:red_grape" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "210746771EE9F9F1"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "43ED927B81A99532"
+			dependencies: ["1D3E01D1282B7B4E"]
+			optional: false
+			shape: "hexagon"
+			x: 7.0d
+			y: -4.0d
+			tasks: [{
+				id: "2D3DD088637A5E6D"
+				item: { count: 1, id: "vinery:white_grape" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "438866F8DE966E7E"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "4EF99E82D827BEC9"
+			dependencies: ["43ED927B81A99532"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 0.0d
+			tasks: [{
+				id: "5EDAF0D8191F40D6"
+				item: { count: 1, id: "vinery:grapevine_pot" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "071E6EA9D30D7BB9"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "78DAED5A3343680F"
+			dependencies: ["43ED927B81A99532"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 4.0d
+			tasks: [{
+				id: "0212050EF19FC42C"
+				item: { count: 1, id: "vinery:red_grapejuice" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "700552FCF1524EC7"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "123E8606A45B68E7"
+			dependencies: ["43ED927B81A99532"]
+			optional: false
+			shape: "hexagon"
+			x: 14.0d
+			y: -4.0d
+			tasks: [{
+				id: "50B86B7594400B84"
+				item: { count: 1, id: "vinery:white_grapejuice" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6759912AF02269F9"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "1EAD902EDADCF881"
+			dependencies: ["123E8606A45B68E7"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 0.0d
+			tasks: [{
+				id: "4AA506422AE8EB21"
+				item: { count: 1, id: "vinery:wine_bottle" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "413533AD9C8E94D5"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "7959C818E87CE816"
+			dependencies: ["123E8606A45B68E7"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 4.0d
+			tasks: [{
+				id: "45C5BF11120250B0"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/winemaking/fermentation_barrel"
+			}]
+			rewards: [{
+				id: "109D54C843AED719"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "731E3AEA764260D9"
+			dependencies: ["123E8606A45B68E7"]
+			optional: false
+			shape: "hexagon"
+			x: 21.0d
+			y: -4.0d
+			tasks: [{
+				id: "4AA11740DAB677CE"
+				item: { count: 1, id: "vinery:red_wine" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6DA2A938EBA666BF"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "1C0EA79BF746E068"
+			dependencies: ["731E3AEA764260D9"]
+			optional: true
+			shape: "circle"
+			x: 21.0d
+			y: 0.0d
+			tasks: [{
+				id: "585AC8FEAE7B4AED"
+				item: { count: 1, id: "vinery:noir_wine" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "353E7BF243FCCB10"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "785BC81A89C3BCBB"
+			dependencies: ["731E3AEA764260D9"]
+			optional: true
+			shape: "circle"
+			x: 21.0d
+			y: 4.0d
+			tasks: [{
+				id: "14272D84971D4495"
+				item: { count: 1, id: "vinery:glowing_wine" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "2849D5772A6FAFA5"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "443B78B237DA1920"
+			dependencies: ["731E3AEA764260D9"]
+			optional: false
+			shape: "hexagon"
+			x: 28.0d
+			y: -4.0d
+			tasks: [{
+				id: "2D870409F599F303"
+				item: { count: 1, id: "vinery:mellohi_wine" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "7F351040BF15D601"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "41DB8A3505233501"
+			dependencies: ["443B78B237DA1920"]
+			optional: true
+			shape: "circle"
+			x: 28.0d
+			y: 0.0d
+			tasks: [{
+				id: "4677545F4BA9AC5D"
+				item: { count: 1, id: "vinery:oak_wine_rack_mid" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6C1F5EBA396BEC9D"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "292846C86B169EAA"
+			dependencies: ["443B78B237DA1920"]
+			optional: true
+			shape: "circle"
+			x: 28.0d
+			y: 4.0d
+			tasks: [{
+				id: "35C1091C7CC414A4"
+				item: { count: 1, id: "vinery:wine_box" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "0F0D6ED431D77891"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "11D824930947B650"
+			dependencies: ["443B78B237DA1920"]
+			optional: false
+			shape: "hexagon"
+			x: 35.0d
+			y: -4.0d
+			tasks: [{
+				id: "4725193010A39185"
+				item: { count: 1, id: "vinery:apple_mash" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "352470F9872DDFEC"
+				type: "xp"
+				xp: 10
+			}]
+		}
+	]
+}

@@ -1,0 +1,234 @@
+{
+	default_hide_dependency_lines: false
+	filename: "outpost"
+	group: "136C2476B3C4FF9B"
+	id: "0A02660DB462C1B9"
+	order_index: 42
+	quest_links: []
+	images: [{
+		id: "35302D79048538C6"
+		image: "dream_expedition:textures/quest_atlas/banner.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "hundred_years_war:warehouse_control"
+	quests: [
+		{
+			id: "005D07CDA8E0E331"
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{
+				id: "5CCBD90D85707766"
+				item: { count: 1, id: "hundred_years_war:warehouse_control" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "5123D5AE9F4BFD76"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "14573A4DDF3CFCB7"
+			dependencies: ["005D07CDA8E0E331"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 5.0d
+			tasks: [{
+				id: "6EE768849F7BF4FF"
+				item: { count: 1, id: "hundred_years_war:warehouse_storage" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "69265DE7A9648B00"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "3FD7A21FE3051F61"
+			dependencies: ["005D07CDA8E0E331"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 10.0d
+			tasks: [{
+				id: "784825E4CAD9EC8C"
+				item: { count: 1, id: "hundred_years_war:supply_point" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "4DC4CDC5C3840A6E"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "2E47EE540C24B429"
+			dependencies: ["005D07CDA8E0E331"]
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: 15.0d
+			tasks: [{
+				id: "2E7001D0B49A0FBA"
+				item: { count: 1, id: "hundred_years_war:farming_workstation" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "5D1BF11F7663075B"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "320A5C50EA06542E"
+			dependencies: ["2E47EE540C24B429"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 0.0d
+			tasks: [{
+				id: "645E99AD76DC0431"
+				item: { count: 1, id: "hundred_years_war:lumber_workstation" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "1BAD4E47BCA26E89"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "71C887BC5A3B1C73"
+			dependencies: ["2E47EE540C24B429"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 5.0d
+			tasks: [{
+				id: "679066E000776253"
+				item: { count: 1, id: "hundred_years_war:mining_workstation" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "439E1EACCC93DEB6"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "312C5C8C58BEE4BC"
+			dependencies: ["2E47EE540C24B429"]
+			optional: false
+			shape: "hexagon"
+			x: 7.0d
+			y: 10.0d
+			tasks: [{
+				id: "0CDFCE7FFCBCBA72"
+				item: { count: 1, id: "hundred_years_war:fishing_workstation" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "7519731BE1D9F39B"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "2A126AE290489E44"
+			dependencies: ["312C5C8C58BEE4BC"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 15.0d
+			tasks: [{
+				id: "006F9D5B15DD31DF"
+				item: { count: 1, id: "hundred_years_war:breeding_workstation" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "46C419276A795273"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "0D58EEDF76076B44"
+			dependencies: ["312C5C8C58BEE4BC"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 0.0d
+			tasks: [{
+				id: "4F3E7B6D8109C50B"
+				item: { count: 1, id: "hundred_years_war:crafting_workstation" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "538292C0CA2781E9"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "1B8D19795C8F42E9"
+			dependencies: ["312C5C8C58BEE4BC"]
+			optional: false
+			shape: "hexagon"
+			x: 14.0d
+			y: 5.0d
+			tasks: [{
+				id: "6ABFC419DAFD3C39"
+				item: { count: 1, id: "hundred_years_war:transport_workstation" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "286AE266572B647C"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "41F3724AA2CFF595"
+			dependencies: ["1B8D19795C8F42E9"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 10.0d
+			tasks: [{
+				id: "1F692E3E96B6C040"
+				item: { count: 1, id: "minecraft:barrel" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "1C8F0FE921B23C96"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "2638F9C45B21EAFA"
+			dependencies: ["1B8D19795C8F42E9"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 15.0d
+			tasks: [{
+				id: "702ACB9437E87BAA"
+				item: { count: 1, id: "minecraft:chest" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "2DC3FF7809783D01"
+				type: "xp"
+				xp: 5
+			}]
+		}
+	]
+}

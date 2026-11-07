@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="dsh_seasons_tweak"
+version="1.0.0"
+displayName="DSH Seasons Tweak"
+description="P03: changes Serene Seasons out-of-season growth gate from 1/6 to 1/2."
+
+[[mixins]]
+config="dsh_seasons_tweak.mixins.json"
+
+[[dependencies.dsh_seasons_tweak]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.dsh_seasons_tweak]]
+modId="sereneseasons"
+type="required"
+versionRange="[10.0.0,)"
+ordering="NONE"
+side="BOTH"

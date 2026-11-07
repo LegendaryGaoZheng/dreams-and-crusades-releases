@@ -1,0 +1,180 @@
+{
+	default_hide_dependency_lines: false
+	filename: "homestead"
+	group: "01643A218C6A9DF4"
+	id: "75A172242A2B766D"
+	order_index: 46
+	quest_links: []
+	images: [{
+		id: "79A5B0DEFFA47D19"
+		image: "dream_expedition:textures/quest_atlas/homestead.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "minecraft:white_bed"
+	quests: [
+		{
+			id: "7D3D1053B3E1E037"
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{
+				id: "5D51C1DBD2E2E7CC"
+				item: { count: 1, id: "minecraft:white_bed" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6DA9EA7EBF7DC8B3"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "3C72EB229F59ACF7"
+			dependencies: ["7D3D1053B3E1E037"]
+			optional: true
+			shape: "circle"
+			x: 6.0d
+			y: 0.0d
+			tasks: [{
+				id: "1983DE79875D5A4D"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/homestead/bookshelf"
+			}]
+			rewards: [{
+				id: "1B49297E9CF48BBD"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "7753942EB79866D0"
+			dependencies: ["7D3D1053B3E1E037"]
+			optional: true
+			shape: "circle"
+			x: 12.0d
+			y: 0.0d
+			tasks: [{
+				id: "1836E2B1F0D5249C"
+				item: { count: 1, id: "minecraft:flower_pot" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "423CE02C1D6ED22D"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "5264655D5911F422"
+			dependencies: ["7D3D1053B3E1E037"]
+			optional: false
+			shape: "hexagon"
+			x: 18.0d
+			y: 0.0d
+			tasks: [{
+				id: "2C470881F99E52B0"
+				item: { count: 1, id: "minecraft:painting" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "51E6A877C4C00D7E"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "19B867C6BB9E6714"
+			dependencies: ["5264655D5911F422"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 6.0d
+			tasks: [{
+				id: "779984FAC65A547F"
+				item: { count: 1, id: "minecraft:item_frame" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "4F1A9BF8E834FF4E"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "34CA76E1CA9E23FD"
+			dependencies: ["5264655D5911F422"]
+			optional: true
+			shape: "circle"
+			x: 6.0d
+			y: 6.0d
+			tasks: [{
+				id: "2871AA36EFD976BE"
+				item: { count: 1, id: "minecraft:oak_sign" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "7D0E2CB127289F75"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "169652AD6AC28432"
+			dependencies: ["5264655D5911F422"]
+			optional: false
+			shape: "hexagon"
+			x: 12.0d
+			y: 6.0d
+			tasks: [{
+				id: "35F294D723B6DB03"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/homestead/lectern"
+			}]
+			rewards: [{
+				id: "4E3199B23DD8173A"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "0D8274734FEE17EF"
+			dependencies: ["169652AD6AC28432"]
+			optional: true
+			shape: "circle"
+			x: 18.0d
+			y: 6.0d
+			tasks: [{
+				id: "1986DF46D32E72F2"
+				item: { count: 1, id: "minecraft:armor_stand" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "56920D0A61DB260E"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "015A2963BE9BEB0F"
+			dependencies: ["169652AD6AC28432"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 12.0d
+			tasks: [{
+				id: "2B2B6E127AB96E11"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/homestead/beehive"
+			}]
+			rewards: [{
+				id: "121B88C5C33C60C8"
+				type: "xp"
+				xp: 5
+			}]
+		}
+	]
+}

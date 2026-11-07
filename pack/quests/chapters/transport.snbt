@@ -1,0 +1,126 @@
+{
+	default_hide_dependency_lines: false
+	filename: "transport"
+	group: "694D9840A70126D8"
+	id: "13B540AFE55FD01D"
+	order_index: 37
+	quest_links: []
+	images: [{
+		id: "248C4B9C1BAFAFF1"
+		image: "dream_expedition:textures/quest_atlas/works.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -11.0d
+	}]
+	icon: "create:belt_connector"
+	quests: [
+		{
+			id: "3E42866D23BDCFA1"
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: -4.0d
+			tasks: [{
+				id: "743A5571AFAEA0CC"
+				item: { count: 1, id: "create:belt_connector" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "01C1FE4B31F329C9"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "2ADC9608FA27D15A"
+			dependencies: ["3E42866D23BDCFA1"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{
+				id: "15226D32AA37198F"
+				item: { count: 1, id: "create:andesite_funnel" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "0DD58FD04665A738"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "3BAA9C2BFE737A28"
+			dependencies: ["3E42866D23BDCFA1"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 4.0d
+			tasks: [{
+				id: "680A27121E001F5A"
+				item: { count: 1, id: "create:brass_funnel" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "06E2DA959EEA6280"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "00F196995DDE15F9"
+			dependencies: ["3E42866D23BDCFA1"]
+			optional: false
+			shape: "hexagon"
+			x: 7.0d
+			y: -4.0d
+			tasks: [{
+				id: "6B60137DF2E1DB69"
+				item: { count: 1, id: "create:track" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "3D4AE5E1D8308CFA"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "096F0C0AA9C9A4AE"
+			dependencies: ["00F196995DDE15F9"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 0.0d
+			tasks: [{
+				id: "7CDF4913C75F10A4"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/transport/track_station"
+			}]
+			rewards: [{
+				id: "02023D033D1B0232"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "5E5F964FF2A83B79"
+			dependencies: ["00F196995DDE15F9"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 4.0d
+			tasks: [{
+				id: "153A2BD70B57A6CA"
+				item: { count: 1, id: "create:controls" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "5F6B763AC0BED8F7"
+				type: "xp"
+				xp: 5
+			}]
+		}
+	]
+}

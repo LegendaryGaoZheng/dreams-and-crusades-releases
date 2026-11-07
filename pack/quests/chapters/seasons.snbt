@@ -1,0 +1,342 @@
+{
+	default_hide_dependency_lines: false
+	filename: "seasons"
+	group: "27E9091BEF0C4DA3"
+	id: "177B355BC512E5EB"
+	order_index: 30
+	quest_links: []
+	images: [{
+		id: "6B0327E45479DCC8"
+		image: "dream_expedition:textures/quest_atlas/hearth.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "farm_and_charm:barley_seeds"
+	quests: [
+		{
+			id: "7E980C807D7B3FA5"
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{
+				id: "0FF2DF35C7927649"
+				item: { count: 1, id: "farm_and_charm:barley_seeds" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "253180F5625AC483"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "07D53A7B49D09B47"
+			dependencies: ["7E980C807D7B3FA5"]
+			optional: true
+			shape: "circle"
+			x: 5.0d
+			y: 0.0d
+			tasks: [{
+				id: "73A1929C099F3D5A"
+				item: { count: 1, id: "farm_and_charm:barley" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "754968090D77320E"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "7479721FA45AF005"
+			dependencies: ["7E980C807D7B3FA5"]
+			optional: true
+			shape: "circle"
+			x: 10.0d
+			y: 0.0d
+			tasks: [{
+				id: "55147885CF9E3D09"
+				item: { count: 1, id: "farm_and_charm:oat_seeds" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "3DE58EE2D7650EE0"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "020A0134C5ADB8D1"
+			dependencies: ["7E980C807D7B3FA5"]
+			optional: false
+			shape: "hexagon"
+			x: 15.0d
+			y: 0.0d
+			tasks: [{
+				id: "5448E6EDBBB62BED"
+				item: { count: 1, id: "farm_and_charm:oat" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "3FFEE32A2441704B"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "4B29D64BF7D544DE"
+			dependencies: ["020A0134C5ADB8D1"]
+			optional: true
+			shape: "circle"
+			x: 20.0d
+			y: 0.0d
+			tasks: [{
+				id: "74118C7B465F280C"
+				item: { count: 1, id: "farm_and_charm:corn" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "1EC6A66663568848"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "470829C0385CDC5C"
+			dependencies: ["020A0134C5ADB8D1"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 5.0d
+			tasks: [{
+				id: "65CB48FE2752D7D4"
+				item: { count: 1, id: "farm_and_charm:strawberry" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6CB3E202F93102E0"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "6563486ED6CC1F35"
+			dependencies: ["020A0134C5ADB8D1"]
+			optional: false
+			shape: "hexagon"
+			x: 5.0d
+			y: 5.0d
+			tasks: [{
+				id: "2745E347B318C6DB"
+				item: { count: 1, id: "farm_and_charm:lettuce" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "344C2E5E5AF37045"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "42C24F85DC74FA30"
+			dependencies: ["6563486ED6CC1F35"]
+			optional: true
+			shape: "circle"
+			x: 10.0d
+			y: 5.0d
+			tasks: [{
+				id: "52E47B02BAB3E927"
+				item: { count: 1, id: "farm_and_charm:wild_nettle" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "39675EE201BBC261"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "12DA18D7EC3C575F"
+			dependencies: ["6563486ED6CC1F35"]
+			optional: true
+			shape: "circle"
+			x: 15.0d
+			y: 5.0d
+			tasks: [{
+				id: "1BF68002C995F029"
+				item: { count: 1, id: "farm_and_charm:wild_ribwort" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "2E8FA6FD4F5E2630"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "36680E6B3FACD64C"
+			dependencies: ["6563486ED6CC1F35"]
+			optional: false
+			shape: "hexagon"
+			x: 20.0d
+			y: 5.0d
+			tasks: [{
+				id: "0367814725B2E907"
+				item: { count: 1, id: "farmersdelight:tomato_seeds" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "033748390D882D32"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "300DF2ACE0FAAE03"
+			dependencies: ["36680E6B3FACD64C"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 10.0d
+			tasks: [{
+				id: "7D289BD8389EECB3"
+				item: { count: 1, id: "farmersdelight:cabbage_seeds" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "3760FC999576B8C1"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "25264FED44A82627"
+			dependencies: ["36680E6B3FACD64C"]
+			optional: true
+			shape: "circle"
+			x: 5.0d
+			y: 10.0d
+			tasks: [{
+				id: "58CF571103D63F77"
+				item: { count: 1, id: "farmersdelight:rich_soil" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "57090E572B61BA98"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "53507096FFD1F279"
+			dependencies: ["36680E6B3FACD64C"]
+			optional: false
+			shape: "hexagon"
+			x: 10.0d
+			y: 10.0d
+			tasks: [{
+				id: "3462DA7CED45E39F"
+				item: { count: 1, id: "farmersdelight:organic_compost" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "3B3D40F1F93E50D9"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "1B517E8008E91300"
+			dependencies: ["53507096FFD1F279"]
+			optional: true
+			shape: "circle"
+			x: 15.0d
+			y: 10.0d
+			tasks: [{
+				id: "4550B72767A70F42"
+				item: { count: 1, id: "farmersdelight:straw" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "61C29143A848DC93"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "777E41AFA50E32F3"
+			dependencies: ["53507096FFD1F279"]
+			optional: true
+			shape: "circle"
+			x: 20.0d
+			y: 10.0d
+			tasks: [{
+				id: "6F099BE321905B56"
+				item: { count: 1, id: "farmersdelight:rice" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "51554AE9C2B8B4B3"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "043C717119DDEACC"
+			dependencies: ["53507096FFD1F279"]
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: 15.0d
+			tasks: [{
+				id: "654A8E8BF98DE1F0"
+				item: { count: 1, id: "farmersdelight:rice_panicle" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "141C4D3E8F0B3011"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "1059E96B7696F852"
+			dependencies: ["043C717119DDEACC"]
+			optional: true
+			shape: "circle"
+			x: 5.0d
+			y: 15.0d
+			tasks: [{
+				id: "0313FFEE78F14AEA"
+				item: { count: 1, id: "farmersdelight:brown_mushroom_colony" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "3344883680D94810"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "347EFC65AB794818"
+			dependencies: ["043C717119DDEACC"]
+			optional: true
+			shape: "circle"
+			x: 10.0d
+			y: 15.0d
+			tasks: [{
+				id: "71ED46B668312C4A"
+				item: { count: 1, id: "farmersdelight:red_mushroom_colony" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "21F0DF960505C8BB"
+				type: "xp"
+				xp: 5
+			}]
+		}
+	]
+}

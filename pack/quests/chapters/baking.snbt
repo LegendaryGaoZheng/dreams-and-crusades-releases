@@ -1,0 +1,342 @@
+{
+	default_hide_dependency_lines: false
+	filename: "baking"
+	group: "27E9091BEF0C4DA3"
+	id: "11A9144FCAD61A00"
+	order_index: 32
+	quest_links: []
+	images: [{
+		id: "4DC3FBFFC187A06D"
+		image: "dream_expedition:textures/quest_atlas/hearth.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -11.0d
+	}]
+	icon: "farm_and_charm:flour"
+	quests: [
+		{
+			id: "5E5965A99F156124"
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: -4.0d
+			tasks: [{
+				id: "28593B537770D153"
+				item: { count: 1, id: "farm_and_charm:flour" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "517F9365122DDA58"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "751434FB13E0F81B"
+			dependencies: ["5E5965A99F156124"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{
+				id: "6B527B074CEFCC1A"
+				item: { count: 1, id: "farm_and_charm:yeast" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "4FDA65EADFB26247"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "27A71C201FA94B8A"
+			dependencies: ["5E5965A99F156124"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 4.0d
+			tasks: [{
+				id: "02F435597AEE7803"
+				item: { count: 1, id: "farm_and_charm:dough" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "07F73B2412C4A966"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "037E5554C41D4593"
+			dependencies: ["5E5965A99F156124"]
+			optional: false
+			shape: "hexagon"
+			x: 7.0d
+			y: -4.0d
+			tasks: [{
+				id: "213157144A5BDCAB"
+				item: { count: 1, id: "bakery:sweet_dough" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "0F49AFFB7C3F5DE5"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "4A8AE564B541DB22"
+			dependencies: ["037E5554C41D4593"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 0.0d
+			tasks: [{
+				id: "6A6746ADA0C4E053"
+				item: { count: 1, id: "bakery:cake_dough" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "3473AD0413DAA0B8"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "09339654C97DF841"
+			dependencies: ["037E5554C41D4593"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 4.0d
+			tasks: [{
+				id: "2E2167284BBACC91"
+				item: { count: 1, id: "farm_and_charm:butter" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "733E0FBF4536D55A"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "59A0E06A32A2502C"
+			dependencies: ["037E5554C41D4593"]
+			optional: false
+			shape: "hexagon"
+			x: 14.0d
+			y: -4.0d
+			tasks: [{
+				id: "5CB6609671950D39"
+				item: { count: 1, id: "farm_and_charm:oatmeal_with_strawberries" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6DF3D6EF4081C6D7"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "527B824DFE49C495"
+			dependencies: ["59A0E06A32A2502C"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 0.0d
+			tasks: [{
+				id: "745B111FBE4CB64C"
+				item: { count: 1, id: "bakery:bread_block" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "4386FA966F5E567B"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "433A1402491FE079"
+			dependencies: ["59A0E06A32A2502C"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 4.0d
+			tasks: [{
+				id: "6F83CF45EF827376"
+				item: { count: 1, id: "minecraft:bread" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "7C49344882F41AA3"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "3CAB4871F918FF54"
+			dependencies: ["59A0E06A32A2502C"]
+			optional: false
+			shape: "hexagon"
+			x: 21.0d
+			y: -4.0d
+			tasks: [{
+				id: "78BEF1706B8CB9DB"
+				item: { count: 1, id: "bakery:croissant" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "125DBE08A831C931"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "5956A67073E85737"
+			dependencies: ["3CAB4871F918FF54"]
+			optional: true
+			shape: "circle"
+			x: 21.0d
+			y: 0.0d
+			tasks: [{
+				id: "696CD1FCF5BBF38D"
+				item: { count: 1, id: "bakery:baguette_block" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "3D0CDC099916D688"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "26D8FD40184B7AE1"
+			dependencies: ["3CAB4871F918FF54"]
+			optional: true
+			shape: "circle"
+			x: 21.0d
+			y: 4.0d
+			tasks: [{
+				id: "444E70F7986666B2"
+				item: { count: 1, id: "bakery:toast" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "71376D3D3AF8F5B1"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "04B723B565BD9A15"
+			dependencies: ["3CAB4871F918FF54"]
+			optional: false
+			shape: "hexagon"
+			x: 28.0d
+			y: -4.0d
+			tasks: [{
+				id: "56FB460C144C6931"
+				item: { count: 1, id: "bakery:chocolate_bread" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "266CFCC683ACFB64"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "664E6BC9B84319ED"
+			dependencies: ["04B723B565BD9A15"]
+			optional: true
+			shape: "circle"
+			x: 28.0d
+			y: 0.0d
+			tasks: [{
+				id: "22B78A9CBEBD954E"
+				item: { count: 1, id: "farmersdelight:apple_pie" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "14D7D56CA10C9242"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "53BE31557A6B143D"
+			dependencies: ["04B723B565BD9A15"]
+			optional: true
+			shape: "circle"
+			x: 28.0d
+			y: 4.0d
+			tasks: [{
+				id: "0841EC7875C76195"
+				item: { count: 1, id: "farmersdelight:apple_pie_slice" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "358D050B87325DBA"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "434BBE80C4A28B9C"
+			dependencies: ["04B723B565BD9A15"]
+			optional: false
+			shape: "hexagon"
+			x: 35.0d
+			y: -4.0d
+			tasks: [{
+				id: "5EBD3F7431E1377B"
+				item: { count: 1, id: "farmersdelight:bacon_sandwich" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "00CD48577C379E34"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "6666A6984EA42A42"
+			dependencies: ["434BBE80C4A28B9C"]
+			optional: true
+			shape: "circle"
+			x: 35.0d
+			y: 0.0d
+			tasks: [{
+				id: "448A20739AD04343"
+				item: { count: 1, id: "farmersdelight:hamburger" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6801D17601D29163"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "37ED13422CC0A135"
+			dependencies: ["434BBE80C4A28B9C"]
+			optional: true
+			shape: "circle"
+			x: 35.0d
+			y: 4.0d
+			tasks: [{
+				id: "79AAB77DBB678FFA"
+				item: { count: 1, id: "farmersdelight:stuffed_pumpkin" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "7F4ED900046BA37E"
+				type: "xp"
+				xp: 5
+			}]
+		}
+	]
+}

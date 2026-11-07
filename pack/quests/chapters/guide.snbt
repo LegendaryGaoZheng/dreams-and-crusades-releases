@@ -1,0 +1,200 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "guide"
+	group: "669605009D3D37DF"
+	id: "0BF8C4D1744F5ABF"
+	order_index: 1
+	quest_links: [ ]
+	images: [{
+		id: "15045AC6FAC4B6EC"
+		image: "dream_expedition:textures/quest_atlas/frontier.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -11.0d
+	}]
+	icon: "ftbquests:book"
+	quests: [
+		{
+			id: "74DF9E2A6EAD17BD"
+			rewards: [
+				{
+					id: "5DBC92740BB80B2C"
+					item: {
+						count: 1
+						id: "minecraft:leather_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "402A7C675504E1D3"
+					item: {
+						count: 1
+						id: "minecraft:leather_boots"
+					}
+					type: "item"
+				}
+				{
+					id: "6B4BE29974760C62"
+					item: {
+						count: 1
+						id: "hundred_years_war:conquerors_manual"
+					}
+					type: "item"
+				}
+				{
+					id: "7335479E2E88DFF7"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_shieldman"
+					}
+					type: "item"
+				}
+				{
+					id: "13C6043AAD370759"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					id: "7F8285BA7E4315C7"
+					type: "xp"
+					xp: 20
+				}
+			]
+			shape: "hexagon"
+			size: 2.5d
+			tasks: [{
+				id: "45363D01AF4D14CD"
+				item: { count: 1, id: "ftbquests:book" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["74DF9E2A6EAD17BD"]
+			id: "0B37085EACB096BE"
+			rewards: [
+				{
+					id: "33AB5619B666A7C2"
+					type: "xp"
+					xp: 15
+				}
+				{
+					id: "7CFCF8252BC36082"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "286BA14506974DFE"
+				item: { count: 1, id: "hundred_years_war:conquerors_manual" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["74DF9E2A6EAD17BD"]
+			id: "248FCE53764A6893"
+			rewards: [
+				{
+					id: "72C543221C763165"
+					type: "xp"
+					xp: 20
+				}
+				{
+					id: "09D700E2ED88EE44"
+					item: {
+						count: 1
+						id: "minecraft:oak_planks"
+					}
+					type: "item"
+				}
+				{
+					id: "3F37444CC8D7972D"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				id: "68EC8031029C0D49"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["74DF9E2A6EAD17BD"]
+			id: "757B7DDD7B64D59B"
+			repeat_cooldown: 7200
+			rewards: [
+				{
+					id: "1209DE23D0E3327E"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					id: "720C5AE91510172E"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+				{
+					id: "7B4981F6DE4B92D0"
+					type: "xp"
+					xp: 5
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "2E3F6BAC7E9E10AE"
+				item: { count: 1, id: "minecraft:bread" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["74DF9E2A6EAD17BD"]
+			id: "0899E186E985451E"
+			rewards: [{
+				id: "6463EB0A7BB77EAA"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "107F2C9B81A5C038"
+				item: { count: 1, id: "minecraft:red_bed" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+	]
+}

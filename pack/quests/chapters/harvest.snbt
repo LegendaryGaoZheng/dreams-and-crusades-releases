@@ -1,0 +1,162 @@
+{
+	default_hide_dependency_lines: false
+	filename: "harvest"
+	group: "694D9840A70126D8"
+	id: "5BC88CAFCE7054F8"
+	order_index: 36
+	quest_links: []
+	images: [{
+		id: "4E00B54D6AC19C45"
+		image: "dream_expedition:textures/quest_atlas/works.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -11.0d
+	}]
+	icon: "create:mechanical_harvester"
+	quests: [
+		{
+			id: "3DFAE793602E2420"
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: -4.0d
+			tasks: [{
+				id: "7C20673A20C2E4A6"
+				item: { count: 1, id: "create:mechanical_harvester" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "270DF6FB0DE17F74"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "5D10858E63F06539"
+			dependencies: ["3DFAE793602E2420"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{
+				id: "0D78CA929462D0A7"
+				item: { count: 1, id: "create:mechanical_plough" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "3BBA7BA53FFF6FE9"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "387511FCA928B1A4"
+			dependencies: ["3DFAE793602E2420"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 4.0d
+			tasks: [{
+				id: "2D25379AC8E7E8B8"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/harvest/gantry_shaft"
+			}]
+			rewards: [{
+				id: "5D09AD23C6045677"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "6B50E02E9A6D31FF"
+			dependencies: ["3DFAE793602E2420"]
+			optional: false
+			shape: "hexagon"
+			x: 7.0d
+			y: -4.0d
+			tasks: [{
+				id: "4382EA74908FA585"
+				item: { count: 1, id: "create:gantry_carriage" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "31F5F31716BD1CD3"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "610D1AF35629E9FF"
+			dependencies: ["6B50E02E9A6D31FF"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 0.0d
+			tasks: [{
+				id: "4278ACF06CD9EE14"
+				item: { count: 1, id: "create:sequenced_gearshift" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6D1D25EDEAEBD05F"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "3BDC9D9C5114A045"
+			dependencies: ["6B50E02E9A6D31FF"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 4.0d
+			tasks: [{
+				id: "52D9C173D1AF8A46"
+				item: { count: 1, id: "create:linear_chassis" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6188E929BEB236E0"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "7B32D4F9B472FFAD"
+			dependencies: ["6B50E02E9A6D31FF"]
+			optional: false
+			shape: "hexagon"
+			x: 14.0d
+			y: -4.0d
+			tasks: [{
+				id: "0996DFB9CDC77CA2"
+				item: { count: 1, id: "create:super_glue" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "7181F242DD3A9C8F"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "20DE90028739B6B4"
+			dependencies: ["7B32D4F9B472FFAD"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 0.0d
+			tasks: [{
+				id: "706C4EFF5819524F"
+				item: { count: 1, id: "create:portable_storage_interface" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "5DF2CEFB9FF40186"
+				type: "xp"
+				xp: 5
+			}]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cosmeticweaponsmod:gilded_netherite_sword"
+    },
+    {
+      "item": "cosmeticarmoursmod:sword_sheath_empty_chestplate"
+    }
+  ],
+  "result": {
+    "id": "cosmeticarmoursmod:sword_sheath_gilded_netherite_chestplate",
+    "count": 1
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cosmeticweaponsmod"
+    }
+  ]
+}

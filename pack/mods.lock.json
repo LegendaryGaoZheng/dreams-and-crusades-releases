@@ -1,0 +1,1261 @@
+[
+  {
+    "filename": "[Neoforge]ctov-3.6.3.jar",
+    "enabled": true,
+    "sha256": "4815b19b83541f09cba556e222612bc5ddcc31f7c4ba2198f4b4d6376cca8b2e",
+    "metadata": [
+      {
+        "modId": "ctov",
+        "version": "3.6.3",
+        "displayURL": "https://modrinth.com/mod/ct-overhaul-village"
+      }
+    ]
+  },
+  {
+    "filename": "[机械动力：柴油动力] createdieselgenerators-1.21.1-1.3.15.jar",
+    "enabled": true,
+    "sha256": "d600fd43bb119fd1de892b4ce0a23526c4977137982d01f416b7d93922e03951",
+    "metadata": [
+      {
+        "modId": "createdieselgenerators",
+        "version": "1.21.1-1.3.15"
+      }
+    ]
+  },
+  {
+    "filename": "[连锁破坏] ftb-ultimine-neoforge-2101.1.14.jar",
+    "enabled": true,
+    "sha256": "d09616af192a0df096a4f0c082fb6495994210237811ba23cb022b849931c970",
+    "metadata": [
+      {
+        "modId": "ftbultimine",
+        "version": "2101.1.14"
+      }
+    ]
+  },
+  {
+    "filename": "aero_no_horizon-1.0.2.jar",
+    "enabled": true,
+    "sha256": "96629d8092ef040a8178f69c6fe02b4fd80ba01a49bc9cd050a335386fde34cb",
+    "metadata": [
+      {
+        "modId": "aero_no_horizon",
+        "version": "1.0.2"
+      }
+    ]
+  },
+  {
+    "filename": "AlwaysEat-neoforge-1.0.0.jar",
+    "enabled": true,
+    "sha256": "ed6b9bfedaddb5c15c592a83af9a4c76815d94fd70718718be1722a34e5f93ed",
+    "metadata": [
+      {
+        "modId": "always_eat",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  {
+    "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
+    "enabled": true,
+    "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
+    "metadata": [
+      {
+        "modId": "appleskin",
+        "version": "${file.jarVersion}",
+        "displayURL": "https://github.com/squeek502/AppleSkin"
+      }
+    ]
+  },
+  {
+    "filename": "architectury-13.0.11-neoforge.jar",
+    "enabled": true,
+    "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb",
+    "metadata": [
+      {
+        "modId": "architectury",
+        "version": "13.0.11"
+      }
+    ]
+  },
+  {
+    "filename": "BadOptimizations-2.4.1-1.21.1.jar",
+    "enabled": true,
+    "sha256": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba",
+    "metadata": [
+      {
+        "modId": "badoptimizations",
+        "version": "2.4.1"
+      }
+    ]
+  },
+  {
+    "filename": "better-advanced-tooltips-2101.1.0-build.5.jar",
+    "enabled": true,
+    "sha256": "0f76d46f2f18eb67e67c7974170d7b27deb66473396461c8dc50d6949de1449b",
+    "metadata": [
+      {
+        "modId": "betteradvancedtooltips",
+        "version": "2101.1.0-build.5"
+      }
+    ]
+  },
+  {
+    "filename": "bettercombat-neoforge-2.4.0+1.21.1.jar",
+    "enabled": true,
+    "sha256": "0446e9faa98b764ba010ac31e337d14ac96bbb2fbfeff9b599e1efd510dfde5a",
+    "metadata": [
+      {
+        "modId": "bettercombat",
+        "version": "2.4.0+1.21.1"
+      }
+    ],
+    "verified_download": "https://cdn.modrinth.com/data/5sy6g3kz/versions/VhIOvcXP/bettercombat-neoforge-2.4.0%2B1.21.1.jar"
+  },
+  {
+    "filename": "biolith-neoforge-3.0.14.jar",
+    "enabled": true,
+    "sha256": "ded9169efb903198046cf44cf91a290ec836ed83a28e29179087eb860e0e6ce9",
+    "metadata": [
+      {
+        "modId": "biolith",
+        "version": "3.0.14",
+        "displayURL": "https://modrinth.com/mod/biolith"
+      }
+    ]
+  },
+  {
+    "filename": "cbc_firepower_components-neoforge-1.21.1-0.1.6+mc.1.21.1-neoforge.jar",
+    "enabled": true,
+    "sha256": "01e67fcd957a9e07ef082f8a0235915ec3aa9efd95f8e5419163cfa08e36e64f",
+    "metadata": [
+      {
+        "modId": "cbc_firepower_components",
+        "version": "0.1.6"
+      }
+    ]
+  },
+  {
+    "filename": "cbcmodernwarfare-0.0.6m+mc.1.21.1-neoforge.jar",
+    "enabled": true,
+    "sha256": "cea9f4fd85bff04480c71ef40d587d679b580a63b67e26a79ce8dd79fcf67d0b",
+    "metadata": [
+      {
+        "modId": "cbcmodernwarfare",
+        "version": "0.0.6m+mc.1.21.1-neoforge"
+      }
+    ]
+  },
+  {
+    "filename": "Chunky-NeoForge-1.4.23.jar",
+    "enabled": true,
+    "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274",
+    "metadata": [
+      {
+        "modId": "chunky",
+        "version": "1.4.23",
+        "displayURL": "https://github.com/pop4959/Chunky"
+      }
+    ]
+  },
+  {
+    "filename": "cloth-config-15.0.140-neoforge.jar",
+    "enabled": true,
+    "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+    "metadata": [
+      {
+        "modId": "cloth_config",
+        "version": "15.0.140"
+      }
+    ]
+  },
+  {
+    "filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+    "enabled": true,
+    "sha256": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
+    "metadata": [
+      {
+        "modId": "clumps",
+        "version": "19.0.0.1",
+        "displayURL": "https://www.curseforge.com/minecraft/mc-mods/clumps"
+      }
+    ]
+  },
+  {
+    "filename": "compactflap-neoforge-1.21.1-1.0.4.1.jar",
+    "enabled": true,
+    "sha256": "69e9be30cfb28b7a24b0c31c0e2ae270989405cc646eef94351bbc0968e81a32",
+    "metadata": [
+      {
+        "modId": "compactflap",
+        "version": "1.0.4"
+      }
+    ]
+  },
+  {
+    "filename": "copycats-3.0.9+mc.1.21.1-neoforge.jar",
+    "enabled": true,
+    "sha256": "d1efdd8688af6603dff9425299ac4547ef56a7d5cfee757716ead7853276694e",
+    "metadata": [
+      {
+        "modId": "copycats",
+        "version": "3.0.9+mc.1.21.1-neoforge",
+        "displayURL": "https://github.com/copycats-plus/copycats"
+      }
+    ]
+  },
+  {
+    "filename": "create-1.21.1-6.0.10.jar",
+    "enabled": true,
+    "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+    "metadata": [
+      {
+        "modId": "create",
+        "version": "6.0.10",
+        "displayURL": "https://www.curseforge.com/minecraft/mc-mods/create"
+      }
+    ]
+  },
+  {
+    "filename": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+    "enabled": true,
+    "sha256": "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e",
+    "metadata": [
+      {
+        "modId": "aeronautics_bundled",
+        "version": "1.3.2"
+      }
+    ]
+  },
+  {
+    "filename": "create_connected-1.1.16-mc1.21.1.jar",
+    "enabled": true,
+    "sha256": "5eae502854bcfc210c495f54e474ffde6099c396d4a0089aaa3a08a17554ce27",
+    "metadata": [
+      {
+        "modId": "create_connected",
+        "version": "1.1.16-mc1.21.1",
+        "displayURL": "https://github.com/hlysine/create_connected"
+      }
+    ]
+  },
+  {
+    "filename": "create_ltab-4.1.0.jar",
+    "enabled": true,
+    "sha256": "d19e9de5496ba79dc8de7688adaab901af98c3b9281aae723d29ec97a2cf4d11",
+    "metadata": [
+      {
+        "modId": "create_ltab",
+        "version": "4.1.0",
+        "displayURL": "https://modrinth.com/mod/create-let-the-adventure-begin"
+      }
+    ]
+  },
+  {
+    "filename": "createbigcannons-5.11.7+mc.1.21.1.jar",
+    "enabled": true,
+    "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca",
+    "metadata": [
+      {
+        "modId": "createbigcannons",
+        "version": "5.11.7"
+      }
+    ]
+  },
+  {
+    "filename": "createpotatocannonenchantfix-1.0.0.jar",
+    "enabled": true,
+    "sha256": "37af08d970ad88aff1e196da1d9e9a97af07bf9c5de370bfc4883f1933e5c7d5",
+    "metadata": [
+      {
+        "modId": "createpotatocannonenchantfix",
+        "version": "1.0.0",
+        "displayURL": "https://modrinth.com/project/create-pc-enchant-fix/"
+      }
+    ],
+    "verified_download": "https://cdn.modrinth.com/data/hYcZQQ6n/versions/RCWbG0wX/createpotatocannonenchantfix-1.0.0.jar"
+  },
+  {
+    "filename": "cristellib-neoforge-1.21.1-3.1.7.jar",
+    "enabled": true,
+    "sha256": "11e05dbc97bd3fe1790bd6361747240e314c1dbf40b590ea20cc691dc8396c38",
+    "metadata": [
+      {
+        "modId": "cristellib",
+        "version": "3.1.7",
+        "displayURL": "https://modrinth.com/mod/cristel-lib"
+      }
+    ]
+  },
+  {
+    "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+    "enabled": true,
+    "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+    "metadata": [
+      {
+        "modId": "curios",
+        "version": "9.5.1+1.21.1",
+        "displayURL": "https://github.com/TheIllusiveC4/Curios"
+      }
+    ]
+  },
+  {
+    "filename": "damagenumbers-1.4.1-neoforge.jar",
+    "enabled": true,
+    "sha256": "64fceb70515fcaaffa74a4b257727b8ca89fd804bd6d8e7e92326fe96be88b56",
+    "metadata": [
+      {
+        "modId": "damagenumbers",
+        "version": "1.4.1-neoforge",
+        "displayURL": "https://modrinth.com/project/damagenumbers"
+      }
+    ]
+  },
+  {
+    "filename": "dream_expedition_industrial7.jar",
+    "enabled": true,
+    "sha256": "6ede7dd339700317e905e82fdaf0ee9d405550079129824f064d157505a3022d",
+    "metadata": [
+      {
+        "modId": "dream_expedition_industrial7",
+        "version": "4.0.0"
+      }
+    ]
+  },
+  {
+    "filename": "dream_expedition_landmarks.jar",
+    "enabled": true,
+    "sha256": "48098208faac276c0add91363b51c3f93bfcfc18ff6019a96c723f3ebf152f82",
+    "metadata": [
+      {
+        "modId": "dream_expedition_landmarks",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  {
+    "filename": "dream_expedition_steam_factory.jar",
+    "enabled": true,
+    "sha256": "232f9c6b55eefa5045cf1f8221a7d1b19ef168652f9cc28fbb09d3f0462b5534",
+    "metadata": [
+      {
+        "modId": "dream_expedition_steam_factory",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  {
+    "filename": "dsh_seasons_tweak-1.0.0.jar",
+    "enabled": true,
+    "sha256": "d7ba8023b4d68254965a035f5d0282098406eac2c4cca8d919ec9c05d9956bd6",
+    "metadata": [
+      {
+        "modId": "dsh_seasons_tweak",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  {
+    "filename": "dsh_window_icon-1.0.0.jar",
+    "enabled": true,
+    "sha256": "2f9bbd6db03591e4460207207552b4e2ea9008aadbbb9abb49a3dff7e3889a8c",
+    "metadata": [
+      {
+        "modId": "dsh_window_icon",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  {
+    "filename": "e4mc-neoforge-6.2.3.jar",
+    "enabled": true,
+    "sha256": "6000692f216faa67f8a6be26fad6dffd54f1c229ee290f355cd42792c4cdbd57",
+    "metadata": [
+      {
+        "modId": "e4mc",
+        "version": "6.2.3"
+      }
+    ]
+  },
+  {
+    "filename": "entityculling-neoforge-1.11.3-mc1.21.1.jar",
+    "enabled": true,
+    "sha256": "fa73ac70a3766568203b730a1573b4b54d88fb48dff4a33d8c4a80be9b8d17d5",
+    "metadata": [
+      {
+        "modId": "entityculling",
+        "version": "1.11.3",
+        "displayURL": "https://modrinth.com/mod/entityculling"
+      }
+    ]
+  },
+  {
+    "filename": "epic-terrain_compatible-1.0.3.jar",
+    "enabled": true,
+    "sha256": "6408cbd414df381001576eaf847e9fc8dbf9f3e8e1062f2379e6219fa821b1c3",
+    "metadata": [
+      {
+        "modId": "mr_epic_terrain_compatible",
+        "version": "1.0.3",
+        "displayURL": "https://modrinth.com/datapack/epic-terrain_compatible"
+      }
+    ]
+  },
+  {
+    "filename": "FarmersDelight-1.21.1-1.3.4.jar",
+    "enabled": true,
+    "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c",
+    "metadata": [
+      {
+        "modId": "farmersdelight",
+        "version": "1.3.4",
+        "displayURL": "https://github.com/vectorwing/FarmersDelight"
+      }
+    ]
+  },
+  {
+    "filename": "ferritecore-7.0.3-neoforge.jar",
+    "enabled": true,
+    "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+    "metadata": [
+      {
+        "modId": "ferritecore",
+        "version": "7.0.3"
+      }
+    ]
+  },
+  {
+    "filename": "forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
+    "enabled": true,
+    "sha256": "bcbb5d8479032690d53debfcf61c0477080ff6d1d4dae9a9a85122b47377646a",
+    "metadata": [
+      {
+        "modId": "fabric_api",
+        "version": "${file.jarVersion}",
+        "displayURL": "https://github.com/Sinytra/ForgifiedFabricAPI"
+      },
+      {
+        "modId": "forgified_fabric_api",
+        "version": "${file.jarVersion}",
+        "displayURL": "https://github.com/Sinytra/ForgifiedFabricAPI"
+      }
+    ]
+  },
+  {
+    "filename": "ftb-library-neoforge-2101.1.37.jar",
+    "enabled": true,
+    "sha256": "624c2d2d1cbadb946d967e17757bd5b2d129d4d3ed71f2da0c70607d04476ac2",
+    "metadata": [
+      {
+        "modId": "ftblibrary",
+        "version": "2101.1.37"
+      }
+    ]
+  },
+  {
+    "filename": "ftb-quests-neoforge-2101.1.37.jar",
+    "enabled": true,
+    "sha256": "6b42457d680108d0af5b8deb21e3fe7b92138209f0683c62441dc360d4fc01d5",
+    "metadata": [
+      {
+        "modId": "ftbquests",
+        "version": "2101.1.37"
+      }
+    ]
+  },
+  {
+    "filename": "ftb-teams-neoforge-2101.1.11.jar",
+    "enabled": true,
+    "sha256": "e6bcd670493624e6906df872a9c6af4a33fe6405cac57a32c59cd4cd5838c655",
+    "metadata": [
+      {
+        "modId": "ftbteams",
+        "version": "2101.1.11"
+      }
+    ]
+  },
+  {
+    "filename": "fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
+    "enabled": true,
+    "sha256": "414782aba00502349da192c1affcd4cbaf653119ec26605453f1b0690b3f8cc5",
+    "metadata": [
+      {
+        "modId": "fzzy_config",
+        "version": "0.7.7+fix1+1.21+neoforge"
+      }
+    ]
+  },
+  {
+    "filename": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+    "enabled": true,
+    "sha256": "59d2a3fb3d6877e43018fd6a2b199d526074a864276a5f49091409a1cdc62fae",
+    "metadata": [
+      {
+        "modId": "glitchcore",
+        "version": "2.1.0.2"
+      }
+    ],
+    "verified_download": "https://cdn.modrinth.com/data/s3dmwKy5/versions/S2TfWrZR/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+  },
+  {
+    "filename": "happy_ghast_legacy-1.8-1.21.1-neoforge.jar",
+    "enabled": true,
+    "sha256": "4085b1c55c442733999189c2dbd142839a03d950dbebdef73725b7dcb74e1f4c",
+    "metadata": [
+      {
+        "modId": "happy_ghast_legacy",
+        "version": "1.8"
+      }
+    ]
+  },
+  {
+    "filename": "HundredYearsWar-0.7.1r-fix1-1.21.1-neoforge.jar",
+    "enabled": true,
+    "sha256": "c25598afdb21fa2f338561360088d9d158937853e671d25b81903bb2117c8729",
+    "metadata": [
+      {
+        "modId": "hundred_years_war",
+        "version": "0.7.1r-fix1-1.21.1-neoforge"
+      }
+    ]
+  },
+  {
+    "filename": "ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+    "enabled": true,
+    "sha256": "7d7b1d7b9f71d5303e42b2fa45f222a5ab06e0ef5982abb6da5dd9cc449b3702",
+    "metadata": [
+      {
+        "modId": "immediatelyfast",
+        "version": "1.6.15+1.21.1",
+        "displayURL": "https://github.com/RaphiMC/ImmediatelyFast"
+      }
+    ]
+  },
+  {
+    "filename": "interiors-1.21.1-neoforge-0.6.1.jar",
+    "enabled": true,
+    "sha256": "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5",
+    "metadata": [
+      {
+        "modId": "interiors",
+        "version": "0.6.1",
+        "displayURL": "https://www.curseforge.com/minecraft/mc-mods/interiors"
+      }
+    ]
+  },
+  {
+    "filename": "InventoryProfilesNext-neoforge-1.21-2.1.11.jar",
+    "enabled": true,
+    "sha256": "4c0b0222c9ee24f70ba91d7cae5e0d4734f2114bea723225f298cdbe5a832296",
+    "metadata": [
+      {
+        "modId": "inventoryprofilesnext",
+        "version": "2.1.11",
+        "displayURL": "https://inventory-profiles-next.github.io/"
+      }
+    ]
+  },
+  {
+    "filename": "iris-flywheel-compat-NeoForge-2.4.0.jar.off",
+    "enabled": false,
+    "sha256": "f5351cf9a838ae1624fcda78a8734b52cfde20de824db30e3f00dd00b9128ec8",
+    "metadata": [
+      {
+        "modId": "irisflw",
+        "version": "2.4.0"
+      }
+    ],
+    "verified_download": "https://cdn.modrinth.com/data/ndHYMY2K/versions/6ZQz5Ow2/iris-flywheel-compat-NeoForge-2.4.0.jar"
+  },
+  {
+    "filename": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+    "enabled": true,
+    "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
+    "metadata": [
+      {
+        "modId": "iris",
+        "version": "1.8.14-beta.1+mc1.21.1"
+      }
+    ]
+  },
+  {
+    "filename": "jei-1.21.1-neoforge-19.69.0.457.jar",
+    "enabled": true,
+    "sha256": "5f09d199dba1265e131ef1672597ea07857220e4cc2ff1dc754e8bd0e6378925",
+    "metadata": [
+      {
+        "modId": "jei",
+        "version": "19.69.0.457",
+        "displayURL": "https://www.curseforge.com/minecraft/mc-mods/jei"
+      }
+    ]
+  },
+  {
+    "filename": "kotlinforforge-5.12.0-all.jar",
+    "enabled": true,
+    "sha256": "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139",
+    "metadata": []
+  },
+  {
+    "filename": "kubejs-neoforge-2101.7.2-build.377.jar",
+    "enabled": true,
+    "sha256": "df9a8458b1f83fed06ba54684977911795a5153a462b81a610895f5b1f2f0cbf",
+    "metadata": [
+      {
+        "modId": "kubejs",
+        "version": "2101.7.2-build.377",
+        "displayURL": "https://kubejs.com"
+      }
+    ]
+  },
+  {
+    "filename": "lambdynamiclights-4.8.11+1.21.1.jar",
+    "enabled": true,
+    "sha256": "913b0358b1031828f1e060ea0ee361232dc2a1c82464f488a0a920739ce7c763",
+    "metadata": [
+      {
+        "modId": "lambdynlights",
+        "version": "4.8.11+1.21.1",
+        "displayURL": "https://lambdaurora.dev/projects/lambdynamiclights"
+      }
+    ]
+  },
+  {
+    "filename": "letsdo-bakery-neoforge-2.1.11.jar",
+    "enabled": true,
+    "sha256": "7cf41c0fad07939f47b67550029a5335da4ca761ef567c50ced888240063d474",
+    "metadata": [
+      {
+        "modId": "bakery",
+        "version": "2.1.11",
+        "displayURL": "https://www.lets-do.ch"
+      }
+    ]
+  },
+  {
+    "filename": "letsdo-brewery-neoforge-2.1.13.jar",
+    "enabled": true,
+    "sha256": "86f19a428fd37fc4c6831dc940f401b178238c51f86a95da7809cc928c24df8b",
+    "metadata": [
+      {
+        "modId": "brewery",
+        "version": "2.1.13",
+        "displayURL": "https://www.lets-do.ch"
+      }
+    ]
+  },
+  {
+    "filename": "letsdo-farm_and_charm-neoforge-1.1.29.jar",
+    "enabled": true,
+    "sha256": "09489c3c3a8673f73d72878e828683cee9d38774e172028981e61ce3718a7a45",
+    "metadata": [
+      {
+        "modId": "farm_and_charm",
+        "version": "1.1.29",
+        "displayURL": "https://www.lets-do.ch"
+      }
+    ]
+  },
+  {
+    "filename": "letsdo-herbalbrews-neoforge-1.1.4.jar",
+    "enabled": true,
+    "sha256": "c84a3479d520e7a3da3f87272176ac9f3b2308ccc81cac3c51a4aac81c91406a",
+    "metadata": [
+      {
+        "modId": "herbalbrews",
+        "version": "1.1.4"
+      }
+    ]
+  },
+  {
+    "filename": "letsdo-vinery-neoforge-1.5.6.jar",
+    "enabled": true,
+    "sha256": "1224cd6e4e233f9f6c717a34ccb5c8f3d1665b94ca3e005448c7151c2ea028a6",
+    "metadata": [
+      {
+        "modId": "vinery",
+        "version": "1.5.6",
+        "displayURL": "https://www.lets-do.ch"
+      }
+    ]
+  },
+  {
+    "filename": "letsdocompat-neoforge-2.3.1.jar",
+    "enabled": true,
+    "sha256": "443f2f9084e36ef322d4561d67185fb0989351c6d8cae1a188a98c7544c43bcd",
+    "metadata": [
+      {
+        "modId": "letsdocompat",
+        "version": "2.3.1"
+      }
+    ]
+  },
+  {
+    "filename": "libIPN-neoforge-1.21-6.5.1.jar",
+    "enabled": true,
+    "sha256": "6c43866f9fdd48deb8e433d43980d5b3c49c054c9990bd122def07490fe8ab43",
+    "metadata": [
+      {
+        "modId": "libipn",
+        "version": "6.5.1",
+        "displayURL": "https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next"
+      }
+    ]
+  },
+  {
+    "filename": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+    "enabled": true,
+    "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757",
+    "metadata": [
+      {
+        "modId": "lithium",
+        "version": "0.15.4+mc1.21.1"
+      }
+    ]
+  },
+  {
+    "filename": "lithostitched-1.8.1-neoforge-21.1.jar",
+    "enabled": true,
+    "sha256": "e0da669fa5facc61a09b9b7bae21b322993de1fcd1eb05787adffb7309598cca",
+    "metadata": [
+      {
+        "modId": "lithostitched",
+        "version": "1.8.1"
+      }
+    ]
+  },
+  {
+    "filename": "MCE_neoforge_1.21.1.jar",
+    "enabled": true,
+    "sha256": "3d125efb341ed447e1c5002160636e80fc840abf63d4b837c5794122020a007b",
+    "metadata": [
+      {
+        "modId": "modpackcoreessentials",
+        "version": "1.2.0"
+      }
+    ]
+  },
+  {
+    "filename": "mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
+    "enabled": true,
+    "sha256": "182ad8ad757175b49d573512c8fac624ee526e8138e24b36f677b0f6466e20cb",
+    "metadata": []
+  },
+  {
+    "filename": "midnightlib-neoforge-1.10.0+1.21.1.jar",
+    "enabled": true,
+    "sha256": "16ddfdcccd3cb6b18bb20e50b3ccf1c93e1b43098ac0b547af8ff3dc42cc05a4",
+    "metadata": [
+      {
+        "modId": "midnightlib",
+        "version": "1.10.0"
+      }
+    ]
+  },
+  {
+    "filename": "modernfix-neoforge-5.27.26+mc1.21.1.jar",
+    "enabled": true,
+    "sha256": "09f6842c63d14b3f1707f1f4a6f4602052f237f7efa9be135e41d3d97acf2a13",
+    "metadata": [
+      {
+        "modId": "modernfix",
+        "version": "5.27.26+mc1.21.1",
+        "displayURL": "https://modrinth.com/mod/modernfix"
+      }
+    ]
+  },
+  {
+    "filename": "moonlight-1.21-2.29.33-neoforge.jar",
+    "enabled": true,
+    "sha256": "47759081ab26271fed829f17abe1a8aa8ac1a17a111acb3b9255749e35e00f7a",
+    "metadata": [
+      {
+        "modId": "moonlight",
+        "version": "1.21-2.29.33"
+      }
+    ]
+  },
+  {
+    "filename": "moreculling-neoforge-1.21.1-1.0.10.jar",
+    "enabled": true,
+    "sha256": "008068af65deec86382b4fdde61e7f495e54861cc28d5a5b000c32b435213ed3",
+    "metadata": [
+      {
+        "modId": "moreculling",
+        "version": "1.0.10",
+        "displayURL": "https://modrinth.com/mod/moreculling"
+      }
+    ]
+  },
+  {
+    "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+    "enabled": true,
+    "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
+    "metadata": [
+      {
+        "modId": "mousetweaks",
+        "version": "2.26.1",
+        "displayURL": "https://minecraft.curseforge.com/projects/mouse-tweaks"
+      }
+    ]
+  },
+  {
+    "filename": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+    "enabled": true,
+    "sha256": "e95209d593bc00d7c5de94f746ffd1dfbfa70ac8fbe938393ef930d00416109c",
+    "metadata": [
+      {
+        "modId": "noisium",
+        "version": "2.3.0+mc1.21-1.21.1",
+        "displayURL": "https://github.com/Steveplays28/noisium"
+      }
+    ]
+  },
+  {
+    "filename": "notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+    "enabled": true,
+    "sha256": "e70609c5638d9f02edfb2c8ec448a7d567345323d7386937c174526aac56cb8f",
+    "metadata": [
+      {
+        "modId": "notenoughanimations",
+        "version": "1.12.6",
+        "displayURL": "https://modrinth.com/mod/not-enough-animations"
+      }
+    ],
+    "verified_download": "https://cdn.modrinth.com/data/MPCX6s5C/versions/VCuMsK45/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
+  },
+  {
+    "filename": "opac-warfare-1.6.7.2-npcdef.jar",
+    "enabled": true,
+    "sha256": "3474e0182b0616f2b4c8341c6bca9fae4208f6456379a69f994f7a86b18c6971",
+    "metadata": [
+      {
+        "modId": "customclaims_core",
+        "version": "1.6.7.2",
+        "displayURL": "https://github.com/SvinPepe/customclaims"
+      },
+      {
+        "modId": "customclaims_war",
+        "version": "1.6.7.2",
+        "displayURL": "https://github.com/SvinPepe/customclaims"
+      },
+      {
+        "modId": "customclaims_protection",
+        "version": "1.6.7.2",
+        "displayURL": "https://github.com/SvinPepe/customclaims"
+      },
+      {
+        "modId": "customclaims_create",
+        "version": "1.6.7.2",
+        "displayURL": "https://github.com/SvinPepe/customclaims"
+      },
+      {
+        "modId": "customclaims_aeronautics",
+        "version": "1.6.7.2",
+        "displayURL": "https://github.com/SvinPepe/customclaims"
+      },
+      {
+        "modId": "customclaims_big_cannons",
+        "version": "1.6.7.2",
+        "displayURL": "https://github.com/SvinPepe/customclaims"
+      },
+      {
+        "modId": "customclaims_xaero",
+        "version": "1.6.7.2",
+        "displayURL": "https://github.com/SvinPepe/customclaims"
+      }
+    ]
+  },
+  {
+    "filename": "open-parties-and-claims-neoforge-1.21.1-0.33.0.jar",
+    "enabled": true,
+    "sha256": "77eadbbb7cbd7298d9a99070ebde552b765dd91bdad5054c9f845a17d2931765",
+    "metadata": [
+      {
+        "modId": "openpartiesandclaims",
+        "version": "0.33.0",
+        "displayURL": "https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims"
+      }
+    ]
+  },
+  {
+    "filename": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+    "enabled": true,
+    "sha256": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f",
+    "metadata": [
+      {
+        "modId": "packetfixer",
+        "version": "3.3.1"
+      }
+    ]
+  },
+  {
+    "filename": "particle_core-0.3.3+1.21+neoforge.jar",
+    "enabled": true,
+    "sha256": "38c05981d1dc8428c7ab1130b9ec7f05bca1b70f909aba9c454c9611702a8dda",
+    "metadata": [
+      {
+        "modId": "particle_core",
+        "version": "0.3.3+1.21+neoforge"
+      }
+    ]
+  },
+  {
+    "filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+    "enabled": true,
+    "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
+    "metadata": [
+      {
+        "modId": "playeranimator",
+        "version": "2.0.4+1.21.1",
+        "displayURL": "https://github.com/KosmX/minecraftPlayerAnimator"
+      }
+    ],
+    "verified_download": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+  },
+  {
+    "filename": "Quark-4.1-488.jar",
+    "enabled": true,
+    "sha256": "f693092c4bc54e8ef427ff98f93926fd85875e45d2697b9db7c45f551ae24feb",
+    "metadata": [
+      {
+        "modId": "quark",
+        "version": "4.1-488"
+      }
+    ]
+  },
+  {
+    "filename": "rhino-2101.2.8-build.91.jar",
+    "enabled": true,
+    "sha256": "1d53d962aa4dac54bcbb4f998c1845980cf194318f1d6b1580ea6ac15cce5ef3",
+    "metadata": [
+      {
+        "modId": "rhino",
+        "version": "2101.2.8-build.91",
+        "displayURL": "https://kubejs.com"
+      }
+    ]
+  },
+  {
+    "filename": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+    "enabled": true,
+    "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24",
+    "metadata": [
+      {
+        "modId": "ritchiesprojectilelib",
+        "version": "2.1.2"
+      }
+    ]
+  },
+  {
+    "filename": "sable-neoforge-1.21.1-2.0.6.jar",
+    "enabled": true,
+    "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2",
+    "metadata": [
+      {
+        "modId": "sable",
+        "version": "2.0.6"
+      }
+    ]
+  },
+  {
+    "filename": "saturn-mc1.21.1-0.1.5.jar",
+    "enabled": true,
+    "sha256": "f49f4b51faeb4e9eb7568723fa259c0da1c3460f8019597f04a54c2137b76c32",
+    "metadata": [
+      {
+        "modId": "saturn",
+        "version": "0.1.5",
+        "displayURL": "https://github.com/AbdElAziz333/Saturn"
+      }
+    ]
+  },
+  {
+    "filename": "seasonal_lets_do-neoforge-1.5.0+1.21.jar",
+    "enabled": true,
+    "sha256": "bc5fc49340d786745aa176af44307723db6ae4c6d2576297ce8f350496c5cf7f",
+    "metadata": [
+      {
+        "modId": "seasonal_lets_do",
+        "version": "1.5.0+1.21"
+      }
+    ]
+  },
+  {
+    "filename": "SereneSeasons-neoforge-1.21.1-10.1.0.9.jar",
+    "enabled": true,
+    "sha256": "ce8cf6bd31f70b794fe97d88b4cd2beb45f83387fe20c8dcf39c92121ccaa723",
+    "metadata": [
+      {
+        "modId": "sereneseasons",
+        "version": "10.1.0.9"
+      }
+    ],
+    "verified_download": "https://cdn.modrinth.com/data/e0bNACJD/versions/pHEgQQUE/SereneSeasons-neoforge-1.21.1-10.1.0.9.jar"
+  },
+  {
+    "filename": "ShoulderSurfing-NeoForge-1.21.1-4.22.12.jar",
+    "enabled": true,
+    "sha256": "b9572a0b325432f988b728714c857fb8254f2e16e88fed78393a4cbcdd0ba299",
+    "metadata": [
+      {
+        "modId": "shouldersurfing",
+        "version": "1.21.1-4.22.12"
+      }
+    ]
+  },
+  {
+    "filename": "SmoothBoot-NeoForge+1.21-1.0.0.jar",
+    "enabled": true,
+    "sha256": "b6bbfd82706bb8f1b91c85395850c95e73cfe2b3edd7a85a2119e87c5fedb208",
+    "metadata": [
+      {
+        "modId": "smoothboot",
+        "version": "1.0.0",
+        "displayURL": "https://modrinth.com/mod/smooth-boot"
+      }
+    ]
+  },
+  {
+    "filename": "sodium-extra-neoforge-0.9.4+mc1.21.1.jar",
+    "enabled": true,
+    "sha256": "655b4a25d3d1ccc0f53d0589c676f0a86e46843ae537749048b4b0edc33a0f6f",
+    "metadata": [
+      {
+        "modId": "sodium_extra",
+        "version": "0.9.4+mc1.21.1"
+      }
+    ]
+  },
+  {
+    "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+    "enabled": true,
+    "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d",
+    "metadata": [
+      {
+        "modId": "sodium",
+        "version": "0.8.13+mc1.21.1"
+      }
+    ]
+  },
+  {
+    "filename": "sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
+    "enabled": true,
+    "sha256": "0adf5d847a8956142f10608dc724939482dad3bde62d078ba51a1af73819ae2d",
+    "metadata": [
+      {
+        "modId": "sophisticatedbackpacks",
+        "version": "3.26.17",
+        "displayURL": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks"
+      }
+    ]
+  },
+  {
+    "filename": "sophisticatedcore-1.21.1-1.5.19.2434.jar",
+    "enabled": true,
+    "sha256": "fe544662d105d9791c8a1db75f297351957d3e702546154f1493cc9869d4f2af",
+    "metadata": [
+      {
+        "modId": "sophisticatedcore",
+        "version": "1.5.19",
+        "displayURL": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core"
+      }
+    ]
+  },
+  {
+    "filename": "spark-1.10.124-neoforge.jar",
+    "enabled": true,
+    "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
+    "metadata": [
+      {
+        "modId": "spark",
+        "version": "1.10.124"
+      }
+    ]
+  },
+  {
+    "filename": "t_and_t-1.21.1-1.13.11.jar",
+    "enabled": true,
+    "sha256": "270fc0d1c99e54bc15f43d64bdaac60a90cb896efc357af624988e677136440f",
+    "metadata": [
+      {
+        "modId": "t_and_t",
+        "version": "1.13.11",
+        "displayURL": "https://modrinth.com/mod/towns-and-towers"
+      }
+    ]
+  },
+  {
+    "filename": "tectonic-3.0.28-neoforge-21.1.jar",
+    "enabled": true,
+    "sha256": "cf188c70e7dd94f6e3a81cef9fe99f1151f13217809f7576aaedb0c3e6547ae1",
+    "metadata": [
+      {
+        "modId": "tectonic",
+        "version": "3.0.28"
+      }
+    ]
+  },
+  {
+    "filename": "terrain_slabs-neoforge-3.1.2.jar",
+    "enabled": true,
+    "sha256": "6f439e78d40d46ba36966ea230f595d36c5bd2b6008f673117caca13a5827df3",
+    "metadata": [
+      {
+        "modId": "terrain_slabs",
+        "version": "3.1.2"
+      }
+    ]
+  },
+  {
+    "filename": "tracks-neoforge-1.21.1-1.0.1.jar",
+    "enabled": true,
+    "sha256": "b126b2522a129c13ebec6491b8602726bad9a3df201cf906468ba583796125c8",
+    "metadata": [
+      {
+        "modId": "tracks",
+        "version": "1.0.1"
+      }
+    ]
+  },
+  {
+    "filename": "UniversalEnchantmentInfo-1.21.1-neoforge-1.4.0.jar",
+    "enabled": true,
+    "sha256": "7a1eee21c4ccd731f8d809484fde75aec44d97a6d4dd6902a231d15878988577",
+    "metadata": [
+      {
+        "modId": "uei",
+        "version": "1.4.0",
+        "displayURL": "https://github.com/Suel-ki/UniversalEnchantmentInfo"
+      }
+    ]
+  },
+  {
+    "filename": "worldgenfeaturefix-neoforge-1.21-1.0.1.jar",
+    "enabled": true,
+    "sha256": "04fbbadb92840eba56863d79a057f9d2997f1882dd648b9ba43d5dd65fa05f9b",
+    "metadata": [
+      {
+        "modId": "worldgenfeaturefix",
+        "version": "1.0.1"
+      }
+    ]
+  },
+  {
+    "filename": "xaerominimap-neoforge-1.21.1-26.6.0.jar",
+    "enabled": true,
+    "sha256": "d3398221b2262abfe2d394b588122e5b3fd2e4d8c4bf66a5fd357352fcf51b2e",
+    "metadata": [
+      {
+        "modId": "xaerominimap",
+        "version": "26.6.0"
+      }
+    ]
+  },
+  {
+    "filename": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+    "enabled": true,
+    "sha256": "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7",
+    "metadata": [
+      {
+        "modId": "xaeroworldmap",
+        "version": "1.47.0"
+      }
+    ]
+  },
+  {
+    "filename": "Zeta-1.1-40.jar",
+    "enabled": true,
+    "sha256": "4f17d1a2b9fd6d18ddb7697aa451db7fb154053b8648f79de279ae0d7e68a2fa",
+    "metadata": [
+      {
+        "modId": "zeta",
+        "version": "1.1-40"
+      }
+    ]
+  },
+  {
+    "filename": "skinrestorer-2.11.0+1.21-neoforge.jar",
+    "enabled": true,
+    "sha256": "a56b18a7f51f66cdb0010c2a1d4d3b056bb65573351f90eb406974bfacfc4bc8",
+    "metadata": [
+      {
+        "modId": "skinrestorer",
+        "version": "2.11.0+1.21-neoforge",
+        "displayURL": "https://modrinth.com/mod/skinrestorer/version/QFkb2iq2"
+      }
+    ]
+  },
+  {
+    "filename": "automodpack-mc1.21.1-neoforge-4.0.7.jar",
+    "enabled": true,
+    "sha256": "55da7fd4bebdf31b1592bcfd4d4a7126e2d27436c8a0a1e735f97dd2e2035da6",
+    "metadata": [
+      {
+        "modId": "automodpack",
+        "version": "4.0.7",
+        "displayURL": "https://modrinth.com/mod/automodpack/version/QpFRQTSU"
+      }
+    ]
+  },
+  {
+    "filename": "VeggiesDelight-1.21.1-1.9.3.jar",
+    "enabled": true,
+    "sha256": "0bc502a2aa6816ceadce6192f159e2472aced936fa2b6375d03fc609190f90d0",
+    "metadata": [
+      {
+        "modId": "veggiesdelight",
+        "version": "1.9.3"
+      }
+    ],
+    "source": "https://cdn.modrinth.com/data/emQ94xri/versions/9LiRnALb/VeggiesDelight-1.21.1-1.9.3.jar"
+  },
+  {
+    "filename": "crabbersdelight-1.21.1-1.3.1.jar",
+    "enabled": true,
+    "sha256": "a1c9757de071485af01768fbb45bd5e94d5f89d6d48d26a432706d952d555ed8",
+    "metadata": [
+      {
+        "modId": "crabbersdelight",
+        "version": "1.3.1"
+      }
+    ],
+    "source": "https://cdn.modrinth.com/data/gBGdVBJy/versions/j5Nzh8kh/crabbersdelight-1.21.1-1.3.1.jar"
+  },
+  {
+    "filename": "endersdelight-1.3.1.jar",
+    "enabled": true,
+    "sha256": "dbc7622fa6e3a7168e222ccd70eb1c37dfb71bf935efb5bae4dd60b06978ad48",
+    "metadata": [
+      {
+        "modId": "endersdelight",
+        "version": "1.3.1"
+      }
+    ],
+    "source": "https://cdn.modrinth.com/data/2uEhdGKt/versions/5S67w5gs/endersdelight-1.3.1.jar"
+  },
+  {
+    "filename": "CosmeticArmours - 1.6.0.1 - 1.21.1 - NeoForge.jar",
+    "enabled": true,
+    "sha256": "12a3e78f83294bcc3140c49dabb86a91fdc5ac2a463942e14cae812b4be065f1",
+    "metadata": [
+      {
+        "modId": "cosmeticarmoursmod",
+        "version": "1.6.0.1"
+      }
+    ],
+    "source": "https://cdn.modrinth.com/data/H3JIzTFR/versions/h65hzPFD/CosmeticArmours%20-%201.6.0.1%20-%201.21.1%20-%20NeoForge.jar"
+  },
+  {
+    "filename": "Patchouli-1.21.1-93-NEOFORGE.jar",
+    "enabled": true,
+    "sha256": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
+    "metadata": [
+      {
+        "modId": "patchouli",
+        "version": "1.21.1-93-neoforge"
+      }
+    ],
+    "source": "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar"
+  }
+]

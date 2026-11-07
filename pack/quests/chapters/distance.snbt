@@ -1,0 +1,206 @@
+{
+	default_hide_dependency_lines: false
+	filename: "distance"
+	group: "669605009D3D37DF"
+	id: "5ADEE45DF779F939"
+	order_index: 41
+	quest_links: []
+	images: [{
+		id: "51D8F22877F7F521"
+		image: "dream_expedition:textures/quest_atlas/frontier.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -20.8d
+	}]
+	icon: "minecraft:obsidian"
+	quests: [
+		{
+			id: "786FBA61CE848628"
+			optional: true
+			shape: "circle"
+			x: 8.1d
+			y: 0.0d
+			tasks: [{
+				id: "2946B9C3F1FF90E4"
+				item: { count: 1, id: "minecraft:obsidian" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "1C0F27071D9B8F15"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "3CCF63AF07F8FEF2"
+			optional: true
+			shape: "circle"
+			x: -6.9d
+			y: 6.3d
+			tasks: [{
+				id: "2246DBDE3A19C721"
+				item: { count: 1, id: "minecraft:flint_and_steel" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "173D76CC491CB393"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "279DD8C06AF9FDDA"
+			optional: true
+			shape: "circle"
+			x: 0.9d
+			y: -10.3d
+			tasks: [{
+				id: "27AE6DF2E4BAE7F5"
+				item: { count: 1, id: "minecraft:soul_sand" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "1494444624D9A861"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "5D8C4CDCA7F8C5EE"
+			optional: true
+			shape: "circle"
+			x: 6.8d
+			y: 8.9d
+			tasks: [{
+				id: "70E0ECA7116A80B8"
+				item: { count: 1, id: "minecraft:nether_quartz" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "2FB743B0CF6F4691"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "04CBEA22DF901C9D"
+			optional: true
+			shape: "circle"
+			x: -11.7d
+			y: -2.1d
+			tasks: [{
+				id: "6DAE043E70874ECD"
+				item: { count: 1, id: "minecraft:basalt" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "0C13D6FA729DECBF"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "1B1CD372C6B3871D"
+			optional: true
+			shape: "circle"
+			x: 10.6d
+			y: -6.8d
+			tasks: [{
+				id: "0864465F5DE534AC"
+				item: { count: 1, id: "minecraft:nether_brick" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "5DDF05A2A61BD383"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "193D2577D3E292FA"
+			optional: true
+			shape: "circle"
+			x: -3.4d
+			y: 12.7d
+			tasks: [{
+				id: "16F2A55E4E768B6D"
+				item: { count: 1, id: "minecraft:blaze_rod" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "630A348DE7912A92"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "0F87453B88E2C905"
+			optional: true
+			shape: "circle"
+			x: -6.3d
+			y: -12.2d
+			tasks: [{
+				id: "6E3BF029CE6BAEE9"
+				item: { count: 1, id: "minecraft:ender_pearl" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "49D337246C08F387"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "3769F2F2FDEEC489"
+			optional: true
+			shape: "circle"
+			x: 13.4d
+			y: 4.9d
+			tasks: [{
+				id: "11E3630F86BAE92B"
+				item: { count: 1, id: "minecraft:eye_of_ender" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "776731BD2CD337FF"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "68F5A867242902FC"
+			optional: true
+			shape: "circle"
+			x: -13.7d
+			y: 5.6d
+			tasks: [{
+				id: "6864145D81209120"
+				item: { count: 1, id: "minecraft:end_stone" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "5F4E814728823BAE"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "33E2319A52145AB2"
+			optional: true
+			shape: "circle"
+			x: 6.5d
+			y: -13.8d
+			tasks: [{
+				id: "63CB470C3EF592D6"
+				item: { count: 1, id: "minecraft:shulker_shell" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "36F3AEAA8FD28183"
+				type: "xp"
+				xp: 5
+			}]
+		}
+	]
+}

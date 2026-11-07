@@ -1,0 +1,198 @@
+{
+	default_hide_dependency_lines: false
+	filename: "processing"
+	group: "694D9840A70126D8"
+	id: "4C36215ABE4FCB65"
+	order_index: 35
+	quest_links: []
+	images: [{
+		id: "2C913A5621B6D2C2"
+		image: "dream_expedition:textures/quest_atlas/works.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "create:millstone"
+	quests: [
+		{
+			id: "5A63A74F98DAF36E"
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{
+				id: "3F18FB4A41768FBE"
+				item: { count: 1, id: "create:millstone" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "244555C3B05A5FF0"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "41DEB486235F2955"
+			dependencies: ["5A63A74F98DAF36E"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 3.0d
+			tasks: [{
+				id: "182E26C4B50D30DD"
+				item: { count: 1, id: "create:crushing_wheel" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "410C6C790B3A43C5"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "2C4ABDEE395B894B"
+			dependencies: ["5A63A74F98DAF36E"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 6.0d
+			tasks: [{
+				id: "2D5D3C1B60A38975"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/processing/mechanical_press"
+			}]
+			rewards: [{
+				id: "1B6A984A78A4E2E5"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "1D49032954BBD6BC"
+			dependencies: ["5A63A74F98DAF36E"]
+			optional: false
+			shape: "hexagon"
+			x: 7.0d
+			y: 9.0d
+			tasks: [{
+				id: "6ED17C983A09D582"
+				item: { count: 1, id: "create:depot" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "7FBA12D52796BA59"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "47B726652B52FA4A"
+			dependencies: ["1D49032954BBD6BC"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 12.0d
+			tasks: [{
+				id: "1F187D29E65EA21E"
+				item: { count: 1, id: "create:basin" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "23A17F3D27B1EF4A"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "22937C6129EA45E8"
+			dependencies: ["1D49032954BBD6BC"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 15.0d
+			tasks: [{
+				id: "0E33D04169B25385"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/processing/mechanical_mixer"
+			}]
+			rewards: [{
+				id: "6A7E99C5EBF13E8E"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "5FF42AFDD7B59DEA"
+			dependencies: ["1D49032954BBD6BC"]
+			optional: false
+			shape: "hexagon"
+			x: 14.0d
+			y: 18.0d
+			tasks: [{
+				id: "055B0BACB1CB8A73"
+				item: { count: 1, id: "create:fluid_pipe" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "5C006888CDC6062F"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "6B20A34D8CA17910"
+			dependencies: ["5FF42AFDD7B59DEA"]
+			optional: true
+			shape: "circle"
+			x: 21.0d
+			y: 21.0d
+			tasks: [{
+				id: "18230684C9226977"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/processing/mechanical_pump"
+			}]
+			rewards: [{
+				id: "7DDB3B53B135F32A"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "61D74D65AE5C5E10"
+			dependencies: ["5FF42AFDD7B59DEA"]
+			optional: true
+			shape: "circle"
+			x: 21.0d
+			y: 24.0d
+			tasks: [{
+				id: "167C05260AD8B11D"
+				item: { count: 1, id: "create:fluid_tank" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "0040CF482F09379C"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "5E14F9944DF9937E"
+			dependencies: ["5FF42AFDD7B59DEA"]
+			optional: false
+			shape: "hexagon"
+			x: 21.0d
+			y: 27.0d
+			tasks: [{
+				id: "1BD7AA5046B8B746"
+				item: { count: 1, id: "create:spout" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "290B9D32FBEC9D1A"
+				type: "xp"
+				xp: 10
+			}]
+		}
+	]
+}

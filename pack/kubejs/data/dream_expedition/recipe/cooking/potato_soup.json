@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "farm_and_charm:onion"
+    }
+  ],
+  "result": {
+    "id": "farm_and_charm:potato_soup",
+    "count": 1
+  },
+  "container": {
+    "id": "minecraft:bowl",
+    "count": 1
+  },
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

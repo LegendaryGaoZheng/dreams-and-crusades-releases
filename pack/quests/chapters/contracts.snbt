@@ -1,0 +1,82 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "contracts"
+	group: "136C2476B3C4FF9B"
+	id: "36BC865578768672"
+	order_index: 0
+	quest_links: [ ]
+	images: [{
+		id: "17BEAD7FBD5F21E4"
+		image: "dream_expedition:textures/quest_atlas/banner.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "create:brass_sheet"
+	quests: [
+		{
+			can_repeat: true
+			id: "793C32F48B0CB9A9"
+			repeat_cooldown: 1800
+			rewards: [
+				{
+					id: "0BCFC88842F52F6D"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "03676FF65EC1F977"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_shieldman"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.8d
+			tasks: [{
+				count: 16L
+				id: "42DC7742668D48D2"
+				item: { count: 1, id: "create:brass_sheet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["793C32F48B0CB9A9"]
+			id: "4F0C990A173E2F43"
+			repeat_cooldown: 1800
+			rewards: [
+				{
+					id: "68925A777329873C"
+					type: "xp"
+					xp: 80
+				}
+				{
+					id: "7D271395F2AED404"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_archer"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.8d
+			tasks: [{
+				consume_items: true
+				count: 4L
+				id: "6C5BB25B928F337B"
+				item: { count: 1, id: "create:precision_mechanism" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+	]
+}

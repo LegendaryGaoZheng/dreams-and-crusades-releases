@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "milestone": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "hundred_years_war:handgonne"
+      }
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+	default_hide_dependency_lines: false
+	filename: "ruins"
+	group: "669605009D3D37DF"
+	id: "7576A3760C63806C"
+	order_index: 40
+	quest_links: []
+	images: [{
+		id: "1EBF8E607EEAA2B7"
+		image: "dream_expedition:textures/quest_atlas/frontier.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -19.2d
+	}]
+	icon: "minecraft:mossy_cobblestone"
+	quests: [
+		{
+			id: "79B608284E3FE570"
+			optional: true
+			shape: "circle"
+			x: 8.1d
+			y: 0.0d
+			tasks: [{
+				id: "3E63003A485ECCD4"
+				item: { count: 1, id: "minecraft:mossy_cobblestone" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "056EB2C89D559F66"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "0852F57A0DDC10F6"
+			optional: true
+			shape: "circle"
+			x: -6.9d
+			y: 6.3d
+			tasks: [{
+				id: "6CBBEE235B935093"
+				item: { count: 1, id: "minecraft:chain" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "7FEE3F2E5B773296"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "3E5C5925658DE17F"
+			optional: true
+			shape: "circle"
+			x: 0.9d
+			y: -10.3d
+			tasks: [{
+				id: "3D3B2060F78BF97D"
+				item: { count: 1, id: "minecraft:golden_apple" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "37C5A0DD05384E80"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "339DC1EF97A092C2"
+			optional: true
+			shape: "circle"
+			x: 6.8d
+			y: 8.9d
+			tasks: [{
+				id: "565ED626D9FB0055"
+				item: { count: 1, id: "minecraft:arrow" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "1C0C01C451994C7D"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "535E0A11D8A89D38"
+			optional: true
+			shape: "circle"
+			x: -11.7d
+			y: -2.1d
+			tasks: [{
+				id: "495A464F6B7F0B75"
+				item: { count: 1, id: "minecraft:string" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "47BDFB510CBA01A0"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "1E816D0CC28CE966"
+			optional: true
+			shape: "circle"
+			x: 10.6d
+			y: -6.8d
+			tasks: [{
+				id: "01DDD7BBB49BC0AA"
+				item: { count: 1, id: "minecraft:saddle" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "3697876E116AFC22"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "6D86A5DAE1B25F56"
+			optional: true
+			shape: "circle"
+			x: -3.4d
+			y: 12.7d
+			tasks: [{
+				id: "25D2E1D681224173"
+				item: { count: 1, id: "minecraft:iron_horse_armor" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "1D27EA3F9A3834DF"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "505E497BA377AD7C"
+			optional: true
+			shape: "circle"
+			x: -6.3d
+			y: -12.2d
+			tasks: [{
+				id: "37BAA6E48C347858"
+				item: { count: 1, id: "minecraft:name_tag" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "53642F95E425AA2D"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "477D00F8CCC8C730"
+			optional: true
+			shape: "circle"
+			x: 13.4d
+			y: 4.9d
+			tasks: [{
+				id: "51360882987E616C"
+				item: { count: 1, id: "minecraft:glow_ink_sac" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "30FA10FAECB3DD3F"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "2149935AEFB9313D"
+			optional: true
+			shape: "circle"
+			x: -13.7d
+			y: 5.6d
+			tasks: [{
+				id: "7ECF829C9D5D2C5F"
+				item: { count: 1, id: "minecraft:amethyst_shard" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "2B052E1A58B0EC10"
+				type: "xp"
+				xp: 5
+			}]
+		}
+	]
+}

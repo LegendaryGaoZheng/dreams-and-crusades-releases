@@ -1,0 +1,48 @@
+{
+  "release": "update-pilot-b0f7da3be7b3",
+  "bootstrap_sha256": "6a730659749245c2fae533b7972ad0019998a38e7c06953f7f409c855dd3b3db",
+  "github_source_test": "passed: native DownloadManager downloaded real GitHub Release object",
+  "index_guards": [
+    "SHA-1 and size must match native manifest",
+    "HTTPS own repository Releases only"
+  ],
+  "ui_static": "interactive existing-pack branch routes through existing confirmation screen",
+  "ui_game": "pending",
+  "cloud": "JAR and frozen 229-file client snapshot uploaded; restart required",
+  "local": "patched GitHub release JAR installed; original dev mods backed up",
+  "cloud_jar": "dsh-dev-21.1.264/mods/automodpack-mc1.21.1-neoforge-4.0.7-dsh1.jar",
+  "cloud_config": {
+    "DO_NOT_CHANGE_IT": 2,
+    "modpackName": "dreams-and-crusades-cloud-pilot",
+    "modpackHost": true,
+    "generateModpackOnStart": true,
+    "syncedFiles": [],
+    "allowEditsInFiles": [],
+    "forceCopyFilesToStandardLocation": [],
+    "nonModpackFilesToDelete": {},
+    "autoExcludeServerSideMods": false,
+    "autoExcludeUnnecessaryFiles": true,
+    "requireAutoModpackOnClient": false,
+    "nagUnModdedClients": false,
+    "bindAddress": "",
+    "bindPort": 6073,
+    "addressToSend": "",
+    "portToSend": 6073,
+    "disableInternalTLS": false,
+    "requireMagicPackets": false,
+    "updateIpsOnEveryStart": false,
+    "bandwidthLimit": 2,
+    "validateSecrets": true,
+    "secretLifetime": 336,
+    "selfUpdater": false,
+    "acceptedLoaders": [
+      "neoforge"
+    ]
+  },
+  "snapshot_verification": {
+    "files": 229,
+    "bytes": 211918572,
+    "sha256_verified": true
+  },
+  "upstream_action_success": "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases/actions/runs/42032327108"
+}

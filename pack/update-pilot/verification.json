@@ -1,0 +1,66 @@
+{
+  "baseline": "32a3824",
+  "repository": "https://github.com/LegendaryGaoZheng/dreams-and-crusades-releases",
+  "public_docs_commit": "b4b3d3d1c2daeff51af2852f3675c168a66c8768",
+  "selected_version": "AutoModpack 4.0.7 NeoForge 1.21.1",
+  "sha256": "c76ac8e4c754ba39d1baee3a8ac146be9bfddfad58fa10cc48527d4accd47ce7",
+  "source": "https://modrinth.com/mod/automodpack/version/QpFRQTSU",
+  "native_passed": [
+    "native v1/v2 content generation",
+    "native TLS download manager",
+    "add",
+    "replace",
+    "unchanged zero transferred bytes",
+    "incomplete file repair",
+    "hash mismatch rejected after retries",
+    "rejected bytes removed",
+    "personal paths excluded"
+  ],
+  "manifest_passed": [
+    "explicit selection",
+    "content-addressed SHA-256 assets",
+    "remove list with expected old hash",
+    "duplicate refusal",
+    "traversal and private paths refused",
+    "personal fixture unchanged"
+  ],
+  "native_evidence": ".stage/update-pilot/native-07",
+  "manifest_evidence": ".stage/update-pilot/manifest-validation.json",
+  "pending": [
+    "live transfer interruption",
+    "real pack multiplayer",
+    "download source internet accessibility",
+    "GitHub Releases source integration",
+    "per-update optional prompt",
+    "late join flow"
+  ],
+  "github_transport": "4.0.7 uses custom protocol; Releases assets cannot serve its metadata endpoint",
+  "v5_note": "5.0.0-rc.7 adds static HTTP contract but is prerelease; not selected",
+  "cloud_probe": {
+    "user_reported_port": 6073,
+    "tcp_result": "connection refused",
+    "https_ownership": "unverified",
+    "rcon_conflict": "6073 was previously shown as the panel RCON port; verify current RCON settings before reuse"
+  },
+  "deployment": {
+    "local_dev": "candidate installed",
+    "cloud": "rollout deferred due to acceptance failure",
+    "formal_release": "no release published"
+  },
+  "rollback": "Exit dev, remove exactly the pinned AutoModpack JAR and trial client config if unchanged; revert lock entry. Preserve any subsequently created player data.",
+  "failures_retained": ".stage/update-pilot/native-01 through native-03; all subsequent runs use fresh directories",
+  "pcl_validation": {
+    "status": "passed",
+    "user_confirmed_title_screen": true,
+    "log": "dev/logs/latest.log",
+    "events": [
+      "20:23:33 AutoModpack prelaunched",
+      "20:23:47 AutoModpack launched",
+      "20:24:31 local player AutoModpack detected"
+    ]
+  },
+  "acceptance": "Previous deletion policy objection resolved by user. GitHub source and per-update prompt remain unresolved.",
+  "policy_failure": "Native ModpackUpdater.deleteNonModpackFiles deletes an unregistered file inside the managed pack directory. Not limited to previous manifest.",
+  "outside_personal_fixture": "options.txt and saves retained outside managed directory",
+  "revised_policy": "User accepts replacing managed pack contents to match latest release, including removing extra files there. Personal directories remain outside managed payload."
+}

@@ -1,0 +1,234 @@
+{
+	default_hide_dependency_lines: false
+	filename: "firearms"
+	group: "136C2476B3C4FF9B"
+	id: "1CE0AC686490B090"
+	order_index: 44
+	quest_links: []
+	images: [{
+		id: "4C68873AFD33CB95"
+		image: "dream_expedition:textures/quest_atlas/banner.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "hundred_years_war:handgonne"
+	quests: [
+		{
+			id: "4212C9DDC717CE65"
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: 0.0d
+			tasks: [{
+				id: "047B396A4889CFF1"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/firearms/handgonne"
+			}]
+			rewards: [{
+				id: "144CD5B4EF80EEE1"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "4E6ED69105A6EAFE"
+			dependencies: ["4212C9DDC717CE65"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 5.0d
+			tasks: [{
+				id: "691E925D7166241B"
+				item: { count: 1, id: "hundred_years_war:bullet" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "073B134D0D99E165"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "2DB950F123D81C21"
+			dependencies: ["4212C9DDC717CE65"]
+			optional: true
+			shape: "circle"
+			x: 0.0d
+			y: 10.0d
+			tasks: [{
+				id: "438FB9882D5EF072"
+				item: { count: 1, id: "minecraft:gunpowder" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6E4CDC7BEAD10D1B"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "4E24FE8770F60FD1"
+			dependencies: ["4212C9DDC717CE65"]
+			optional: false
+			shape: "hexagon"
+			x: 0.0d
+			y: 15.0d
+			tasks: [{
+				id: "77D847AFC48260A6"
+				type: "advancement"
+				advancement: "dream_expedition:quest_atlas/firearms/matchlock"
+			}]
+			rewards: [{
+				id: "72DF3E66E6867491"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "1B82650F9CC1486B"
+			dependencies: ["4E24FE8770F60FD1"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 0.0d
+			tasks: [{
+				id: "2464818E634C3E39"
+				item: { count: 1, id: "minecraft:target" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "2D47EC12030C9D0E"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "796845167C961BC6"
+			dependencies: ["4E24FE8770F60FD1"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 5.0d
+			tasks: [{
+				id: "775492F095848566"
+				item: { count: 1, id: "minecraft:anvil" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "391777B599E5DB80"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "12271CE4D0F10578"
+			dependencies: ["4E24FE8770F60FD1"]
+			optional: false
+			shape: "hexagon"
+			x: 7.0d
+			y: 10.0d
+			tasks: [{
+				id: "630DA71D67C5FA3C"
+				item: { count: 1, id: "minecraft:grindstone" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "6E6C5431A63C2762"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "19EC10D84AAC6B1F"
+			dependencies: ["12271CE4D0F10578"]
+			optional: true
+			shape: "circle"
+			x: 7.0d
+			y: 15.0d
+			tasks: [{
+				id: "64FED030D4E182DD"
+				item: { count: 1, id: "minecraft:iron_sword" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "4D0B7B4820D0D516"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "1C47125179809D0C"
+			dependencies: ["12271CE4D0F10578"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 0.0d
+			tasks: [{
+				id: "3B503F28816D1AEE"
+				item: { count: 1, id: "minecraft:iron_chestplate" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "203A37BD31B66C5B"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "254503DF037D861A"
+			dependencies: ["12271CE4D0F10578"]
+			optional: false
+			shape: "hexagon"
+			x: 14.0d
+			y: 5.0d
+			tasks: [{
+				id: "17B9C02F0F9291FF"
+				item: { count: 1, id: "minecraft:iron_helmet" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "146147A335B3ADE9"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "1E4DB8FB99620C22"
+			dependencies: ["254503DF037D861A"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 10.0d
+			tasks: [{
+				id: "072DB5FDF6362181"
+				item: { count: 1, id: "minecraft:iron_leggings" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "0B25373670C2DC9A"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "7C3A6C0D0236E6CF"
+			dependencies: ["254503DF037D861A"]
+			optional: true
+			shape: "circle"
+			x: 14.0d
+			y: 15.0d
+			tasks: [{
+				id: "36FD7C714C64F46D"
+				item: { count: 1, id: "minecraft:iron_boots" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "768225AAB5FBF2C9"
+				type: "xp"
+				xp: 5
+			}]
+		}
+	]
+}

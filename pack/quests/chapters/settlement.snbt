@@ -1,0 +1,141 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "settlement"
+	group: "01643A218C6A9DF4"
+	id: "6E6741FF59014D34"
+	order_index: 2
+	quest_links: [ ]
+	images: [{
+		id: "6BE406A54A6D67BB"
+		image: "dream_expedition:textures/quest_atlas/homestead.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "minecraft:crafting_table"
+	quests: [
+		{
+			id: "30519E41CB688427"
+			rewards: [
+				{
+					id: "4E7A16BC4128BBCE"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "48B0E1A249596B4A"
+					item: {
+						count: 1
+						id: "minecraft:oak_planks"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.5d
+			tasks: [{
+				id: "7241315B607A0F35"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["30519E41CB688427"]
+			id: "015060A7D950F4A6"
+			rewards: [
+				{
+					id: "354F8EEAD43E9838"
+					type: "xp"
+					xp: 15
+				}
+				{
+					id: "6BA253F5A01EB801"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "70F1832BB9F6D6F2"
+				item: { count: 1, id: "minecraft:stone_pickaxe" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["30519E41CB688427"]
+			id: "6E811EBA2DB28BA5"
+			rewards: [{
+				id: "168E2535E1F07194"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				count: 16L
+				id: "4407FE6A6A925D81"
+				item: { count: 1, id: "minecraft:oak_fence" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["015060A7D950F4A6"]
+			id: "5D08A8258F7313E5"
+			rewards: [
+				{
+					id: "28C5B8A1325E2824"
+					type: "xp"
+					xp: 20
+				}
+				{
+					id: "2A177BA5F8B140C4"
+					item: {
+						count: 1
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.2d
+			tasks: [{
+				count: 8L
+				id: "5978A58CF82B8BCA"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["30519E41CB688427"]
+			id: "6807CA57DFD4509C"
+			rewards: [{
+				id: "6D3BDD979FFC5EA4"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "2188F8E1073F7A3E"
+				item: { count: 1, id: "minecraft:furnace" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}

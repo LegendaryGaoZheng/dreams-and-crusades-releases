@@ -1,0 +1,198 @@
+{
+	default_hide_dependency_lines: false
+	filename: "trail"
+	group: "669605009D3D37DF"
+	id: "79FE3A29B027E528"
+	order_index: 38
+	quest_links: []
+	images: [{
+		id: "466F7A05954E957B"
+		image: "dream_expedition:textures/quest_atlas/frontier.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -19.2d
+	}]
+	icon: "minecraft:compass"
+	quests: [
+		{
+			id: "6C76E64A1B706523"
+			optional: false
+			shape: "hexagon"
+			x: 8.1d
+			y: 0.0d
+			tasks: [{
+				id: "74F54ABC300B12FB"
+				item: { count: 1, id: "minecraft:compass" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "215D5D0818F7C248"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "7AFD44DADF661A9B"
+			dependencies: ["6C76E64A1B706523"]
+			optional: true
+			shape: "circle"
+			x: -6.9d
+			y: 6.3d
+			tasks: [{
+				id: "0227B5FBAD688A52"
+				item: { count: 1, id: "minecraft:map" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "0C7E511C7B9F86DC"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "49082930BBDE7770"
+			dependencies: ["6C76E64A1B706523"]
+			optional: true
+			shape: "circle"
+			x: 0.9d
+			y: -10.3d
+			tasks: [{
+				id: "7DA0F41CF406BB4C"
+				item: { count: 1, id: "minecraft:spyglass" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "705630683863D860"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "18D7B1E40B46F4D9"
+			dependencies: ["6C76E64A1B706523"]
+			optional: false
+			shape: "hexagon"
+			x: 6.8d
+			y: 8.9d
+			tasks: [{
+				id: "17C50E02668DD542"
+				item: { count: 1, id: "minecraft:oak_boat" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "3BB9B7399F38E41B"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "10B76AB353C00CD8"
+			dependencies: ["18D7B1E40B46F4D9"]
+			optional: true
+			shape: "circle"
+			x: -11.7d
+			y: -2.1d
+			tasks: [{
+				id: "203BD24E666F8694"
+				item: { count: 1, id: "minecraft:lead" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "4DA0BE98CB89F997"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "128FD5FABDA210CB"
+			dependencies: ["18D7B1E40B46F4D9"]
+			optional: true
+			shape: "circle"
+			x: 10.6d
+			y: -6.8d
+			tasks: [{
+				id: "050275CDEE6F49D7"
+				item: { count: 1, id: "minecraft:shield" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "082DA8B5A506C7FB"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "5749224838429F22"
+			dependencies: ["18D7B1E40B46F4D9"]
+			optional: false
+			shape: "hexagon"
+			x: -3.4d
+			y: 12.7d
+			tasks: [{
+				id: "0028F7C759443F0D"
+				item: { count: 1, id: "minecraft:bundle" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "0455265DB995FD34"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			id: "3DB2671B8EE5FB8E"
+			dependencies: ["5749224838429F22"]
+			optional: true
+			shape: "circle"
+			x: -6.3d
+			y: -12.2d
+			tasks: [{
+				id: "0551BC4F659C2A1A"
+				item: { count: 1, id: "minecraft:lantern" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "27A64A171DA445D4"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "3ED09B8E7B4EC10C"
+			dependencies: ["5749224838429F22"]
+			optional: true
+			shape: "circle"
+			x: 13.4d
+			y: 4.9d
+			tasks: [{
+				id: "57F77E33BF57676D"
+				item: { count: 1, id: "minecraft:campfire" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "60A87F3ADD17A171"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			id: "5B4CA748B0635D39"
+			dependencies: ["5749224838429F22"]
+			optional: false
+			shape: "hexagon"
+			x: -13.7d
+			y: 5.6d
+			tasks: [{
+				id: "3EE002C1D6151DF1"
+				item: { count: 1, id: "minecraft:hay_block" }
+				type: "item"
+			}]
+			rewards: [{
+				id: "7EE694AC6E3A0843"
+				type: "xp"
+				xp: 10
+			}]
+		}
+	]
+}

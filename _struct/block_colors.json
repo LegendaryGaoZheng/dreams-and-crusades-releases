@@ -1,0 +1,11562 @@
+{
+"aero_no_horizon:horn": [
+133,
+103,
+66
+],
+"aero_no_horizon:large_phys_track": [
+140,
+140,
+150
+],
+"aero_no_horizon:large_simple_wheel": [
+140,
+140,
+150
+],
+"aero_no_horizon:large_simple_wheel_part": [
+140,
+140,
+150
+],
+"aero_no_horizon:large_suspension_track": [
+140,
+140,
+150
+],
+"aero_no_horizon:med_phys_track": [
+140,
+140,
+150
+],
+"aero_no_horizon:med_simple_wheel": [
+140,
+140,
+150
+],
+"aero_no_horizon:med_simple_wheel_part": [
+140,
+140,
+150
+],
+"aero_no_horizon:med_suspension_track": [
+140,
+140,
+150
+],
+"aero_no_horizon:oleo_wheel": [
+140,
+140,
+150
+],
+"aero_no_horizon:phys_track": [
+140,
+140,
+150
+],
+"aero_no_horizon:simple_wheel": [
+140,
+140,
+150
+],
+"aero_no_horizon:simple_wheel_part": [
+140,
+140,
+150
+],
+"aero_no_horizon:small_simple_wheel": [
+140,
+140,
+150
+],
+"aero_no_horizon:small_simple_wheel_part": [
+140,
+140,
+150
+],
+"aero_no_horizon:suspension_track": [
+140,
+140,
+150
+],
+"aero_no_horizon:track_level_controller": [
+140,
+140,
+150
+],
+"cbc_firepower_components:autocannon_ammo_feed": [
+140,
+140,
+150
+],
+"cbc_firepower_components:cannon_magazine_loader": [
+140,
+140,
+150
+],
+"cbc_firepower_components:compact_autocannon_mount": [
+140,
+140,
+150
+],
+"cbc_firepower_components:compact_cannon_mount": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:apds_shot": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:autocannon_ammo_drum": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:bronze_mediumcannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:bronze_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:bronze_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:bronze_rotarycannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:bronze_rotarycannon_bearing": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:bronze_rotarycannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:built_up_gun_launcher_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:carbon_steel_block": [
+34,
+35,
+35
+],
+"cbcmodernwarfare:carbon_steel_slab": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:carbon_steel_stairs": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:cast_iron_mediumcannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:cast_iron_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:cast_iron_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:compact_mount": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:composite_block": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:era_block": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:era_slab": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:era_stairs": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:era_vertical_slab": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:green_era_block": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:green_era_slab": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:green_era_stairs": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:green_era_vertical_slab": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:gun_launcher_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:gun_launcher_chamber": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:gun_launcher_quickfiring_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:gun_launcher_sliding_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:heap_shell": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:hefrag_shell": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_bronze_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_bronze_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_bronze_rotarycannon_bearing": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_bronze_rotarycannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_cast_iron_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_cast_iron_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_gun_launcher_sliding_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_nethersteel_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_nethersteel_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_nethersteel_rotarycannon_bearing": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_nethersteel_rotarycannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_steel_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_steel_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_steel_rotarycannon_bearing": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:incomplete_steel_rotarycannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:infrared_seeker_guidance": [
+255,
+255,
+255
+],
+"cbcmodernwarfare:manual_command_guidance": [
+255,
+255,
+255
+],
+"cbcmodernwarfare:mediumcannon_barrel_cast_mould": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:mediumcannon_breech_cast_mould": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:mediumcannon_recoil_barrel_cast_mould": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:molten_carbon_steel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:nethersteel_mediumcannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:nethersteel_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:nethersteel_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:nethersteel_rotarycannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:nethersteel_rotarycannon_bearing": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:nethersteel_rotarycannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:optical_command_guidance": [
+255,
+255,
+255
+],
+"cbcmodernwarfare:periscope_arc_sight": [
+255,
+255,
+255
+],
+"cbcmodernwarfare:periscope_ring_sight": [
+255,
+255,
+255
+],
+"cbcmodernwarfare:remote_gun_sight": [
+255,
+255,
+255
+],
+"cbcmodernwarfare:rocket_rails": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:rocket_rails_end": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:rotarycannon_ammo_drum": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:rotarycannon_barrel_cast_mould": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:rotarycannon_bearing_cast_mould": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:rotarycannon_breech_cast_mould": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:smoke_discharger": [
+70,
+71,
+69
+],
+"cbcmodernwarfare:solid_fuel_split_thruster": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:solid_fuel_tank": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:solid_fuel_thruster": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:steel_mediumcannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:steel_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:steel_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:steel_rotarycannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:steel_rotarycannon_bearing": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:steel_rotarycannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:tan_era_block": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:tan_era_slab": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:tan_era_stairs": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:tan_era_vertical_slab": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:torpedo_screw_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:torpedo_tube": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_bronze_mediumcannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_bronze_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_bronze_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_bronze_rotarycannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_bronze_rotarycannon_bearing": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_bronze_rotarycannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_built_up_gun_launcher_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_cast_iron_mediumcannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_cast_iron_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_cast_iron_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_gun_launcher_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_gun_launcher_chamber": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_gun_launcher_sliding_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_nethersteel_mediumcannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_nethersteel_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_nethersteel_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_nethersteel_rotarycannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_nethersteel_rotarycannon_bearing": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_nethersteel_rotarycannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_steel_mediumcannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_steel_mediumcannon_breech": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_steel_mediumcannon_recoil_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_steel_rotarycannon_barrel": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_steel_rotarycannon_bearing": [
+140,
+140,
+150
+],
+"cbcmodernwarfare:unbored_steel_rotarycannon_breech": [
+140,
+140,
+150
+],
+"compactflap:analog_compact_flap_bearing": [
+140,
+140,
+150
+],
+"compactflap:analog_swivel_bearing": [
+140,
+140,
+150
+],
+"compactflap:compact_flap_bearing": [
+140,
+140,
+150
+],
+"compactflap:compact_swivel_flap": [
+140,
+140,
+150
+],
+"copycats:copycat_base": [
+140,
+140,
+150
+],
+"copycats:copycat_beam": [
+140,
+140,
+150
+],
+"copycats:copycat_block": [
+140,
+140,
+150
+],
+"copycats:copycat_board": [
+140,
+140,
+150
+],
+"copycats:copycat_byte": [
+140,
+140,
+150
+],
+"copycats:copycat_byte_panel": [
+140,
+140,
+150
+],
+"copycats:copycat_cogwheel": [
+140,
+140,
+150
+],
+"copycats:copycat_corner_slice": [
+140,
+140,
+150
+],
+"copycats:copycat_door": [
+140,
+140,
+150
+],
+"copycats:copycat_fence": [
+140,
+140,
+150
+],
+"copycats:copycat_fence_gate": [
+140,
+140,
+150
+],
+"copycats:copycat_flat_pane": [
+140,
+140,
+150
+],
+"copycats:copycat_fluid_pipe": [
+140,
+140,
+150
+],
+"copycats:copycat_folding_door": [
+140,
+140,
+150
+],
+"copycats:copycat_ghost_block": [
+140,
+140,
+150
+],
+"copycats:copycat_glass_fluid_pipe": [
+140,
+140,
+150
+],
+"copycats:copycat_half_layer": [
+140,
+140,
+150
+],
+"copycats:copycat_half_panel": [
+140,
+140,
+150
+],
+"copycats:copycat_heavy_weighted_pressure_plate": [
+140,
+140,
+150
+],
+"copycats:copycat_iron_door": [
+140,
+140,
+150
+],
+"copycats:copycat_iron_trapdoor": [
+140,
+140,
+150
+],
+"copycats:copycat_ladder": [
+140,
+140,
+150
+],
+"copycats:copycat_large_cogwheel": [
+140,
+140,
+150
+],
+"copycats:copycat_layer": [
+140,
+140,
+150
+],
+"copycats:copycat_light_weighted_pressure_plate": [
+140,
+140,
+150
+],
+"copycats:copycat_pane": [
+140,
+140,
+150
+],
+"copycats:copycat_shaft": [
+140,
+140,
+150
+],
+"copycats:copycat_slab": [
+140,
+140,
+150
+],
+"copycats:copycat_slice": [
+140,
+140,
+150
+],
+"copycats:copycat_sliding_door": [
+140,
+140,
+150
+],
+"copycats:copycat_slope": [
+104,
+109,
+100
+],
+"copycats:copycat_slope_layer": [
+97,
+102,
+94
+],
+"copycats:copycat_stacked_half_layer": [
+140,
+140,
+150
+],
+"copycats:copycat_stairs": [
+140,
+140,
+150
+],
+"copycats:copycat_stone_button": [
+140,
+140,
+150
+],
+"copycats:copycat_stone_pressure_plate": [
+140,
+140,
+150
+],
+"copycats:copycat_trapdoor": [
+140,
+140,
+150
+],
+"copycats:copycat_vertical_half_layer": [
+140,
+140,
+150
+],
+"copycats:copycat_vertical_slice": [
+140,
+140,
+150
+],
+"copycats:copycat_vertical_slope": [
+140,
+140,
+150
+],
+"copycats:copycat_vertical_stairs": [
+140,
+140,
+150
+],
+"copycats:copycat_vertical_step": [
+140,
+140,
+150
+],
+"copycats:copycat_wall": [
+140,
+140,
+150
+],
+"copycats:copycat_wooden_button": [
+140,
+140,
+150
+],
+"copycats:copycat_wooden_pressure_plate": [
+140,
+140,
+150
+],
+"copycats:wrapped_copycat": [
+140,
+140,
+150
+],
+"create:acacia_window": [
+140,
+140,
+150
+],
+"create:acacia_window_pane": [
+140,
+140,
+150
+],
+"create:adjustable_chain_gearshift": [
+99,
+74,
+53
+],
+"create:analog_lever": [
+101,
+82,
+71
+],
+"create:andesite_alloy_block": [
+140,
+140,
+150
+],
+"create:andesite_bars": [
+140,
+140,
+150
+],
+"create:andesite_belt_funnel": [
+140,
+140,
+150
+],
+"create:andesite_casing": [
+108,
+94,
+74
+],
+"create:andesite_door": [
+120,
+144,
+145
+],
+"create:andesite_encased_cogwheel": [
+103,
+94,
+78
+],
+"create:andesite_encased_large_cogwheel": [
+140,
+140,
+150
+],
+"create:andesite_encased_shaft": [
+140,
+140,
+150
+],
+"create:andesite_funnel": [
+140,
+140,
+150
+],
+"create:andesite_ladder": [
+140,
+140,
+150
+],
+"create:andesite_pillar": [
+140,
+140,
+150
+],
+"create:andesite_scaffolding": [
+140,
+140,
+150
+],
+"create:andesite_table_cloth": [
+140,
+140,
+150
+],
+"create:andesite_tunnel": [
+140,
+140,
+150
+],
+"create:asurine": [
+140,
+140,
+150
+],
+"create:asurine_pillar": [
+140,
+140,
+150
+],
+"create:bamboo_window": [
+140,
+140,
+150
+],
+"create:bamboo_window_pane": [
+140,
+140,
+150
+],
+"create:basin": [
+64,
+63,
+66
+],
+"create:belt": [
+55,
+50,
+42
+],
+"create:birch_window": [
+140,
+140,
+150
+],
+"create:birch_window_pane": [
+140,
+140,
+150
+],
+"create:black_nixie_tube": [
+140,
+140,
+150
+],
+"create:black_postbox": [
+140,
+140,
+150
+],
+"create:black_sail": [
+140,
+140,
+150
+],
+"create:black_seat": [
+140,
+140,
+150
+],
+"create:black_table_cloth": [
+140,
+140,
+150
+],
+"create:black_toolbox": [
+140,
+140,
+150
+],
+"create:black_valve_handle": [
+140,
+140,
+150
+],
+"create:blaze_burner": [
+140,
+140,
+150
+],
+"create:blue_nixie_tube": [
+140,
+140,
+150
+],
+"create:blue_postbox": [
+140,
+140,
+150
+],
+"create:blue_sail": [
+140,
+140,
+150
+],
+"create:blue_seat": [
+140,
+140,
+150
+],
+"create:blue_table_cloth": [
+140,
+140,
+150
+],
+"create:blue_toolbox": [
+140,
+140,
+150
+],
+"create:blue_valve_handle": [
+140,
+140,
+150
+],
+"create:bound_cardboard_block": [
+208,
+172,
+131
+],
+"create:brass_bars": [
+140,
+140,
+150
+],
+"create:brass_belt_funnel": [
+140,
+140,
+150
+],
+"create:brass_block": [
+203,
+158,
+90
+],
+"create:brass_casing": [
+118,
+87,
+49
+],
+"create:brass_door": [
+123,
+101,
+70
+],
+"create:brass_encased_cogwheel": [
+128,
+96,
+57
+],
+"create:brass_encased_large_cogwheel": [
+140,
+140,
+150
+],
+"create:brass_encased_shaft": [
+140,
+140,
+150
+],
+"create:brass_funnel": [
+140,
+140,
+150
+],
+"create:brass_ladder": [
+140,
+140,
+150
+],
+"create:brass_scaffolding": [
+140,
+140,
+150
+],
+"create:brass_table_cloth": [
+140,
+140,
+150
+],
+"create:brass_tunnel": [
+140,
+140,
+150
+],
+"create:brown_nixie_tube": [
+140,
+140,
+150
+],
+"create:brown_postbox": [
+140,
+140,
+150
+],
+"create:brown_sail": [
+140,
+140,
+150
+],
+"create:brown_seat": [
+140,
+140,
+150
+],
+"create:brown_table_cloth": [
+140,
+140,
+150
+],
+"create:brown_toolbox": [
+140,
+140,
+150
+],
+"create:brown_valve_handle": [
+140,
+140,
+150
+],
+"create:calcite_pillar": [
+140,
+140,
+150
+],
+"create:cardboard_block": [
+208,
+169,
+124
+],
+"create:cart_assembler": [
+100,
+121,
+94
+],
+"create:chain_conveyor": [
+140,
+140,
+150
+],
+"create:cherry_window": [
+140,
+140,
+150
+],
+"create:cherry_window_pane": [
+140,
+140,
+150
+],
+"create:chocolate": [
+140,
+140,
+150
+],
+"create:chute": [
+71,
+72,
+74
+],
+"create:clipboard": [
+135,
+111,
+70
+],
+"create:clockwork_bearing": [
+109,
+85,
+59
+],
+"create:clutch": [
+140,
+140,
+150
+],
+"create:cogwheel": [
+107,
+80,
+46
+],
+"create:content_observer": [
+116,
+65,
+38
+],
+"create:contraption_controls": [
+99,
+85,
+67
+],
+"create:controller_rail": [
+134,
+112,
+78
+],
+"create:controls": [
+121,
+92,
+56
+],
+"create:copper_backtank": [
+150,
+98,
+75
+],
+"create:copper_bars": [
+140,
+140,
+150
+],
+"create:copper_casing": [
+130,
+91,
+78
+],
+"create:copper_door": [
+171,
+136,
+123
+],
+"create:copper_ladder": [
+140,
+140,
+150
+],
+"create:copper_scaffolding": [
+140,
+140,
+150
+],
+"create:copper_shingle_slab": [
+140,
+140,
+150
+],
+"create:copper_shingle_stairs": [
+140,
+140,
+150
+],
+"create:copper_shingles": [
+140,
+140,
+150
+],
+"create:copper_table_cloth": [
+140,
+140,
+150
+],
+"create:copper_tile_slab": [
+140,
+140,
+150
+],
+"create:copper_tile_stairs": [
+140,
+140,
+150
+],
+"create:copper_tiles": [
+140,
+140,
+150
+],
+"create:copper_valve_handle": [
+140,
+140,
+150
+],
+"create:copycat_bars": [
+140,
+140,
+150
+],
+"create:copycat_base": [
+116,
+123,
+110
+],
+"create:copycat_panel": [
+140,
+140,
+150
+],
+"create:copycat_step": [
+140,
+140,
+150
+],
+"create:creative_crate": [
+140,
+140,
+150
+],
+"create:creative_fluid_tank": [
+120,
+56,
+123
+],
+"create:creative_motor": [
+101,
+52,
+106
+],
+"create:crimsite": [
+140,
+140,
+150
+],
+"create:crimsite_pillar": [
+140,
+140,
+150
+],
+"create:crimson_window": [
+140,
+140,
+150
+],
+"create:crimson_window_pane": [
+140,
+140,
+150
+],
+"create:crushing_wheel": [
+140,
+140,
+150
+],
+"create:crushing_wheel_controller": [
+140,
+140,
+150
+],
+"create:cuckoo_clock": [
+99,
+77,
+50
+],
+"create:cut_andesite": [
+140,
+140,
+150
+],
+"create:cut_andesite_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_andesite_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_andesite_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_andesite_bricks": [
+140,
+140,
+150
+],
+"create:cut_andesite_slab": [
+140,
+140,
+150
+],
+"create:cut_andesite_stairs": [
+140,
+140,
+150
+],
+"create:cut_andesite_wall": [
+140,
+140,
+150
+],
+"create:cut_asurine": [
+140,
+140,
+150
+],
+"create:cut_asurine_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_asurine_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_asurine_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_asurine_bricks": [
+140,
+140,
+150
+],
+"create:cut_asurine_slab": [
+140,
+140,
+150
+],
+"create:cut_asurine_stairs": [
+140,
+140,
+150
+],
+"create:cut_asurine_wall": [
+140,
+140,
+150
+],
+"create:cut_calcite": [
+140,
+140,
+150
+],
+"create:cut_calcite_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_calcite_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_calcite_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_calcite_bricks": [
+140,
+140,
+150
+],
+"create:cut_calcite_slab": [
+140,
+140,
+150
+],
+"create:cut_calcite_stairs": [
+140,
+140,
+150
+],
+"create:cut_calcite_wall": [
+140,
+140,
+150
+],
+"create:cut_crimsite": [
+140,
+140,
+150
+],
+"create:cut_crimsite_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_crimsite_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_crimsite_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_crimsite_bricks": [
+140,
+140,
+150
+],
+"create:cut_crimsite_slab": [
+140,
+140,
+150
+],
+"create:cut_crimsite_stairs": [
+140,
+140,
+150
+],
+"create:cut_crimsite_wall": [
+140,
+140,
+150
+],
+"create:cut_deepslate": [
+140,
+140,
+150
+],
+"create:cut_deepslate_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_deepslate_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_deepslate_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_deepslate_bricks": [
+140,
+140,
+150
+],
+"create:cut_deepslate_slab": [
+140,
+140,
+150
+],
+"create:cut_deepslate_stairs": [
+140,
+140,
+150
+],
+"create:cut_deepslate_wall": [
+140,
+140,
+150
+],
+"create:cut_diorite": [
+140,
+140,
+150
+],
+"create:cut_diorite_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_diorite_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_diorite_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_diorite_bricks": [
+140,
+140,
+150
+],
+"create:cut_diorite_slab": [
+140,
+140,
+150
+],
+"create:cut_diorite_stairs": [
+140,
+140,
+150
+],
+"create:cut_diorite_wall": [
+140,
+140,
+150
+],
+"create:cut_dripstone": [
+140,
+140,
+150
+],
+"create:cut_dripstone_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_dripstone_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_dripstone_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_dripstone_bricks": [
+140,
+140,
+150
+],
+"create:cut_dripstone_slab": [
+140,
+140,
+150
+],
+"create:cut_dripstone_stairs": [
+140,
+140,
+150
+],
+"create:cut_dripstone_wall": [
+140,
+140,
+150
+],
+"create:cut_granite": [
+140,
+140,
+150
+],
+"create:cut_granite_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_granite_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_granite_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_granite_bricks": [
+140,
+140,
+150
+],
+"create:cut_granite_slab": [
+140,
+140,
+150
+],
+"create:cut_granite_stairs": [
+140,
+140,
+150
+],
+"create:cut_granite_wall": [
+140,
+140,
+150
+],
+"create:cut_limestone": [
+140,
+140,
+150
+],
+"create:cut_limestone_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_limestone_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_limestone_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_limestone_bricks": [
+140,
+140,
+150
+],
+"create:cut_limestone_slab": [
+140,
+140,
+150
+],
+"create:cut_limestone_stairs": [
+140,
+140,
+150
+],
+"create:cut_limestone_wall": [
+140,
+140,
+150
+],
+"create:cut_ochrum": [
+140,
+140,
+150
+],
+"create:cut_ochrum_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_ochrum_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_ochrum_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_ochrum_bricks": [
+140,
+140,
+150
+],
+"create:cut_ochrum_slab": [
+140,
+140,
+150
+],
+"create:cut_ochrum_stairs": [
+140,
+140,
+150
+],
+"create:cut_ochrum_wall": [
+140,
+140,
+150
+],
+"create:cut_scorchia": [
+140,
+140,
+150
+],
+"create:cut_scorchia_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_scorchia_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_scorchia_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_scorchia_bricks": [
+140,
+140,
+150
+],
+"create:cut_scorchia_slab": [
+140,
+140,
+150
+],
+"create:cut_scorchia_stairs": [
+140,
+140,
+150
+],
+"create:cut_scorchia_wall": [
+140,
+140,
+150
+],
+"create:cut_scoria": [
+140,
+140,
+150
+],
+"create:cut_scoria_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_scoria_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_scoria_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_scoria_bricks": [
+140,
+140,
+150
+],
+"create:cut_scoria_slab": [
+140,
+140,
+150
+],
+"create:cut_scoria_stairs": [
+140,
+140,
+150
+],
+"create:cut_scoria_wall": [
+140,
+140,
+150
+],
+"create:cut_tuff": [
+140,
+140,
+150
+],
+"create:cut_tuff_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_tuff_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_tuff_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_tuff_bricks": [
+140,
+140,
+150
+],
+"create:cut_tuff_slab": [
+140,
+140,
+150
+],
+"create:cut_tuff_stairs": [
+140,
+140,
+150
+],
+"create:cut_tuff_wall": [
+140,
+140,
+150
+],
+"create:cut_veridium": [
+140,
+140,
+150
+],
+"create:cut_veridium_brick_slab": [
+140,
+140,
+150
+],
+"create:cut_veridium_brick_stairs": [
+140,
+140,
+150
+],
+"create:cut_veridium_brick_wall": [
+140,
+140,
+150
+],
+"create:cut_veridium_bricks": [
+140,
+140,
+150
+],
+"create:cut_veridium_slab": [
+140,
+140,
+150
+],
+"create:cut_veridium_stairs": [
+140,
+140,
+150
+],
+"create:cut_veridium_wall": [
+140,
+140,
+150
+],
+"create:cyan_nixie_tube": [
+140,
+140,
+150
+],
+"create:cyan_postbox": [
+140,
+140,
+150
+],
+"create:cyan_sail": [
+140,
+140,
+150
+],
+"create:cyan_seat": [
+140,
+140,
+150
+],
+"create:cyan_table_cloth": [
+140,
+140,
+150
+],
+"create:cyan_toolbox": [
+140,
+140,
+150
+],
+"create:cyan_valve_handle": [
+140,
+140,
+150
+],
+"create:dark_oak_window": [
+140,
+140,
+150
+],
+"create:dark_oak_window_pane": [
+140,
+140,
+150
+],
+"create:deepslate_pillar": [
+140,
+140,
+150
+],
+"create:deepslate_zinc_ore": [
+106,
+110,
+108
+],
+"create:deployer": [
+166,
+145,
+92
+],
+"create:depot": [
+93,
+92,
+94
+],
+"create:desk_bell": [
+139,
+108,
+54
+],
+"create:diorite_pillar": [
+140,
+140,
+150
+],
+"create:display_board": [
+140,
+140,
+150
+],
+"create:display_link": [
+140,
+140,
+150
+],
+"create:dripstone_pillar": [
+140,
+140,
+150
+],
+"create:elevator_contact": [
+94,
+60,
+73
+],
+"create:elevator_pulley": [
+86,
+72,
+52
+],
+"create:encased_chain_drive": [
+100,
+81,
+57
+],
+"create:encased_fan": [
+140,
+140,
+150
+],
+"create:encased_fluid_pipe": [
+140,
+140,
+150
+],
+"create:experience_block": [
+112,
+190,
+99
+],
+"create:exposed_copper_shingle_slab": [
+140,
+140,
+150
+],
+"create:exposed_copper_shingle_stairs": [
+140,
+140,
+150
+],
+"create:exposed_copper_shingles": [
+140,
+140,
+150
+],
+"create:exposed_copper_tile_slab": [
+140,
+140,
+150
+],
+"create:exposed_copper_tile_stairs": [
+140,
+140,
+150
+],
+"create:exposed_copper_tiles": [
+140,
+140,
+150
+],
+"create:factory_gauge": [
+140,
+140,
+150
+],
+"create:fake_track": [
+140,
+140,
+150
+],
+"create:fluid_pipe": [
+140,
+140,
+150
+],
+"create:fluid_tank": [
+183,
+101,
+73
+],
+"create:fluid_valve": [
+157,
+102,
+84
+],
+"create:flywheel": [
+159,
+128,
+86
+],
+"create:framed_glass": [
+140,
+140,
+150
+],
+"create:framed_glass_door": [
+140,
+140,
+150
+],
+"create:framed_glass_pane": [
+140,
+140,
+150
+],
+"create:framed_glass_trapdoor": [
+140,
+140,
+150
+],
+"create:gantry_carriage": [
+140,
+140,
+150
+],
+"create:gantry_shaft": [
+73,
+7,
+7
+],
+"create:gearbox": [
+86,
+80,
+68
+],
+"create:gearshift": [
+140,
+140,
+150
+],
+"create:glass_fluid_pipe": [
+175,
+135,
+119
+],
+"create:granite_pillar": [
+140,
+140,
+150
+],
+"create:gray_nixie_tube": [
+140,
+140,
+150
+],
+"create:gray_postbox": [
+140,
+140,
+150
+],
+"create:gray_sail": [
+140,
+140,
+150
+],
+"create:gray_seat": [
+140,
+140,
+150
+],
+"create:gray_table_cloth": [
+140,
+140,
+150
+],
+"create:gray_toolbox": [
+140,
+140,
+150
+],
+"create:gray_valve_handle": [
+140,
+140,
+150
+],
+"create:green_nixie_tube": [
+140,
+140,
+150
+],
+"create:green_postbox": [
+140,
+140,
+150
+],
+"create:green_sail": [
+140,
+140,
+150
+],
+"create:green_seat": [
+140,
+140,
+150
+],
+"create:green_table_cloth": [
+140,
+140,
+150
+],
+"create:green_toolbox": [
+140,
+140,
+150
+],
+"create:green_valve_handle": [
+140,
+140,
+150
+],
+"create:hand_crank": [
+140,
+140,
+150
+],
+"create:haunted_bell": [
+140,
+140,
+150
+],
+"create:honey": [
+140,
+140,
+150
+],
+"create:horizontal_framed_glass": [
+140,
+140,
+150
+],
+"create:horizontal_framed_glass_pane": [
+140,
+140,
+150
+],
+"create:hose_pulley": [
+167,
+94,
+71
+],
+"create:industrial_iron_block": [
+82,
+81,
+82
+],
+"create:industrial_iron_window": [
+140,
+140,
+150
+],
+"create:industrial_iron_window_pane": [
+140,
+140,
+150
+],
+"create:item_drain": [
+85,
+83,
+84
+],
+"create:item_hatch": [
+140,
+140,
+150
+],
+"create:item_vault": [
+140,
+140,
+150
+],
+"create:jungle_window": [
+140,
+140,
+150
+],
+"create:jungle_window_pane": [
+140,
+140,
+150
+],
+"create:large_bogey": [
+140,
+140,
+150
+],
+"create:large_cogwheel": [
+108,
+81,
+47
+],
+"create:large_water_wheel": [
+140,
+140,
+150
+],
+"create:layered_andesite": [
+140,
+140,
+150
+],
+"create:layered_asurine": [
+140,
+140,
+150
+],
+"create:layered_calcite": [
+140,
+140,
+150
+],
+"create:layered_crimsite": [
+140,
+140,
+150
+],
+"create:layered_deepslate": [
+140,
+140,
+150
+],
+"create:layered_diorite": [
+140,
+140,
+150
+],
+"create:layered_dripstone": [
+140,
+140,
+150
+],
+"create:layered_granite": [
+140,
+140,
+150
+],
+"create:layered_limestone": [
+140,
+140,
+150
+],
+"create:layered_ochrum": [
+140,
+140,
+150
+],
+"create:layered_scorchia": [
+140,
+140,
+150
+],
+"create:layered_scoria": [
+140,
+140,
+150
+],
+"create:layered_tuff": [
+140,
+140,
+150
+],
+"create:layered_veridium": [
+140,
+140,
+150
+],
+"create:lectern_controller": [
+140,
+140,
+150
+],
+"create:light_blue_nixie_tube": [
+140,
+140,
+150
+],
+"create:light_blue_postbox": [
+140,
+140,
+150
+],
+"create:light_blue_sail": [
+140,
+140,
+150
+],
+"create:light_blue_seat": [
+140,
+140,
+150
+],
+"create:light_blue_table_cloth": [
+140,
+140,
+150
+],
+"create:light_blue_toolbox": [
+140,
+140,
+150
+],
+"create:light_blue_valve_handle": [
+140,
+140,
+150
+],
+"create:light_gray_nixie_tube": [
+140,
+140,
+150
+],
+"create:light_gray_postbox": [
+140,
+140,
+150
+],
+"create:light_gray_sail": [
+140,
+140,
+150
+],
+"create:light_gray_seat": [
+140,
+140,
+150
+],
+"create:light_gray_table_cloth": [
+140,
+140,
+150
+],
+"create:light_gray_toolbox": [
+140,
+140,
+150
+],
+"create:light_gray_valve_handle": [
+140,
+140,
+150
+],
+"create:lime_nixie_tube": [
+140,
+140,
+150
+],
+"create:lime_postbox": [
+140,
+140,
+150
+],
+"create:lime_sail": [
+140,
+140,
+150
+],
+"create:lime_seat": [
+140,
+140,
+150
+],
+"create:lime_table_cloth": [
+140,
+140,
+150
+],
+"create:lime_toolbox": [
+140,
+140,
+150
+],
+"create:lime_valve_handle": [
+140,
+140,
+150
+],
+"create:limestone": [
+140,
+140,
+150
+],
+"create:limestone_pillar": [
+140,
+140,
+150
+],
+"create:linear_chassis": [
+98,
+90,
+78
+],
+"create:lit_blaze_burner": [
+140,
+140,
+150
+],
+"create:magenta_nixie_tube": [
+140,
+140,
+150
+],
+"create:magenta_postbox": [
+140,
+140,
+150
+],
+"create:magenta_sail": [
+140,
+140,
+150
+],
+"create:magenta_seat": [
+140,
+140,
+150
+],
+"create:magenta_table_cloth": [
+140,
+140,
+150
+],
+"create:magenta_toolbox": [
+140,
+140,
+150
+],
+"create:magenta_valve_handle": [
+140,
+140,
+150
+],
+"create:mangrove_window": [
+140,
+140,
+150
+],
+"create:mangrove_window_pane": [
+140,
+140,
+150
+],
+"create:mechanical_arm": [
+124,
+103,
+70
+],
+"create:mechanical_bearing": [
+99,
+91,
+78
+],
+"create:mechanical_crafter": [
+140,
+140,
+150
+],
+"create:mechanical_drill": [
+49,
+48,
+52
+],
+"create:mechanical_harvester": [
+140,
+140,
+150
+],
+"create:mechanical_mixer": [
+140,
+140,
+150
+],
+"create:mechanical_piston": [
+140,
+140,
+150
+],
+"create:mechanical_piston_head": [
+140,
+140,
+150
+],
+"create:mechanical_plough": [
+140,
+140,
+150
+],
+"create:mechanical_press": [
+109,
+113,
+110
+],
+"create:mechanical_pump": [
+140,
+140,
+150
+],
+"create:mechanical_roller": [
+140,
+140,
+150
+],
+"create:mechanical_saw": [
+78,
+76,
+71
+],
+"create:metal_bracket": [
+140,
+140,
+150
+],
+"create:metal_girder": [
+140,
+140,
+150
+],
+"create:metal_girder_encased_shaft": [
+140,
+140,
+150
+],
+"create:millstone": [
+115,
+111,
+103
+],
+"create:minecart_anchor": [
+140,
+140,
+150
+],
+"create:mysterious_cuckoo_clock": [
+140,
+140,
+150
+],
+"create:netherite_backtank": [
+71,
+58,
+61
+],
+"create:nixie_tube": [
+170,
+127,
+111
+],
+"create:nozzle": [
+140,
+140,
+150
+],
+"create:oak_window": [
+140,
+140,
+150
+],
+"create:oak_window_pane": [
+140,
+140,
+150
+],
+"create:ochrum": [
+140,
+140,
+150
+],
+"create:ochrum_pillar": [
+140,
+140,
+150
+],
+"create:orange_postbox": [
+140,
+140,
+150
+],
+"create:orange_sail": [
+140,
+140,
+150
+],
+"create:orange_seat": [
+140,
+140,
+150
+],
+"create:orange_table_cloth": [
+140,
+140,
+150
+],
+"create:orange_toolbox": [
+140,
+140,
+150
+],
+"create:orange_valve_handle": [
+140,
+140,
+150
+],
+"create:ornate_iron_window": [
+140,
+140,
+150
+],
+"create:ornate_iron_window_pane": [
+140,
+140,
+150
+],
+"create:oxidized_copper_shingle_slab": [
+140,
+140,
+150
+],
+"create:oxidized_copper_shingle_stairs": [
+140,
+140,
+150
+],
+"create:oxidized_copper_shingles": [
+140,
+140,
+150
+],
+"create:oxidized_copper_tile_slab": [
+140,
+140,
+150
+],
+"create:oxidized_copper_tile_stairs": [
+140,
+140,
+150
+],
+"create:oxidized_copper_tiles": [
+140,
+140,
+150
+],
+"create:package_frogport": [
+140,
+140,
+150
+],
+"create:packager": [
+140,
+140,
+150
+],
+"create:peculiar_bell": [
+140,
+140,
+150
+],
+"create:pink_nixie_tube": [
+140,
+140,
+150
+],
+"create:pink_postbox": [
+140,
+140,
+150
+],
+"create:pink_sail": [
+140,
+140,
+150
+],
+"create:pink_seat": [
+140,
+140,
+150
+],
+"create:pink_table_cloth": [
+140,
+140,
+150
+],
+"create:pink_toolbox": [
+140,
+140,
+150
+],
+"create:pink_valve_handle": [
+140,
+140,
+150
+],
+"create:piston_extension_pole": [
+140,
+140,
+150
+],
+"create:placard": [
+143,
+126,
+109
+],
+"create:polished_cut_andesite": [
+140,
+140,
+150
+],
+"create:polished_cut_andesite_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_andesite_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_andesite_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_asurine": [
+140,
+140,
+150
+],
+"create:polished_cut_asurine_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_asurine_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_asurine_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_calcite": [
+140,
+140,
+150
+],
+"create:polished_cut_calcite_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_calcite_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_calcite_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_crimsite": [
+140,
+140,
+150
+],
+"create:polished_cut_crimsite_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_crimsite_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_crimsite_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_deepslate": [
+140,
+140,
+150
+],
+"create:polished_cut_deepslate_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_deepslate_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_deepslate_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_diorite": [
+140,
+140,
+150
+],
+"create:polished_cut_diorite_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_diorite_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_diorite_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_dripstone": [
+140,
+140,
+150
+],
+"create:polished_cut_dripstone_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_dripstone_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_dripstone_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_granite": [
+140,
+140,
+150
+],
+"create:polished_cut_granite_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_granite_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_granite_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_limestone": [
+140,
+140,
+150
+],
+"create:polished_cut_limestone_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_limestone_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_limestone_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_ochrum": [
+140,
+140,
+150
+],
+"create:polished_cut_ochrum_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_ochrum_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_ochrum_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_scorchia": [
+140,
+140,
+150
+],
+"create:polished_cut_scorchia_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_scorchia_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_scorchia_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_scoria": [
+140,
+140,
+150
+],
+"create:polished_cut_scoria_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_scoria_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_scoria_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_tuff": [
+140,
+140,
+150
+],
+"create:polished_cut_tuff_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_tuff_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_tuff_wall": [
+140,
+140,
+150
+],
+"create:polished_cut_veridium": [
+140,
+140,
+150
+],
+"create:polished_cut_veridium_slab": [
+140,
+140,
+150
+],
+"create:polished_cut_veridium_stairs": [
+140,
+140,
+150
+],
+"create:polished_cut_veridium_wall": [
+140,
+140,
+150
+],
+"create:portable_fluid_interface": [
+150,
+89,
+69
+],
+"create:portable_storage_interface": [
+79,
+72,
+69
+],
+"create:powered_latch": [
+140,
+140,
+150
+],
+"create:powered_shaft": [
+140,
+140,
+150
+],
+"create:powered_toggle_latch": [
+140,
+140,
+150
+],
+"create:pulley_magnet": [
+95,
+85,
+76
+],
+"create:pulse_extender": [
+140,
+140,
+150
+],
+"create:pulse_repeater": [
+140,
+140,
+150
+],
+"create:pulse_timer": [
+140,
+140,
+150
+],
+"create:purple_nixie_tube": [
+140,
+140,
+150
+],
+"create:purple_postbox": [
+140,
+140,
+150
+],
+"create:purple_sail": [
+140,
+140,
+150
+],
+"create:purple_seat": [
+140,
+140,
+150
+],
+"create:purple_table_cloth": [
+140,
+140,
+150
+],
+"create:purple_toolbox": [
+140,
+140,
+150
+],
+"create:purple_valve_handle": [
+140,
+140,
+150
+],
+"create:radial_chassis": [
+151,
+134,
+102
+],
+"create:railway_casing": [
+112,
+95,
+70
+],
+"create:raw_zinc_block": [
+149,
+159,
+149
+],
+"create:red_nixie_tube": [
+140,
+140,
+150
+],
+"create:red_postbox": [
+140,
+140,
+150
+],
+"create:red_sail": [
+140,
+140,
+150
+],
+"create:red_seat": [
+140,
+140,
+150
+],
+"create:red_table_cloth": [
+140,
+140,
+150
+],
+"create:red_toolbox": [
+140,
+140,
+150
+],
+"create:red_valve_handle": [
+140,
+140,
+150
+],
+"create:redstone_contact": [
+140,
+140,
+150
+],
+"create:redstone_link": [
+140,
+140,
+150
+],
+"create:redstone_requester": [
+79,
+83,
+91
+],
+"create:refined_radiance_casing": [
+163,
+164,
+151
+],
+"create:repackager": [
+140,
+140,
+150
+],
+"create:rope": [
+140,
+140,
+150
+],
+"create:rope_pulley": [
+103,
+105,
+99
+],
+"create:rose_quartz_block": [
+140,
+140,
+150
+],
+"create:rose_quartz_lamp": [
+111,
+61,
+78
+],
+"create:rose_quartz_tiles": [
+140,
+140,
+150
+],
+"create:rotation_speed_controller": [
+99,
+74,
+48
+],
+"create:sail_frame": [
+140,
+140,
+150
+],
+"create:schematic_table": [
+108,
+79,
+44
+],
+"create:schematicannon": [
+114,
+114,
+114
+],
+"create:scorchia": [
+140,
+140,
+150
+],
+"create:scorchia_pillar": [
+140,
+140,
+150
+],
+"create:scoria": [
+140,
+140,
+150
+],
+"create:scoria_pillar": [
+140,
+140,
+150
+],
+"create:secondary_linear_chassis": [
+118,
+107,
+88
+],
+"create:sequenced_gearshift": [
+109,
+70,
+41
+],
+"create:shadow_steel_casing": [
+47,
+46,
+53
+],
+"create:shaft": [
+140,
+140,
+150
+],
+"create:small_andesite_brick_slab": [
+140,
+140,
+150
+],
+"create:small_andesite_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_andesite_brick_wall": [
+140,
+140,
+150
+],
+"create:small_andesite_bricks": [
+140,
+140,
+150
+],
+"create:small_asurine_brick_slab": [
+140,
+140,
+150
+],
+"create:small_asurine_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_asurine_brick_wall": [
+140,
+140,
+150
+],
+"create:small_asurine_bricks": [
+140,
+140,
+150
+],
+"create:small_bogey": [
+140,
+140,
+150
+],
+"create:small_calcite_brick_slab": [
+140,
+140,
+150
+],
+"create:small_calcite_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_calcite_brick_wall": [
+140,
+140,
+150
+],
+"create:small_calcite_bricks": [
+140,
+140,
+150
+],
+"create:small_crimsite_brick_slab": [
+140,
+140,
+150
+],
+"create:small_crimsite_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_crimsite_brick_wall": [
+140,
+140,
+150
+],
+"create:small_crimsite_bricks": [
+140,
+140,
+150
+],
+"create:small_deepslate_brick_slab": [
+140,
+140,
+150
+],
+"create:small_deepslate_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_deepslate_brick_wall": [
+140,
+140,
+150
+],
+"create:small_deepslate_bricks": [
+140,
+140,
+150
+],
+"create:small_diorite_brick_slab": [
+140,
+140,
+150
+],
+"create:small_diorite_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_diorite_brick_wall": [
+140,
+140,
+150
+],
+"create:small_diorite_bricks": [
+140,
+140,
+150
+],
+"create:small_dripstone_brick_slab": [
+140,
+140,
+150
+],
+"create:small_dripstone_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_dripstone_brick_wall": [
+140,
+140,
+150
+],
+"create:small_dripstone_bricks": [
+140,
+140,
+150
+],
+"create:small_granite_brick_slab": [
+140,
+140,
+150
+],
+"create:small_granite_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_granite_brick_wall": [
+140,
+140,
+150
+],
+"create:small_granite_bricks": [
+140,
+140,
+150
+],
+"create:small_limestone_brick_slab": [
+140,
+140,
+150
+],
+"create:small_limestone_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_limestone_brick_wall": [
+140,
+140,
+150
+],
+"create:small_limestone_bricks": [
+140,
+140,
+150
+],
+"create:small_ochrum_brick_slab": [
+140,
+140,
+150
+],
+"create:small_ochrum_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_ochrum_brick_wall": [
+140,
+140,
+150
+],
+"create:small_ochrum_bricks": [
+140,
+140,
+150
+],
+"create:small_rose_quartz_tiles": [
+140,
+140,
+150
+],
+"create:small_scorchia_brick_slab": [
+140,
+140,
+150
+],
+"create:small_scorchia_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_scorchia_brick_wall": [
+140,
+140,
+150
+],
+"create:small_scorchia_bricks": [
+140,
+140,
+150
+],
+"create:small_scoria_brick_slab": [
+140,
+140,
+150
+],
+"create:small_scoria_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_scoria_brick_wall": [
+140,
+140,
+150
+],
+"create:small_scoria_bricks": [
+140,
+140,
+150
+],
+"create:small_tuff_brick_slab": [
+140,
+140,
+150
+],
+"create:small_tuff_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_tuff_brick_wall": [
+140,
+140,
+150
+],
+"create:small_tuff_bricks": [
+140,
+140,
+150
+],
+"create:small_veridium_brick_slab": [
+140,
+140,
+150
+],
+"create:small_veridium_brick_stairs": [
+140,
+140,
+150
+],
+"create:small_veridium_brick_wall": [
+140,
+140,
+150
+],
+"create:small_veridium_bricks": [
+140,
+140,
+150
+],
+"create:smart_chute": [
+140,
+140,
+150
+],
+"create:smart_fluid_pipe": [
+140,
+140,
+150
+],
+"create:speedometer": [
+140,
+140,
+150
+],
+"create:spout": [
+165,
+114,
+95
+],
+"create:spruce_window": [
+140,
+140,
+150
+],
+"create:spruce_window_pane": [
+140,
+140,
+150
+],
+"create:steam_engine": [
+140,
+140,
+150
+],
+"create:steam_whistle": [
+140,
+140,
+150
+],
+"create:steam_whistle_extension": [
+140,
+140,
+150
+],
+"create:sticker": [
+134,
+158,
+92
+],
+"create:sticky_mechanical_piston": [
+140,
+140,
+150
+],
+"create:stock_link": [
+91,
+84,
+85
+],
+"create:stock_ticker": [
+143,
+126,
+99
+],
+"create:stockpile_switch": [
+140,
+140,
+150
+],
+"create:stressometer": [
+140,
+140,
+150
+],
+"create:tiled_glass": [
+140,
+140,
+150
+],
+"create:tiled_glass_pane": [
+140,
+140,
+150
+],
+"create:track": [
+113,
+103,
+96
+],
+"create:track_observer": [
+140,
+140,
+150
+],
+"create:track_signal": [
+140,
+140,
+150
+],
+"create:track_station": [
+140,
+140,
+150
+],
+"create:train_door": [
+145,
+131,
+98
+],
+"create:train_trapdoor": [
+113,
+95,
+70
+],
+"create:tuff_pillar": [
+140,
+140,
+150
+],
+"create:turntable": [
+140,
+140,
+150
+],
+"create:veridium": [
+140,
+140,
+150
+],
+"create:veridium_pillar": [
+140,
+140,
+150
+],
+"create:vertical_framed_glass": [
+140,
+140,
+150
+],
+"create:vertical_framed_glass_pane": [
+140,
+140,
+150
+],
+"create:warped_window": [
+140,
+140,
+150
+],
+"create:warped_window_pane": [
+140,
+140,
+150
+],
+"create:water_wheel": [
+140,
+140,
+150
+],
+"create:water_wheel_structure": [
+140,
+140,
+150
+],
+"create:waxed_copper_shingle_slab": [
+140,
+140,
+150
+],
+"create:waxed_copper_shingle_stairs": [
+140,
+140,
+150
+],
+"create:waxed_copper_shingles": [
+140,
+140,
+150
+],
+"create:waxed_copper_tile_slab": [
+140,
+140,
+150
+],
+"create:waxed_copper_tile_stairs": [
+140,
+140,
+150
+],
+"create:waxed_copper_tiles": [
+140,
+140,
+150
+],
+"create:waxed_exposed_copper_shingle_slab": [
+140,
+140,
+150
+],
+"create:waxed_exposed_copper_shingle_stairs": [
+140,
+140,
+150
+],
+"create:waxed_exposed_copper_shingles": [
+140,
+140,
+150
+],
+"create:waxed_exposed_copper_tile_slab": [
+140,
+140,
+150
+],
+"create:waxed_exposed_copper_tile_stairs": [
+140,
+140,
+150
+],
+"create:waxed_exposed_copper_tiles": [
+140,
+140,
+150
+],
+"create:waxed_oxidized_copper_shingle_slab": [
+140,
+140,
+150
+],
+"create:waxed_oxidized_copper_shingle_stairs": [
+140,
+140,
+150
+],
+"create:waxed_oxidized_copper_shingles": [
+140,
+140,
+150
+],
+"create:waxed_oxidized_copper_tile_slab": [
+140,
+140,
+150
+],
+"create:waxed_oxidized_copper_tile_stairs": [
+140,
+140,
+150
+],
+"create:waxed_oxidized_copper_tiles": [
+140,
+140,
+150
+],
+"create:waxed_weathered_copper_shingle_slab": [
+140,
+140,
+150
+],
+"create:waxed_weathered_copper_shingle_stairs": [
+140,
+140,
+150
+],
+"create:waxed_weathered_copper_shingles": [
+140,
+140,
+150
+],
+"create:waxed_weathered_copper_tile_slab": [
+140,
+140,
+150
+],
+"create:waxed_weathered_copper_tile_stairs": [
+140,
+140,
+150
+],
+"create:waxed_weathered_copper_tiles": [
+140,
+140,
+150
+],
+"create:weathered_copper_shingle_slab": [
+140,
+140,
+150
+],
+"create:weathered_copper_shingle_stairs": [
+140,
+140,
+150
+],
+"create:weathered_copper_shingles": [
+140,
+140,
+150
+],
+"create:weathered_copper_tile_slab": [
+140,
+140,
+150
+],
+"create:weathered_copper_tile_stairs": [
+140,
+140,
+150
+],
+"create:weathered_copper_tiles": [
+140,
+140,
+150
+],
+"create:weathered_iron_block": [
+89,
+77,
+64
+],
+"create:weathered_iron_window": [
+140,
+140,
+150
+],
+"create:weathered_iron_window_pane": [
+140,
+140,
+150
+],
+"create:weighted_ejector": [
+97,
+96,
+98
+],
+"create:white_nixie_tube": [
+140,
+140,
+150
+],
+"create:white_postbox": [
+140,
+140,
+150
+],
+"create:white_sail": [
+140,
+140,
+150
+],
+"create:white_seat": [
+140,
+140,
+150
+],
+"create:white_table_cloth": [
+140,
+140,
+150
+],
+"create:white_toolbox": [
+140,
+140,
+150
+],
+"create:white_valve_handle": [
+140,
+140,
+150
+],
+"create:windmill_bearing": [
+89,
+90,
+89
+],
+"create:wooden_bracket": [
+140,
+140,
+150
+],
+"create:yellow_nixie_tube": [
+140,
+140,
+150
+],
+"create:yellow_postbox": [
+140,
+140,
+150
+],
+"create:yellow_sail": [
+140,
+140,
+150
+],
+"create:yellow_seat": [
+140,
+140,
+150
+],
+"create:yellow_table_cloth": [
+140,
+140,
+150
+],
+"create:yellow_toolbox": [
+140,
+140,
+150
+],
+"create:yellow_valve_handle": [
+140,
+140,
+150
+],
+"create:zinc_block": [
+132,
+138,
+120
+],
+"create:zinc_ore": [
+135,
+139,
+136
+],
+"create_connected:andesite_encased_cross_connector": [
+140,
+140,
+150
+],
+"create_connected:brake": [
+140,
+140,
+150
+],
+"create_connected:brass_encased_cross_connector": [
+140,
+140,
+150
+],
+"create_connected:brass_gearbox": [
+123,
+97,
+63
+],
+"create_connected:centrifugal_clutch": [
+140,
+140,
+150
+],
+"create_connected:copycat_beam": [
+140,
+140,
+150
+],
+"create_connected:copycat_block": [
+140,
+140,
+150
+],
+"create_connected:copycat_board": [
+140,
+140,
+150
+],
+"create_connected:copycat_fence": [
+140,
+140,
+150
+],
+"create_connected:copycat_fence_gate": [
+140,
+140,
+150
+],
+"create_connected:copycat_slab": [
+140,
+140,
+150
+],
+"create_connected:copycat_stairs": [
+140,
+140,
+150
+],
+"create_connected:copycat_vertical_step": [
+140,
+140,
+150
+],
+"create_connected:copycat_wall": [
+140,
+140,
+150
+],
+"create_connected:crank_wheel": [
+140,
+140,
+150
+],
+"create_connected:creative_fluid_vessel": [
+140,
+140,
+150
+],
+"create_connected:cross_connector": [
+140,
+140,
+150
+],
+"create_connected:empty_fan_catalyst": [
+140,
+140,
+150
+],
+"create_connected:encased_chain_cogwheel": [
+107,
+88,
+63
+],
+"create_connected:fan_blasting_catalyst": [
+140,
+140,
+150
+],
+"create_connected:fan_ending_catalyst_dragon_head": [
+140,
+140,
+150
+],
+"create_connected:fan_ending_catalyst_dragons_breath": [
+140,
+140,
+150
+],
+"create_connected:fan_enriched_catalyst": [
+140,
+140,
+150
+],
+"create_connected:fan_freezing_catalyst": [
+140,
+140,
+150
+],
+"create_connected:fan_haunting_catalyst": [
+140,
+140,
+150
+],
+"create_connected:fan_sanding_catalyst": [
+140,
+140,
+150
+],
+"create_connected:fan_seething_catalyst": [
+140,
+140,
+150
+],
+"create_connected:fan_smoking_catalyst": [
+140,
+140,
+150
+],
+"create_connected:fan_splashing_catalyst": [
+140,
+140,
+150
+],
+"create_connected:fan_withering_catalyst": [
+140,
+140,
+150
+],
+"create_connected:fluid_vessel": [
+140,
+140,
+150
+],
+"create_connected:freewheel_clutch": [
+140,
+140,
+150
+],
+"create_connected:inventory_access_port": [
+210,
+167,
+95
+],
+"create_connected:inventory_bridge": [
+154,
+121,
+86
+],
+"create_connected:inverted_clutch": [
+140,
+140,
+150
+],
+"create_connected:inverted_gearshift": [
+140,
+140,
+150
+],
+"create_connected:item_silo": [
+140,
+140,
+150
+],
+"create_connected:kinetic_battery": [
+140,
+140,
+150
+],
+"create_connected:kinetic_bridge": [
+140,
+140,
+150
+],
+"create_connected:kinetic_bridge_destination": [
+139,
+105,
+61
+],
+"create_connected:large_crank_wheel": [
+140,
+140,
+150
+],
+"create_connected:linked_acacia_button": [
+140,
+140,
+150
+],
+"create_connected:linked_analog_lever": [
+140,
+140,
+150
+],
+"create_connected:linked_bamboo_button": [
+140,
+140,
+150
+],
+"create_connected:linked_birch_button": [
+140,
+140,
+150
+],
+"create_connected:linked_cherry_button": [
+140,
+140,
+150
+],
+"create_connected:linked_crimson_button": [
+140,
+140,
+150
+],
+"create_connected:linked_dark_oak_button": [
+140,
+140,
+150
+],
+"create_connected:linked_jungle_button": [
+140,
+140,
+150
+],
+"create_connected:linked_lever": [
+140,
+140,
+150
+],
+"create_connected:linked_mangrove_button": [
+140,
+140,
+150
+],
+"create_connected:linked_oak_button": [
+140,
+140,
+150
+],
+"create_connected:linked_polished_blackstone_button": [
+140,
+140,
+150
+],
+"create_connected:linked_spruce_button": [
+140,
+140,
+150
+],
+"create_connected:linked_stone_button": [
+140,
+140,
+150
+],
+"create_connected:linked_throttle_lever": [
+140,
+140,
+150
+],
+"create_connected:linked_warped_button": [
+140,
+140,
+150
+],
+"create_connected:overstress_clutch": [
+140,
+140,
+150
+],
+"create_connected:parallel_gearbox": [
+140,
+140,
+150
+],
+"create_connected:sequenced_pulse_generator": [
+140,
+140,
+150
+],
+"create_connected:shear_pin": [
+140,
+140,
+150
+],
+"create_connected:six_way_gearbox": [
+140,
+140,
+150
+],
+"create_connected:wrapped_copycat_fence": [
+140,
+140,
+150
+],
+"create_connected:wrapped_copycat_fence_gate": [
+140,
+140,
+150
+],
+"create_connected:wrapped_copycat_stairs": [
+140,
+140,
+150
+],
+"create_connected:wrapped_copycat_wall": [
+140,
+140,
+150
+],
+"create_tweaked_controllers:tweaked_lectern_controller": [
+140,
+140,
+150
+],
+"createbigcannons:ap_shell": [
+140,
+140,
+150
+],
+"createbigcannons:ap_shot": [
+140,
+140,
+150
+],
+"createbigcannons:autocannon_ammo_container": [
+140,
+140,
+150
+],
+"createbigcannons:autocannon_barrel_cast_mould": [
+140,
+140,
+150
+],
+"createbigcannons:autocannon_breech_cast_mould": [
+140,
+140,
+150
+],
+"createbigcannons:autocannon_recoil_spring_cast_mould": [
+140,
+140,
+150
+],
+"createbigcannons:bag_of_grapeshot": [
+140,
+140,
+150
+],
+"createbigcannons:basin_foundry_lid": [
+93,
+90,
+91
+],
+"createbigcannons:big_cartridge": [
+220,
+191,
+108
+],
+"createbigcannons:bronze_autocannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:bronze_autocannon_breech": [
+140,
+140,
+150
+],
+"createbigcannons:bronze_autocannon_recoil_spring": [
+140,
+140,
+150
+],
+"createbigcannons:bronze_block": [
+173,
+142,
+93
+],
+"createbigcannons:bronze_cannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:bronze_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:bronze_cannon_end": [
+140,
+140,
+150
+],
+"createbigcannons:bronze_quickfiring_breech": [
+140,
+140,
+150
+],
+"createbigcannons:bronze_sliding_breech": [
+140,
+140,
+150
+],
+"createbigcannons:built_up_cannon": [
+140,
+140,
+150
+],
+"createbigcannons:built_up_nethersteel_cannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:built_up_nethersteel_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:built_up_steel_cannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:built_up_steel_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:cannon_builder": [
+97,
+78,
+75
+],
+"createbigcannons:cannon_builder_head": [
+140,
+140,
+150
+],
+"createbigcannons:cannon_carriage": [
+140,
+140,
+150
+],
+"createbigcannons:cannon_cast": [
+199,
+157,
+122
+],
+"createbigcannons:cannon_drill": [
+140,
+140,
+150
+],
+"createbigcannons:cannon_drill_bit": [
+118,
+124,
+119
+],
+"createbigcannons:cannon_end_cast_mould": [
+140,
+140,
+150
+],
+"createbigcannons:cannon_loader": [
+140,
+140,
+150
+],
+"createbigcannons:cannon_mount": [
+140,
+140,
+150
+],
+"createbigcannons:cannon_mount_extension": [
+140,
+140,
+150
+],
+"createbigcannons:cast_iron_autocannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:cast_iron_autocannon_breech": [
+140,
+140,
+150
+],
+"createbigcannons:cast_iron_autocannon_recoil_spring": [
+140,
+140,
+150
+],
+"createbigcannons:cast_iron_block": [
+52,
+52,
+55
+],
+"createbigcannons:cast_iron_cannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:cast_iron_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:cast_iron_cannon_end": [
+140,
+140,
+150
+],
+"createbigcannons:cast_iron_quickfiring_breech": [
+140,
+140,
+150
+],
+"createbigcannons:cast_iron_sliding_breech": [
+140,
+140,
+150
+],
+"createbigcannons:casting_sand": [
+200,
+161,
+125
+],
+"createbigcannons:creative_autocannon_ammo_container": [
+140,
+140,
+150
+],
+"createbigcannons:drop_mortar_shell": [
+140,
+140,
+150
+],
+"createbigcannons:finished_cannon_cast": [
+140,
+140,
+150
+],
+"createbigcannons:fixed_cannon_mount": [
+140,
+140,
+150
+],
+"createbigcannons:fluid_shell": [
+140,
+140,
+150
+],
+"createbigcannons:he_shell": [
+140,
+140,
+150
+],
+"createbigcannons:incomplete_bronze_autocannon_breech": [
+140,
+140,
+150
+],
+"createbigcannons:incomplete_bronze_autocannon_recoil_spring": [
+140,
+140,
+150
+],
+"createbigcannons:incomplete_bronze_sliding_breech": [
+140,
+140,
+150
+],
+"createbigcannons:incomplete_cast_iron_autocannon_breech": [
+140,
+140,
+150
+],
+"createbigcannons:incomplete_cast_iron_autocannon_recoil_spring": [
+140,
+140,
+150
+],
+"createbigcannons:incomplete_cast_iron_sliding_breech": [
+140,
+140,
+150
+],
+"createbigcannons:incomplete_nethersteel_screw_breech": [
+140,
+140,
+150
+],
+"createbigcannons:incomplete_steel_autocannon_breech": [
+140,
+140,
+150
+],
+"createbigcannons:incomplete_steel_autocannon_recoil_spring": [
+140,
+140,
+150
+],
+"createbigcannons:incomplete_steel_screw_breech": [
+140,
+140,
+150
+],
+"createbigcannons:incomplete_steel_sliding_breech": [
+140,
+140,
+150
+],
+"createbigcannons:large_cast_mould": [
+140,
+140,
+150
+],
+"createbigcannons:large_nethersteel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:large_steel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:log_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:log_cannon_end": [
+140,
+140,
+150
+],
+"createbigcannons:medium_cast_mould": [
+140,
+140,
+150
+],
+"createbigcannons:medium_nethersteel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:medium_steel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:molten_bronze": [
+140,
+140,
+150
+],
+"createbigcannons:molten_cast_iron": [
+140,
+140,
+150
+],
+"createbigcannons:molten_nethersteel": [
+140,
+140,
+150
+],
+"createbigcannons:molten_steel": [
+140,
+140,
+150
+],
+"createbigcannons:mortar_stone": [
+140,
+140,
+150
+],
+"createbigcannons:mortar_stone_projectile": [
+140,
+140,
+150
+],
+"createbigcannons:nethersteel_block": [
+105,
+93,
+91
+],
+"createbigcannons:nethersteel_cannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:nethersteel_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:nethersteel_screw_breech": [
+140,
+140,
+150
+],
+"createbigcannons:powder_charge": [
+223,
+218,
+205
+],
+"createbigcannons:ram_head": [
+143,
+124,
+103
+],
+"createbigcannons:screw_breech_cast_mould": [
+140,
+140,
+150
+],
+"createbigcannons:shrapnel_shell": [
+140,
+140,
+150
+],
+"createbigcannons:sliding_breech_cast_mould": [
+140,
+140,
+150
+],
+"createbigcannons:small_cast_mould": [
+140,
+140,
+150
+],
+"createbigcannons:small_nethersteel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:small_steel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:smoke_shell": [
+140,
+140,
+150
+],
+"createbigcannons:solid_shot": [
+140,
+140,
+150
+],
+"createbigcannons:steel_autocannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:steel_autocannon_breech": [
+140,
+140,
+150
+],
+"createbigcannons:steel_autocannon_recoil_spring": [
+140,
+140,
+150
+],
+"createbigcannons:steel_block": [
+87,
+88,
+89
+],
+"createbigcannons:steel_cannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:steel_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:steel_quickfiring_breech": [
+140,
+140,
+150
+],
+"createbigcannons:steel_screw_breech": [
+140,
+140,
+150
+],
+"createbigcannons:steel_sliding_breech": [
+140,
+140,
+150
+],
+"createbigcannons:thick_nethersteel_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:thick_steel_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:traffic_cone": [
+216,
+116,
+65
+],
+"createbigcannons:unbored_bronze_autocannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_bronze_autocannon_breech": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_bronze_autocannon_recoil_spring": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_bronze_cannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_bronze_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_bronze_sliding_breech": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_cast_iron_autocannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_cast_iron_autocannon_breech": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_cast_iron_autocannon_recoil_spring": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_cast_iron_cannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_cast_iron_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_cast_iron_sliding_breech": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_large_nethersteel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_large_steel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_medium_nethersteel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_medium_steel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_nethersteel_screw_breech": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_small_nethersteel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_small_steel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_steel_autocannon_barrel": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_steel_autocannon_breech": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_steel_autocannon_recoil_spring": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_steel_screw_breech": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_steel_sliding_breech": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_very_large_nethersteel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_very_large_steel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_very_small_nethersteel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:unbored_very_small_steel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:very_large_cast_mould": [
+140,
+140,
+150
+],
+"createbigcannons:very_large_nethersteel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:very_large_steel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:very_small_cast_mould": [
+140,
+140,
+150
+],
+"createbigcannons:very_small_nethersteel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:very_small_steel_cannon_layer": [
+140,
+140,
+150
+],
+"createbigcannons:worm_head": [
+40,
+40,
+44
+],
+"createbigcannons:wrought_iron_cannon_chamber": [
+140,
+140,
+150
+],
+"createbigcannons:wrought_iron_cannon_end": [
+140,
+140,
+150
+],
+"createbigcannons:wrought_iron_drop_mortar_end": [
+140,
+140,
+150
+],
+"createbigcannons:yaw_controller": [
+140,
+140,
+150
+],
+"createdieselgenerators:andesite_girder": [
+98,
+102,
+99
+],
+"createdieselgenerators:andesite_girder_encased_shaft": [
+140,
+140,
+150
+],
+"createdieselgenerators:andesite_girder_strut": [
+80,
+83,
+81
+],
+"createdieselgenerators:asphalt_block": [
+140,
+140,
+150
+],
+"createdieselgenerators:asphalt_slab": [
+140,
+140,
+150
+],
+"createdieselgenerators:asphalt_stairs": [
+140,
+140,
+150
+],
+"createdieselgenerators:basin_lid": [
+58,
+57,
+59
+],
+"createdieselgenerators:biodiesel": [
+190,
+130,
+88
+],
+"createdieselgenerators:black_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:black_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:blue_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:blue_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:brown_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:brown_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:bulk_fermenter": [
+140,
+140,
+150
+],
+"createdieselgenerators:burner": [
+140,
+140,
+150
+],
+"createdieselgenerators:canister": [
+133,
+133,
+133
+],
+"createdieselgenerators:chemical_turret": [
+140,
+140,
+150
+],
+"createdieselgenerators:chip_wood_beam": [
+142,
+112,
+64
+],
+"createdieselgenerators:chip_wood_block": [
+141,
+112,
+64
+],
+"createdieselgenerators:chip_wood_slab": [
+140,
+140,
+150
+],
+"createdieselgenerators:chip_wood_stairs": [
+140,
+140,
+150
+],
+"createdieselgenerators:crude_oil": [
+27,
+27,
+27
+],
+"createdieselgenerators:cyan_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:cyan_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:diesel": [
+190,
+156,
+88
+],
+"createdieselgenerators:diesel_engine": [
+117,
+95,
+70
+],
+"createdieselgenerators:distillation_tank": [
+140,
+140,
+150
+],
+"createdieselgenerators:ethanol": [
+223,
+224,
+198
+],
+"createdieselgenerators:gasoline": [
+190,
+167,
+129
+],
+"createdieselgenerators:gray_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:gray_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:green_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:green_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:huge_diesel_engine": [
+140,
+140,
+150
+],
+"createdieselgenerators:large_diesel_engine": [
+140,
+140,
+150
+],
+"createdieselgenerators:light_blue_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:light_blue_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:light_gray_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:light_gray_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:lime_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:lime_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:magenta_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:magenta_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:oil_barrel": [
+140,
+140,
+150
+],
+"createdieselgenerators:orange_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:orange_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:pink_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:pink_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:plant_oil": [
+140,
+140,
+150
+],
+"createdieselgenerators:powered_engine_shaft": [
+140,
+140,
+150
+],
+"createdieselgenerators:pumpjack_bearing": [
+94,
+123,
+86
+],
+"createdieselgenerators:pumpjack_bearing_b": [
+140,
+140,
+150
+],
+"createdieselgenerators:pumpjack_crank": [
+104,
+112,
+103
+],
+"createdieselgenerators:pumpjack_head": [
+140,
+140,
+150
+],
+"createdieselgenerators:pumpjack_hole": [
+76,
+84,
+81
+],
+"createdieselgenerators:purple_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:purple_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:red_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:red_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:sheet_metal_panel": [
+140,
+140,
+150
+],
+"createdieselgenerators:white_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:white_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"createdieselgenerators:yellow_cement": [
+140,
+140,
+150
+],
+"createdieselgenerators:yellow_concrete_encased_fluid_pipe": [
+140,
+140,
+150
+],
+"gnkinetics:andesite_cogwheel": [
+140,
+140,
+150
+],
+"gnkinetics:brass_gear": [
+167,
+137,
+88
+],
+"gnkinetics:chainable_cogwheel": [
+140,
+140,
+150
+],
+"gnkinetics:cog_crank": [
+140,
+140,
+150
+],
+"gnkinetics:cogstone": [
+140,
+140,
+150
+],
+"gnkinetics:creative_gear_motor": [
+106,
+62,
+112
+],
+"gnkinetics:hollow_brass_gear": [
+140,
+140,
+150
+],
+"gnkinetics:hollow_cogwheel": [
+140,
+140,
+150
+],
+"gnkinetics:hollow_large_brass_gear": [
+140,
+140,
+150
+],
+"gnkinetics:hollow_large_cogwheel": [
+140,
+140,
+150
+],
+"gnkinetics:industrial_gear": [
+140,
+140,
+150
+],
+"gnkinetics:large_brass_gear": [
+204,
+161,
+92
+],
+"gnkinetics:large_cog_crank": [
+140,
+140,
+150
+],
+"gnkinetics:large_industrial_gear": [
+140,
+140,
+150
+],
+"gnkinetics:large_magnet_gear": [
+140,
+140,
+150
+],
+"gnkinetics:magnet_gear": [
+114,
+98,
+87
+],
+"gnkinetics:planetary_gear": [
+140,
+140,
+150
+],
+"gnkinetics:planetary_gear_struct": [
+140,
+140,
+150
+],
+"gnkinetics:ring_gear": [
+148,
+116,
+77
+],
+"gnkinetics:ring_gear_struct": [
+140,
+140,
+150
+],
+"gnkinetics:shaftless_andesite_cogwheel": [
+140,
+140,
+150
+],
+"gnkinetics:shaftless_brass_gear": [
+140,
+140,
+150
+],
+"gnkinetics:shaftless_cogstone": [
+140,
+140,
+150
+],
+"gnkinetics:shaftless_cogwheel": [
+140,
+140,
+150
+],
+"gnkinetics:shaftless_industrial_gear": [
+140,
+140,
+150
+],
+"gnkinetics:shaftless_large_brass_gear": [
+140,
+140,
+150
+],
+"gnkinetics:shaftless_large_cogwheel": [
+140,
+140,
+150
+],
+"gnkinetics:shaftless_large_industrial_gear": [
+140,
+140,
+150
+],
+"gnkinetics:shaftless_tiny_brass_gear": [
+140,
+140,
+150
+],
+"gnkinetics:shaftless_tiny_cogwheel": [
+140,
+140,
+150
+],
+"gnkinetics:tiny_brass_gear": [
+140,
+140,
+150
+],
+"gnkinetics:tiny_cogwheel": [
+140,
+140,
+150
+],
+"gnkinetics:worm_gear": [
+60,
+60,
+65
+],
+"handheldmoon:full_moon": [
+141,
+179,
+229
+],
+"handheldmoon:moonlight_lamp": [
+98,
+104,
+141
+],
+"handheldmoon:moonlight_lamp_on": [
+107,
+108,
+152
+],
+"happy_ghast_legacy:dried_ghast": [
+140,
+140,
+150
+],
+"interiors:black_chair": [
+140,
+140,
+150
+],
+"interiors:black_cushion": [
+140,
+140,
+150
+],
+"interiors:black_floor_chair": [
+140,
+140,
+150
+],
+"interiors:blue_chair": [
+140,
+140,
+150
+],
+"interiors:blue_cushion": [
+140,
+140,
+150
+],
+"interiors:blue_floor_chair": [
+140,
+140,
+150
+],
+"interiors:brown_chair": [
+140,
+140,
+150
+],
+"interiors:brown_cushion": [
+140,
+140,
+150
+],
+"interiors:brown_floor_chair": [
+140,
+140,
+150
+],
+"interiors:cyan_chair": [
+140,
+140,
+150
+],
+"interiors:cyan_cushion": [
+140,
+140,
+150
+],
+"interiors:cyan_floor_chair": [
+140,
+140,
+150
+],
+"interiors:gray_chair": [
+140,
+140,
+150
+],
+"interiors:gray_cushion": [
+140,
+140,
+150
+],
+"interiors:gray_floor_chair": [
+140,
+140,
+150
+],
+"interiors:green_chair": [
+140,
+140,
+150
+],
+"interiors:green_cushion": [
+140,
+140,
+150
+],
+"interiors:green_floor_chair": [
+140,
+140,
+150
+],
+"interiors:kelp_chair": [
+140,
+140,
+150
+],
+"interiors:kelp_floor_chair": [
+140,
+140,
+150
+],
+"interiors:kelp_seat": [
+140,
+140,
+150
+],
+"interiors:light_blue_chair": [
+140,
+140,
+150
+],
+"interiors:light_blue_cushion": [
+140,
+140,
+150
+],
+"interiors:light_blue_floor_chair": [
+140,
+140,
+150
+],
+"interiors:light_gray_chair": [
+140,
+140,
+150
+],
+"interiors:light_gray_cushion": [
+140,
+140,
+150
+],
+"interiors:light_gray_floor_chair": [
+140,
+140,
+150
+],
+"interiors:lime_chair": [
+140,
+140,
+150
+],
+"interiors:lime_cushion": [
+140,
+140,
+150
+],
+"interiors:lime_floor_chair": [
+140,
+140,
+150
+],
+"interiors:magenta_chair": [
+140,
+140,
+150
+],
+"interiors:magenta_cushion": [
+140,
+140,
+150
+],
+"interiors:magenta_floor_chair": [
+140,
+140,
+150
+],
+"interiors:orange_chair": [
+140,
+140,
+150
+],
+"interiors:orange_cushion": [
+140,
+140,
+150
+],
+"interiors:orange_floor_chair": [
+140,
+140,
+150
+],
+"interiors:pink_chair": [
+140,
+140,
+150
+],
+"interiors:pink_cushion": [
+140,
+140,
+150
+],
+"interiors:pink_floor_chair": [
+140,
+140,
+150
+],
+"interiors:purple_chair": [
+140,
+140,
+150
+],
+"interiors:purple_cushion": [
+140,
+140,
+150
+],
+"interiors:purple_floor_chair": [
+140,
+140,
+150
+],
+"interiors:red_chair": [
+140,
+140,
+150
+],
+"interiors:red_cushion": [
+140,
+140,
+150
+],
+"interiors:red_floor_chair": [
+140,
+140,
+150
+],
+"interiors:seatwood_planks": [
+156,
+132,
+84
+],
+"interiors:wall_mounted_table": [
+140,
+140,
+150
+],
+"interiors:white_chair": [
+140,
+140,
+150
+],
+"interiors:white_cushion": [
+140,
+140,
+150
+],
+"interiors:white_floor_chair": [
+140,
+140,
+150
+],
+"interiors:yellow_chair": [
+140,
+140,
+150
+],
+"interiors:yellow_cushion": [
+140,
+140,
+150
+],
+"interiors:yellow_floor_chair": [
+140,
+140,
+150
+],
+"minecraft:acacia_button": [
+140,
+140,
+150
+],
+"minecraft:acacia_door": [
+168,
+95,
+60
+],
+"minecraft:acacia_fence": [
+140,
+140,
+150
+],
+"minecraft:acacia_fence_gate": [
+140,
+140,
+150
+],
+"minecraft:acacia_hanging_sign": [
+128,
+75,
+46
+],
+"minecraft:acacia_leaves": [
+148,
+147,
+147
+],
+"minecraft:acacia_log": [
+103,
+96,
+86
+],
+"minecraft:acacia_planks": [
+168,
+90,
+50
+],
+"minecraft:acacia_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:acacia_sapling": [
+117,
+120,
+23
+],
+"minecraft:acacia_sign": [
+132,
+76,
+43
+],
+"minecraft:acacia_slab": [
+140,
+140,
+150
+],
+"minecraft:acacia_stairs": [
+140,
+140,
+150
+],
+"minecraft:acacia_trapdoor": [
+160,
+88,
+51
+],
+"minecraft:acacia_wall_hanging_sign": [
+140,
+140,
+150
+],
+"minecraft:acacia_wall_sign": [
+140,
+140,
+150
+],
+"minecraft:acacia_wood": [
+140,
+140,
+150
+],
+"minecraft:activator_rail": [
+114,
+86,
+71
+],
+"minecraft:air": [
+200,
+200,
+210
+],
+"minecraft:allium": [
+147,
+137,
+165
+],
+"minecraft:amethyst_block": [
+134,
+98,
+191
+],
+"minecraft:amethyst_cluster": [
+164,
+127,
+208
+],
+"minecraft:ancient_debris": [
+94,
+66,
+58
+],
+"minecraft:andesite": [
+136,
+136,
+137
+],
+"minecraft:andesite_slab": [
+140,
+140,
+150
+],
+"minecraft:andesite_stairs": [
+140,
+140,
+150
+],
+"minecraft:andesite_wall": [
+140,
+140,
+150
+],
+"minecraft:anvil": [
+68,
+68,
+68
+],
+"minecraft:attached_melon_stem": [
+139,
+140,
+139
+],
+"minecraft:attached_pumpkin_stem": [
+137,
+137,
+137
+],
+"minecraft:azalea": [
+102,
+124,
+47
+],
+"minecraft:azalea_leaves": [
+89,
+113,
+43
+],
+"minecraft:azure_bluet": [
+174,
+206,
+129
+],
+"minecraft:bamboo": [
+83,
+119,
+30
+],
+"minecraft:bamboo_block": [
+127,
+144,
+57
+],
+"minecraft:bamboo_button": [
+140,
+140,
+150
+],
+"minecraft:bamboo_door": [
+192,
+172,
+81
+],
+"minecraft:bamboo_fence": [
+206,
+186,
+89
+],
+"minecraft:bamboo_fence_gate": [
+205,
+184,
+85
+],
+"minecraft:bamboo_hanging_sign": [
+160,
+145,
+77
+],
+"minecraft:bamboo_mosaic": [
+191,
+170,
+78
+],
+"minecraft:bamboo_mosaic_slab": [
+140,
+140,
+150
+],
+"minecraft:bamboo_mosaic_stairs": [
+140,
+140,
+150
+],
+"minecraft:bamboo_planks": [
+194,
+173,
+80
+],
+"minecraft:bamboo_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:bamboo_sapling": [
+140,
+140,
+150
+],
+"minecraft:bamboo_sign": [
+175,
+156,
+73
+],
+"minecraft:bamboo_slab": [
+140,
+140,
+150
+],
+"minecraft:bamboo_stairs": [
+140,
+140,
+150
+],
+"minecraft:bamboo_trapdoor": [
+202,
+183,
+88
+],
+"minecraft:bamboo_wall_hanging_sign": [
+140,
+140,
+150
+],
+"minecraft:bamboo_wall_sign": [
+140,
+140,
+150
+],
+"minecraft:barrel": [
+133,
+99,
+58
+],
+"minecraft:barrier": [
+210,
+0,
+0
+],
+"minecraft:basalt": [
+80,
+81,
+86
+],
+"minecraft:beacon": [
+111,
+219,
+213
+],
+"minecraft:bedrock": [
+85,
+85,
+85
+],
+"minecraft:bee_nest": [
+205,
+163,
+75
+],
+"minecraft:beehive": [
+158,
+127,
+76
+],
+"minecraft:beetroots": [
+140,
+140,
+150
+],
+"minecraft:bell": [
+253,
+234,
+107
+],
+"minecraft:big_dripleaf": [
+110,
+140,
+51
+],
+"minecraft:big_dripleaf_stem": [
+90,
+114,
+45
+],
+"minecraft:birch_button": [
+140,
+140,
+150
+],
+"minecraft:birch_door": [
+220,
+210,
+176
+],
+"minecraft:birch_fence": [
+140,
+140,
+150
+],
+"minecraft:birch_fence_gate": [
+140,
+140,
+150
+],
+"minecraft:birch_hanging_sign": [
+143,
+130,
+92
+],
+"minecraft:birch_leaves": [
+129,
+128,
+129
+],
+"minecraft:birch_log": [
+216,
+214,
+210
+],
+"minecraft:birch_planks": [
+192,
+175,
+121
+],
+"minecraft:birch_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:birch_sapling": [
+121,
+156,
+73
+],
+"minecraft:birch_sign": [
+159,
+145,
+104
+],
+"minecraft:birch_slab": [
+140,
+140,
+150
+],
+"minecraft:birch_stairs": [
+140,
+140,
+150
+],
+"minecraft:birch_trapdoor": [
+208,
+195,
+158
+],
+"minecraft:birch_wall_hanging_sign": [
+140,
+140,
+150
+],
+"minecraft:birch_wall_sign": [
+140,
+140,
+150
+],
+"minecraft:birch_wood": [
+140,
+140,
+150
+],
+"minecraft:black_banner": [
+140,
+140,
+150
+],
+"minecraft:black_bed": [
+140,
+140,
+150
+],
+"minecraft:black_candle": [
+37,
+36,
+56
+],
+"minecraft:black_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:black_carpet": [
+140,
+140,
+150
+],
+"minecraft:black_concrete": [
+8,
+10,
+15
+],
+"minecraft:black_concrete_powder": [
+25,
+26,
+32
+],
+"minecraft:black_glazed_terracotta": [
+68,
+30,
+32
+],
+"minecraft:black_shulker_box": [
+25,
+25,
+29
+],
+"minecraft:black_stained_glass": [
+24,
+24,
+24
+],
+"minecraft:black_stained_glass_pane": [
+24,
+24,
+24
+],
+"minecraft:black_terracotta": [
+37,
+22,
+16
+],
+"minecraft:black_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:black_wool": [
+20,
+21,
+25
+],
+"minecraft:blackstone": [
+42,
+35,
+41
+],
+"minecraft:blackstone_slab": [
+140,
+140,
+150
+],
+"minecraft:blackstone_stairs": [
+140,
+140,
+150
+],
+"minecraft:blackstone_wall": [
+140,
+140,
+150
+],
+"minecraft:blast_furnace": [
+80,
+79,
+80
+],
+"minecraft:blue_banner": [
+140,
+140,
+150
+],
+"minecraft:blue_bed": [
+140,
+140,
+150
+],
+"minecraft:blue_candle": [
+54,
+72,
+152
+],
+"minecraft:blue_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:blue_carpet": [
+140,
+140,
+150
+],
+"minecraft:blue_concrete": [
+44,
+46,
+143
+],
+"minecraft:blue_concrete_powder": [
+70,
+73,
+166
+],
+"minecraft:blue_glazed_terracotta": [
+47,
+65,
+140
+],
+"minecraft:blue_ice": [
+116,
+167,
+253
+],
+"minecraft:blue_orchid": [
+46,
+161,
+170
+],
+"minecraft:blue_shulker_box": [
+43,
+45,
+140
+],
+"minecraft:blue_stained_glass": [
+50,
+75,
+177
+],
+"minecraft:blue_stained_glass_pane": [
+47,
+73,
+171
+],
+"minecraft:blue_terracotta": [
+74,
+59,
+91
+],
+"minecraft:blue_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:blue_wool": [
+53,
+57,
+157
+],
+"minecraft:bone_block": [
+209,
+206,
+179
+],
+"minecraft:bookshelf": [
+114,
+92,
+58
+],
+"minecraft:brain_coral": [
+198,
+85,
+152
+],
+"minecraft:brain_coral_block": [
+207,
+91,
+159
+],
+"minecraft:brain_coral_fan": [
+202,
+82,
+152
+],
+"minecraft:brain_coral_wall_fan": [
+140,
+140,
+150
+],
+"minecraft:brewing_stand": [
+118,
+95,
+78
+],
+"minecraft:brick_slab": [
+140,
+140,
+150
+],
+"minecraft:brick_stairs": [
+140,
+140,
+150
+],
+"minecraft:brick_wall": [
+140,
+140,
+150
+],
+"minecraft:bricks": [
+150,
+96,
+82
+],
+"minecraft:brown_banner": [
+140,
+140,
+150
+],
+"minecraft:brown_bed": [
+140,
+140,
+150
+],
+"minecraft:brown_candle": [
+105,
+66,
+40
+],
+"minecraft:brown_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:brown_carpet": [
+140,
+140,
+150
+],
+"minecraft:brown_concrete": [
+96,
+59,
+31
+],
+"minecraft:brown_concrete_powder": [
+125,
+84,
+53
+],
+"minecraft:brown_glazed_terracotta": [
+120,
+106,
+86
+],
+"minecraft:brown_mushroom": [
+155,
+118,
+94
+],
+"minecraft:brown_mushroom_block": [
+149,
+111,
+81
+],
+"minecraft:brown_shulker_box": [
+106,
+66,
+36
+],
+"minecraft:brown_stained_glass": [
+101,
+75,
+50
+],
+"minecraft:brown_stained_glass_pane": [
+97,
+73,
+47
+],
+"minecraft:brown_terracotta": [
+77,
+51,
+35
+],
+"minecraft:brown_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:brown_wool": [
+114,
+71,
+40
+],
+"minecraft:bubble_column": [
+140,
+140,
+150
+],
+"minecraft:bubble_coral": [
+161,
+24,
+159
+],
+"minecraft:bubble_coral_block": [
+165,
+26,
+162
+],
+"minecraft:bubble_coral_fan": [
+159,
+31,
+158
+],
+"minecraft:bubble_coral_wall_fan": [
+140,
+140,
+150
+],
+"minecraft:budding_amethyst": [
+132,
+96,
+187
+],
+"minecraft:cactus": [
+81,
+120,
+40
+],
+"minecraft:cake": [
+248,
+227,
+217
+],
+"minecraft:calcite": [
+223,
+224,
+220
+],
+"minecraft:calibrated_sculk_sensor": [
+27,
+79,
+100
+],
+"minecraft:campfire": [
+138,
+96,
+44
+],
+"minecraft:candle": [
+218,
+188,
+145
+],
+"minecraft:candle_cake": [
+140,
+140,
+150
+],
+"minecraft:carrots": [
+140,
+140,
+150
+],
+"minecraft:cartography_table": [
+104,
+88,
+67
+],
+"minecraft:carved_pumpkin": [
+150,
+84,
+17
+],
+"minecraft:cauldron": [
+71,
+70,
+72
+],
+"minecraft:cave_air": [
+140,
+140,
+150
+],
+"minecraft:cave_vines": [
+91,
+110,
+40
+],
+"minecraft:cave_vines_plant": [
+87,
+100,
+37
+],
+"minecraft:chain": [
+51,
+57,
+73
+],
+"minecraft:chain_command_block": [
+131,
+160,
+147
+],
+"minecraft:cherry_button": [
+140,
+140,
+150
+],
+"minecraft:cherry_door": [
+222,
+168,
+163
+],
+"minecraft:cherry_fence": [
+140,
+140,
+150
+],
+"minecraft:cherry_fence_gate": [
+140,
+140,
+150
+],
+"minecraft:cherry_hanging_sign": [
+179,
+122,
+124
+],
+"minecraft:cherry_leaves": [
+229,
+172,
+194
+],
+"minecraft:cherry_log": [
+54,
+33,
+44
+],
+"minecraft:cherry_planks": [
+226,
+179,
+173
+],
+"minecraft:cherry_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:cherry_sapling": [
+168,
+120,
+147
+],
+"minecraft:cherry_sign": [
+191,
+138,
+136
+],
+"minecraft:cherry_slab": [
+140,
+140,
+150
+],
+"minecraft:cherry_stairs": [
+140,
+140,
+150
+],
+"minecraft:cherry_trapdoor": [
+225,
+177,
+170
+],
+"minecraft:cherry_wall_hanging_sign": [
+140,
+140,
+150
+],
+"minecraft:cherry_wall_sign": [
+140,
+140,
+150
+],
+"minecraft:cherry_wood": [
+140,
+140,
+150
+],
+"minecraft:chest": [
+140,
+140,
+150
+],
+"minecraft:chipped_anvil": [
+71,
+71,
+71
+],
+"minecraft:chiseled_bookshelf": [
+177,
+143,
+88
+],
+"minecraft:chiseled_copper": [
+184,
+100,
+73
+],
+"minecraft:chiseled_deepslate": [
+55,
+55,
+55
+],
+"minecraft:chiseled_nether_bricks": [
+47,
+23,
+28
+],
+"minecraft:chiseled_polished_blackstone": [
+54,
+48,
+57
+],
+"minecraft:chiseled_quartz_block": [
+232,
+227,
+218
+],
+"minecraft:chiseled_red_sandstone": [
+183,
+96,
+27
+],
+"minecraft:chiseled_sandstone": [
+216,
+203,
+155
+],
+"minecraft:chiseled_stone_bricks": [
+119,
+119,
+119
+],
+"minecraft:chiseled_tuff": [
+89,
+94,
+87
+],
+"minecraft:chiseled_tuff_bricks": [
+99,
+103,
+96
+],
+"minecraft:chorus_flower": [
+151,
+120,
+151
+],
+"minecraft:chorus_plant": [
+93,
+56,
+93
+],
+"minecraft:clay": [
+160,
+166,
+179
+],
+"minecraft:coal_block": [
+16,
+15,
+15
+],
+"minecraft:coal_ore": [
+105,
+105,
+104
+],
+"minecraft:coarse_dirt": [
+119,
+85,
+59
+],
+"minecraft:cobbled_deepslate": [
+77,
+77,
+80
+],
+"minecraft:cobbled_deepslate_slab": [
+140,
+140,
+150
+],
+"minecraft:cobbled_deepslate_stairs": [
+140,
+140,
+150
+],
+"minecraft:cobbled_deepslate_wall": [
+140,
+140,
+150
+],
+"minecraft:cobblestone": [
+128,
+127,
+127
+],
+"minecraft:cobblestone_slab": [
+140,
+140,
+150
+],
+"minecraft:cobblestone_stairs": [
+140,
+140,
+150
+],
+"minecraft:cobblestone_wall": [
+140,
+140,
+150
+],
+"minecraft:cobweb": [
+226,
+231,
+232
+],
+"minecraft:cocoa": [
+140,
+140,
+150
+],
+"minecraft:command_block": [
+176,
+133,
+108
+],
+"minecraft:comparator": [
+167,
+163,
+160
+],
+"minecraft:composter": [
+148,
+95,
+49
+],
+"minecraft:conduit": [
+158,
+139,
+112
+],
+"minecraft:copper_block": [
+192,
+108,
+79
+],
+"minecraft:copper_bulb": [
+155,
+86,
+56
+],
+"minecraft:copper_door": [
+192,
+108,
+81
+],
+"minecraft:copper_grate": [
+191,
+107,
+79
+],
+"minecraft:copper_ore": [
+124,
+125,
+120
+],
+"minecraft:copper_trapdoor": [
+190,
+106,
+79
+],
+"minecraft:cornflower": [
+78,
+122,
+133
+],
+"minecraft:cracked_deepslate_bricks": [
+65,
+64,
+65
+],
+"minecraft:cracked_deepslate_tiles": [
+53,
+52,
+53
+],
+"minecraft:cracked_nether_bricks": [
+40,
+20,
+24
+],
+"minecraft:cracked_polished_blackstone_bricks": [
+44,
+37,
+44
+],
+"minecraft:cracked_stone_bricks": [
+118,
+117,
+118
+],
+"minecraft:crafter": [
+111,
+97,
+99
+],
+"minecraft:crafting_table": [
+122,
+75,
+44
+],
+"minecraft:creeper_head": [
+140,
+140,
+150
+],
+"minecraft:creeper_wall_head": [
+140,
+140,
+150
+],
+"minecraft:crimson_button": [
+140,
+140,
+150
+],
+"minecraft:crimson_door": [
+114,
+54,
+78
+],
+"minecraft:crimson_fence": [
+140,
+140,
+150
+],
+"minecraft:crimson_fence_gate": [
+140,
+140,
+150
+],
+"minecraft:crimson_fungus": [
+138,
+46,
+31
+],
+"minecraft:crimson_hanging_sign": [
+98,
+53,
+71
+],
+"minecraft:crimson_hyphae": [
+140,
+140,
+150
+],
+"minecraft:crimson_nylium": [
+131,
+31,
+31
+],
+"minecraft:crimson_planks": [
+101,
+49,
+70
+],
+"minecraft:crimson_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:crimson_roots": [
+125,
+7,
+41
+],
+"minecraft:crimson_sign": [
+100,
+43,
+63
+],
+"minecraft:crimson_slab": [
+140,
+140,
+150
+],
+"minecraft:crimson_stairs": [
+140,
+140,
+150
+],
+"minecraft:crimson_stem": [
+92,
+25,
+30
+],
+"minecraft:crimson_trapdoor": [
+105,
+50,
+73
+],
+"minecraft:crimson_wall_hanging_sign": [
+140,
+140,
+150
+],
+"minecraft:crimson_wall_sign": [
+140,
+140,
+150
+],
+"minecraft:crying_obsidian": [
+33,
+10,
+61
+],
+"minecraft:cut_copper": [
+191,
+107,
+80
+],
+"minecraft:cut_copper_slab": [
+140,
+140,
+150
+],
+"minecraft:cut_copper_stairs": [
+140,
+140,
+150
+],
+"minecraft:cut_red_sandstone": [
+189,
+101,
+32
+],
+"minecraft:cut_red_sandstone_slab": [
+140,
+140,
+150
+],
+"minecraft:cut_sandstone": [
+217,
+206,
+160
+],
+"minecraft:cut_sandstone_slab": [
+140,
+140,
+150
+],
+"minecraft:cyan_banner": [
+140,
+140,
+150
+],
+"minecraft:cyan_bed": [
+140,
+140,
+150
+],
+"minecraft:cyan_candle": [
+18,
+116,
+117
+],
+"minecraft:cyan_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:cyan_carpet": [
+140,
+140,
+150
+],
+"minecraft:cyan_concrete": [
+21,
+119,
+136
+],
+"minecraft:cyan_concrete_powder": [
+36,
+148,
+157
+],
+"minecraft:cyan_glazed_terracotta": [
+51,
+118,
+125
+],
+"minecraft:cyan_shulker_box": [
+20,
+121,
+135
+],
+"minecraft:cyan_stained_glass": [
+75,
+126,
+152
+],
+"minecraft:cyan_stained_glass_pane": [
+73,
+122,
+147
+],
+"minecraft:cyan_terracotta": [
+86,
+91,
+91
+],
+"minecraft:cyan_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:cyan_wool": [
+21,
+137,
+145
+],
+"minecraft:damaged_anvil": [
+71,
+70,
+70
+],
+"minecraft:dandelion": [
+152,
+176,
+45
+],
+"minecraft:dark_oak_button": [
+140,
+140,
+150
+],
+"minecraft:dark_oak_door": [
+76,
+51,
+25
+],
+"minecraft:dark_oak_fence": [
+140,
+140,
+150
+],
+"minecraft:dark_oak_fence_gate": [
+140,
+140,
+150
+],
+"minecraft:dark_oak_hanging_sign": [
+74,
+55,
+35
+],
+"minecraft:dark_oak_leaves": [
+150,
+150,
+150
+],
+"minecraft:dark_oak_log": [
+60,
+46,
+26
+],
+"minecraft:dark_oak_planks": [
+66,
+43,
+20
+],
+"minecraft:dark_oak_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:dark_oak_sapling": [
+58,
+93,
+30
+],
+"minecraft:dark_oak_sign": [
+77,
+53,
+27
+],
+"minecraft:dark_oak_slab": [
+140,
+140,
+150
+],
+"minecraft:dark_oak_stairs": [
+140,
+140,
+150
+],
+"minecraft:dark_oak_trapdoor": [
+75,
+49,
+23
+],
+"minecraft:dark_oak_wall_hanging_sign": [
+140,
+140,
+150
+],
+"minecraft:dark_oak_wall_sign": [
+140,
+140,
+150
+],
+"minecraft:dark_oak_wood": [
+140,
+140,
+150
+],
+"minecraft:dark_prismarine": [
+51,
+91,
+76
+],
+"minecraft:dark_prismarine_slab": [
+140,
+140,
+150
+],
+"minecraft:dark_prismarine_stairs": [
+140,
+140,
+150
+],
+"minecraft:daylight_detector": [
+133,
+119,
+97
+],
+"minecraft:dead_brain_coral": [
+133,
+125,
+121
+],
+"minecraft:dead_brain_coral_block": [
+124,
+117,
+114
+],
+"minecraft:dead_brain_coral_fan": [
+132,
+123,
+120
+],
+"minecraft:dead_brain_coral_wall_fan": [
+140,
+140,
+150
+],
+"minecraft:dead_bubble_coral": [
+132,
+124,
+120
+],
+"minecraft:dead_bubble_coral_block": [
+132,
+123,
+119
+],
+"minecraft:dead_bubble_coral_fan": [
+140,
+133,
+129
+],
+"minecraft:dead_bubble_coral_wall_fan": [
+140,
+140,
+150
+],
+"minecraft:dead_bush": [
+106,
+77,
+40
+],
+"minecraft:dead_fire_coral": [
+137,
+128,
+124
+],
+"minecraft:dead_fire_coral_block": [
+131,
+123,
+119
+],
+"minecraft:dead_fire_coral_fan": [
+125,
+118,
+114
+],
+"minecraft:dead_fire_coral_wall_fan": [
+140,
+140,
+150
+],
+"minecraft:dead_horn_coral": [
+142,
+134,
+129
+],
+"minecraft:dead_horn_coral_block": [
+133,
+126,
+122
+],
+"minecraft:dead_horn_coral_fan": [
+132,
+124,
+120
+],
+"minecraft:dead_horn_coral_wall_fan": [
+140,
+140,
+150
+],
+"minecraft:dead_tube_coral": [
+118,
+111,
+107
+],
+"minecraft:dead_tube_coral_block": [
+130,
+123,
+119
+],
+"minecraft:dead_tube_coral_fan": [
+128,
+122,
+118
+],
+"minecraft:dead_tube_coral_wall_fan": [
+140,
+140,
+150
+],
+"minecraft:decorated_pot": [
+140,
+140,
+150
+],
+"minecraft:deepslate": [
+79,
+79,
+82
+],
+"minecraft:deepslate_brick_slab": [
+140,
+140,
+150
+],
+"minecraft:deepslate_brick_stairs": [
+140,
+140,
+150
+],
+"minecraft:deepslate_brick_wall": [
+140,
+140,
+150
+],
+"minecraft:deepslate_bricks": [
+71,
+70,
+71
+],
+"minecraft:deepslate_coal_ore": [
+74,
+74,
+75
+],
+"minecraft:deepslate_copper_ore": [
+92,
+93,
+89
+],
+"minecraft:deepslate_diamond_ore": [
+83,
+106,
+107
+],
+"minecraft:deepslate_emerald_ore": [
+78,
+104,
+87
+],
+"minecraft:deepslate_gold_ore": [
+115,
+103,
+77
+],
+"minecraft:deepslate_iron_ore": [
+107,
+99,
+94
+],
+"minecraft:deepslate_lapis_ore": [
+79,
+90,
+115
+],
+"minecraft:deepslate_redstone_ore": [
+105,
+73,
+74
+],
+"minecraft:deepslate_tile_slab": [
+140,
+140,
+150
+],
+"minecraft:deepslate_tile_stairs": [
+140,
+140,
+150
+],
+"minecraft:deepslate_tile_wall": [
+140,
+140,
+150
+],
+"minecraft:deepslate_tiles": [
+55,
+55,
+55
+],
+"minecraft:detector_rail": [
+122,
+102,
+85
+],
+"minecraft:diamond_block": [
+101,
+238,
+229
+],
+"minecraft:diamond_ore": [
+121,
+141,
+140
+],
+"minecraft:diorite": [
+188,
+188,
+188
+],
+"minecraft:diorite_slab": [
+140,
+140,
+150
+],
+"minecraft:diorite_stairs": [
+140,
+140,
+150
+],
+"minecraft:diorite_wall": [
+140,
+140,
+150
+],
+"minecraft:dirt": [
+134,
+96,
+67
+],
+"minecraft:dirt_path": [
+148,
+121,
+65
+],
+"minecraft:dispenser": [
+123,
+123,
+123
+],
+"minecraft:dragon_egg": [
+12,
+9,
+15
+],
+"minecraft:dragon_head": [
+140,
+140,
+150
+],
+"minecraft:dragon_wall_head": [
+140,
+140,
+150
+],
+"minecraft:dried_kelp_block": [
+140,
+140,
+150
+],
+"minecraft:dripstone_block": [
+134,
+107,
+92
+],
+"minecraft:dropper": [
+124,
+123,
+123
+],
+"minecraft:emerald_block": [
+43,
+205,
+89
+],
+"minecraft:emerald_ore": [
+107,
+136,
+115
+],
+"minecraft:enchanting_table": [
+129,
+76,
+85
+],
+"minecraft:end_gateway": [
+140,
+140,
+150
+],
+"minecraft:end_portal": [
+140,
+140,
+150
+],
+"minecraft:end_portal_frame": [
+92,
+121,
+97
+],
+"minecraft:end_rod": [
+206,
+196,
+185
+],
+"minecraft:end_stone": [
+219,
+223,
+158
+],
+"minecraft:end_stone_brick_slab": [
+140,
+140,
+150
+],
+"minecraft:end_stone_brick_stairs": [
+140,
+140,
+150
+],
+"minecraft:end_stone_brick_wall": [
+140,
+140,
+150
+],
+"minecraft:end_stone_bricks": [
+219,
+224,
+162
+],
+"minecraft:ender_chest": [
+140,
+140,
+150
+],
+"minecraft:exposed_chiseled_copper": [
+154,
+119,
+100
+],
+"minecraft:exposed_copper": [
+160,
+125,
+103
+],
+"minecraft:exposed_copper_bulb": [
+133,
+106,
+89
+],
+"minecraft:exposed_copper_door": [
+163,
+123,
+105
+],
+"minecraft:exposed_copper_grate": [
+161,
+125,
+103
+],
+"minecraft:exposed_copper_trapdoor": [
+161,
+124,
+104
+],
+"minecraft:exposed_cut_copper": [
+154,
+122,
+101
+],
+"minecraft:exposed_cut_copper_slab": [
+140,
+140,
+150
+],
+"minecraft:exposed_cut_copper_stairs": [
+140,
+140,
+150
+],
+"minecraft:farmland": [
+143,
+102,
+70
+],
+"minecraft:fern": [
+121,
+121,
+121
+],
+"minecraft:fire": [
+140,
+140,
+150
+],
+"minecraft:fire_coral": [
+167,
+38,
+46
+],
+"minecraft:fire_coral_block": [
+163,
+35,
+46
+],
+"minecraft:fire_coral_fan": [
+159,
+34,
+45
+],
+"minecraft:fire_coral_wall_fan": [
+140,
+140,
+150
+],
+"minecraft:fletching_table": [
+197,
+180,
+133
+],
+"minecraft:flower_pot": [
+124,
+68,
+53
+],
+"minecraft:flowering_azalea": [
+112,
+121,
+64
+],
+"minecraft:flowering_azalea_leaves": [
+99,
+110,
+60
+],
+"minecraft:frogspawn": [
+106,
+90,
+83
+],
+"minecraft:frosted_ice": [
+140,
+140,
+150
+],
+"minecraft:furnace": [
+111,
+111,
+111
+],
+"minecraft:gilded_blackstone": [
+55,
+43,
+38
+],
+"minecraft:glass": [
+176,
+214,
+219
+],
+"minecraft:glass_pane": [
+168,
+208,
+216
+],
+"minecraft:glow_item_frame": [
+150,
+104,
+64
+],
+"minecraft:glow_lichen": [
+111,
+130,
+120
+],
+"minecraft:glowstone": [
+171,
+131,
+84
+],
+"minecraft:gold_block": [
+247,
+210,
+62
+],
+"minecraft:gold_ore": [
+145,
+134,
+105
+],
+"minecraft:granite": [
+149,
+103,
+85
+],
+"minecraft:granite_slab": [
+140,
+140,
+150
+],
+"minecraft:granite_stairs": [
+140,
+140,
+150
+],
+"minecraft:granite_wall": [
+140,
+140,
+150
+],
+"minecraft:grass_block": [
+147,
+147,
+147
+],
+"minecraft:gravel": [
+132,
+127,
+126
+],
+"minecraft:gray_banner": [
+140,
+140,
+150
+],
+"minecraft:gray_bed": [
+140,
+140,
+150
+],
+"minecraft:gray_candle": [
+76,
+89,
+92
+],
+"minecraft:gray_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:gray_carpet": [
+140,
+140,
+150
+],
+"minecraft:gray_concrete": [
+54,
+57,
+61
+],
+"minecraft:gray_concrete_powder": [
+76,
+81,
+84
+],
+"minecraft:gray_glazed_terracotta": [
+83,
+90,
+93
+],
+"minecraft:gray_shulker_box": [
+55,
+58,
+62
+],
+"minecraft:gray_stained_glass": [
+75,
+75,
+75
+],
+"minecraft:gray_stained_glass_pane": [
+73,
+73,
+73
+],
+"minecraft:gray_terracotta": [
+57,
+42,
+35
+],
+"minecraft:gray_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:gray_wool": [
+62,
+68,
+71
+],
+"minecraft:green_banner": [
+140,
+140,
+150
+],
+"minecraft:green_bed": [
+140,
+140,
+150
+],
+"minecraft:green_candle": [
+69,
+91,
+22
+],
+"minecraft:green_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:green_carpet": [
+140,
+140,
+150
+],
+"minecraft:green_concrete": [
+73,
+91,
+36
+],
+"minecraft:green_concrete_powder": [
+97,
+119,
+44
+],
+"minecraft:green_glazed_terracotta": [
+116,
+141,
+66
+],
+"minecraft:green_shulker_box": [
+79,
+101,
+31
+],
+"minecraft:green_stained_glass": [
+101,
+126,
+50
+],
+"minecraft:green_stained_glass_pane": [
+97,
+122,
+47
+],
+"minecraft:green_terracotta": [
+76,
+83,
+42
+],
+"minecraft:green_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:green_wool": [
+84,
+109,
+27
+],
+"minecraft:grindstone": [
+138,
+138,
+138
+],
+"minecraft:hanging_roots": [
+160,
+113,
+90
+],
+"minecraft:hay_block": [
+166,
+139,
+12
+],
+"minecraft:heavy_core": [
+82,
+85,
+93
+],
+"minecraft:heavy_weighted_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:honey_block": [
+250,
+185,
+52
+],
+"minecraft:honeycomb_block": [
+229,
+148,
+29
+],
+"minecraft:hopper": [
+72,
+71,
+73
+],
+"minecraft:horn_coral": [
+208,
+185,
+62
+],
+"minecraft:horn_coral_block": [
+216,
+200,
+66
+],
+"minecraft:horn_coral_fan": [
+204,
+181,
+60
+],
+"minecraft:horn_coral_wall_fan": [
+140,
+140,
+150
+],
+"minecraft:ice": [
+145,
+183,
+253
+],
+"minecraft:infested_chiseled_stone_bricks": [
+140,
+140,
+150
+],
+"minecraft:infested_cobblestone": [
+140,
+140,
+150
+],
+"minecraft:infested_cracked_stone_bricks": [
+140,
+140,
+150
+],
+"minecraft:infested_deepslate": [
+140,
+140,
+150
+],
+"minecraft:infested_mossy_stone_bricks": [
+140,
+140,
+150
+],
+"minecraft:infested_stone": [
+140,
+140,
+150
+],
+"minecraft:infested_stone_bricks": [
+140,
+140,
+150
+],
+"minecraft:iron_bars": [
+136,
+138,
+135
+],
+"minecraft:iron_block": [
+221,
+221,
+221
+],
+"minecraft:iron_door": [
+194,
+193,
+193
+],
+"minecraft:iron_ore": [
+136,
+129,
+122
+],
+"minecraft:iron_trapdoor": [
+203,
+202,
+202
+],
+"minecraft:item_frame": [
+119,
+68,
+43
+],
+"minecraft:jack_o_lantern": [
+215,
+153,
+53
+],
+"minecraft:jigsaw": [
+80,
+69,
+81
+],
+"minecraft:jukebox": [
+95,
+65,
+47
+],
+"minecraft:jungle_button": [
+140,
+140,
+150
+],
+"minecraft:jungle_door": [
+163,
+119,
+84
+],
+"minecraft:jungle_fence": [
+140,
+140,
+150
+],
+"minecraft:jungle_fence_gate": [
+140,
+140,
+150
+],
+"minecraft:jungle_hanging_sign": [
+123,
+92,
+67
+],
+"minecraft:jungle_leaves": [
+154,
+152,
+143
+],
+"minecraft:jungle_log": [
+85,
+67,
+25
+],
+"minecraft:jungle_planks": [
+160,
+115,
+81
+],
+"minecraft:jungle_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:jungle_sapling": [
+46,
+83,
+17
+],
+"minecraft:jungle_sign": [
+124,
+89,
+56
+],
+"minecraft:jungle_slab": [
+140,
+140,
+150
+],
+"minecraft:jungle_stairs": [
+140,
+140,
+150
+],
+"minecraft:jungle_trapdoor": [
+157,
+113,
+80
+],
+"minecraft:jungle_wall_hanging_sign": [
+140,
+140,
+150
+],
+"minecraft:jungle_wall_sign": [
+140,
+140,
+150
+],
+"minecraft:jungle_wood": [
+140,
+140,
+150
+],
+"minecraft:kelp": [
+86,
+135,
+43
+],
+"minecraft:kelp_plant": [
+87,
+136,
+44
+],
+"minecraft:ladder": [
+126,
+98,
+55
+],
+"minecraft:lantern": [
+94,
+85,
+82
+],
+"minecraft:lapis_block": [
+30,
+67,
+139
+],
+"minecraft:lapis_ore": [
+106,
+117,
+141
+],
+"minecraft:large_amethyst_bud": [
+163,
+128,
+203
+],
+"minecraft:large_fern": [
+122,
+123,
+122
+],
+"minecraft:lava": [
+212,
+90,
+18
+],
+"minecraft:lava_cauldron": [
+140,
+140,
+150
+],
+"minecraft:lectern": [
+173,
+137,
+82
+],
+"minecraft:lever": [
+111,
+93,
+66
+],
+"minecraft:light": [
+255,
+250,
+28
+],
+"minecraft:light_blue_banner": [
+140,
+140,
+150
+],
+"minecraft:light_blue_bed": [
+140,
+140,
+150
+],
+"minecraft:light_blue_candle": [
+34,
+130,
+186
+],
+"minecraft:light_blue_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:light_blue_carpet": [
+140,
+140,
+150
+],
+"minecraft:light_blue_concrete": [
+35,
+137,
+199
+],
+"minecraft:light_blue_concrete_powder": [
+74,
+180,
+213
+],
+"minecraft:light_blue_glazed_terracotta": [
+94,
+164,
+208
+],
+"minecraft:light_blue_shulker_box": [
+49,
+164,
+212
+],
+"minecraft:light_blue_stained_glass": [
+101,
+152,
+215
+],
+"minecraft:light_blue_stained_glass_pane": [
+97,
+147,
+208
+],
+"minecraft:light_blue_terracotta": [
+113,
+108,
+138
+],
+"minecraft:light_blue_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:light_blue_wool": [
+58,
+175,
+217
+],
+"minecraft:light_gray_banner": [
+140,
+140,
+150
+],
+"minecraft:light_gray_bed": [
+140,
+140,
+150
+],
+"minecraft:light_gray_candle": [
+112,
+113,
+107
+],
+"minecraft:light_gray_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:light_gray_carpet": [
+140,
+140,
+150
+],
+"minecraft:light_gray_concrete": [
+125,
+125,
+115
+],
+"minecraft:light_gray_concrete_powder": [
+155,
+155,
+148
+],
+"minecraft:light_gray_glazed_terracotta": [
+144,
+166,
+168
+],
+"minecraft:light_gray_shulker_box": [
+124,
+124,
+115
+],
+"minecraft:light_gray_stained_glass": [
+152,
+152,
+152
+],
+"minecraft:light_gray_stained_glass_pane": [
+147,
+147,
+147
+],
+"minecraft:light_gray_terracotta": [
+135,
+106,
+97
+],
+"minecraft:light_gray_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:light_gray_wool": [
+142,
+142,
+134
+],
+"minecraft:light_weighted_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:lightning_rod": [
+194,
+109,
+81
+],
+"minecraft:lilac": [
+154,
+124,
+147
+],
+"minecraft:lily_of_the_valley": [
+129,
+177,
+103
+],
+"minecraft:lily_pad": [
+127,
+127,
+127
+],
+"minecraft:lime_banner": [
+140,
+140,
+150
+],
+"minecraft:lime_bed": [
+140,
+140,
+150
+],
+"minecraft:lime_candle": [
+93,
+161,
+24
+],
+"minecraft:lime_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:lime_carpet": [
+140,
+140,
+150
+],
+"minecraft:lime_concrete": [
+94,
+168,
+24
+],
+"minecraft:lime_concrete_powder": [
+125,
+189,
+42
+],
+"minecraft:lime_glazed_terracotta": [
+164,
+198,
+56
+],
+"minecraft:lime_shulker_box": [
+100,
+172,
+23
+],
+"minecraft:lime_stained_glass": [
+126,
+204,
+24
+],
+"minecraft:lime_stained_glass_pane": [
+122,
+196,
+24
+],
+"minecraft:lime_terracotta": [
+103,
+117,
+52
+],
+"minecraft:lime_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:lime_wool": [
+112,
+185,
+25
+],
+"minecraft:lodestone": [
+145,
+148,
+151
+],
+"minecraft:loom": [
+140,
+117,
+91
+],
+"minecraft:magenta_banner": [
+140,
+140,
+150
+],
+"minecraft:magenta_bed": [
+140,
+140,
+150
+],
+"minecraft:magenta_candle": [
+150,
+44,
+145
+],
+"minecraft:magenta_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:magenta_carpet": [
+140,
+140,
+150
+],
+"minecraft:magenta_concrete": [
+169,
+48,
+159
+],
+"minecraft:magenta_concrete_powder": [
+192,
+83,
+184
+],
+"minecraft:magenta_glazed_terracotta": [
+208,
+100,
+191
+],
+"minecraft:magenta_shulker_box": [
+173,
+54,
+163
+],
+"minecraft:magenta_stained_glass": [
+177,
+75,
+215
+],
+"minecraft:magenta_stained_glass_pane": [
+171,
+73,
+208
+],
+"minecraft:magenta_terracotta": [
+149,
+88,
+108
+],
+"minecraft:magenta_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:magenta_wool": [
+189,
+69,
+180
+],
+"minecraft:magma_block": [
+140,
+140,
+150
+],
+"minecraft:mangrove_button": [
+140,
+140,
+150
+],
+"minecraft:mangrove_door": [
+112,
+48,
+46
+],
+"minecraft:mangrove_fence": [
+140,
+140,
+150
+],
+"minecraft:mangrove_fence_gate": [
+140,
+140,
+150
+],
+"minecraft:mangrove_hanging_sign": [
+99,
+52,
+48
+],
+"minecraft:mangrove_leaves": [
+129,
+127,
+127
+],
+"minecraft:mangrove_log": [
+83,
+66,
+41
+],
+"minecraft:mangrove_planks": [
+118,
+54,
+48
+],
+"minecraft:mangrove_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:mangrove_propagule": [
+95,
+173,
+83
+],
+"minecraft:mangrove_roots": [
+73,
+58,
+38
+],
+"minecraft:mangrove_sign": [
+98,
+46,
+40
+],
+"minecraft:mangrove_slab": [
+140,
+140,
+150
+],
+"minecraft:mangrove_stairs": [
+140,
+140,
+150
+],
+"minecraft:mangrove_trapdoor": [
+111,
+47,
+42
+],
+"minecraft:mangrove_wall_hanging_sign": [
+140,
+140,
+150
+],
+"minecraft:mangrove_wall_sign": [
+140,
+140,
+150
+],
+"minecraft:mangrove_wood": [
+140,
+140,
+150
+],
+"minecraft:medium_amethyst_bud": [
+171,
+132,
+209
+],
+"minecraft:melon": [
+111,
+144,
+30
+],
+"minecraft:melon_stem": [
+152,
+152,
+152
+],
+"minecraft:moss_block": [
+89,
+109,
+45
+],
+"minecraft:moss_carpet": [
+140,
+140,
+150
+],
+"minecraft:mossy_cobblestone": [
+110,
+118,
+95
+],
+"minecraft:mossy_cobblestone_slab": [
+140,
+140,
+150
+],
+"minecraft:mossy_cobblestone_stairs": [
+140,
+140,
+150
+],
+"minecraft:mossy_cobblestone_wall": [
+140,
+140,
+150
+],
+"minecraft:mossy_stone_brick_slab": [
+140,
+140,
+150
+],
+"minecraft:mossy_stone_brick_stairs": [
+140,
+140,
+150
+],
+"minecraft:mossy_stone_brick_wall": [
+140,
+140,
+150
+],
+"minecraft:mossy_stone_bricks": [
+115,
+121,
+105
+],
+"minecraft:moving_piston": [
+140,
+140,
+150
+],
+"minecraft:mud": [
+60,
+57,
+60
+],
+"minecraft:mud_brick_slab": [
+140,
+140,
+150
+],
+"minecraft:mud_brick_stairs": [
+140,
+140,
+150
+],
+"minecraft:mud_brick_wall": [
+140,
+140,
+150
+],
+"minecraft:mud_bricks": [
+137,
+104,
+79
+],
+"minecraft:muddy_mangrove_roots": [
+70,
+58,
+45
+],
+"minecraft:mushroom_stem": [
+203,
+196,
+185
+],
+"minecraft:mycelium": [
+111,
+98,
+101
+],
+"minecraft:nether_brick_fence": [
+140,
+140,
+150
+],
+"minecraft:nether_brick_slab": [
+140,
+140,
+150
+],
+"minecraft:nether_brick_stairs": [
+140,
+140,
+150
+],
+"minecraft:nether_brick_wall": [
+140,
+140,
+150
+],
+"minecraft:nether_bricks": [
+44,
+22,
+26
+],
+"minecraft:nether_gold_ore": [
+115,
+55,
+42
+],
+"minecraft:nether_portal": [
+89,
+11,
+192
+],
+"minecraft:nether_quartz_ore": [
+118,
+66,
+62
+],
+"minecraft:nether_sprouts": [
+19,
+152,
+133
+],
+"minecraft:nether_wart": [
+120,
+28,
+35
+],
+"minecraft:nether_wart_block": [
+114,
+3,
+2
+],
+"minecraft:netherite_block": [
+67,
+62,
+65
+],
+"minecraft:netherrack": [
+97,
+38,
+38
+],
+"minecraft:note_block": [
+91,
+59,
+41
+],
+"minecraft:oak_button": [
+140,
+140,
+150
+],
+"minecraft:oak_door": [
+140,
+110,
+64
+],
+"minecraft:oak_fence": [
+140,
+140,
+150
+],
+"minecraft:oak_fence_gate": [
+140,
+140,
+150
+],
+"minecraft:oak_hanging_sign": [
+133,
+109,
+70
+],
+"minecraft:oak_leaves": [
+143,
+143,
+143
+],
+"minecraft:oak_log": [
+108,
+85,
+50
+],
+"minecraft:oak_planks": [
+162,
+131,
+79
+],
+"minecraft:oak_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:oak_sapling": [
+75,
+111,
+41
+],
+"minecraft:oak_sign": [
+140,
+112,
+65
+],
+"minecraft:oak_slab": [
+140,
+140,
+150
+],
+"minecraft:oak_stairs": [
+140,
+140,
+150
+],
+"minecraft:oak_trapdoor": [
+128,
+101,
+58
+],
+"minecraft:oak_wall_hanging_sign": [
+140,
+140,
+150
+],
+"minecraft:oak_wall_sign": [
+140,
+140,
+150
+],
+"minecraft:oak_wood": [
+140,
+140,
+150
+],
+"minecraft:observer": [
+100,
+100,
+100
+],
+"minecraft:obsidian": [
+15,
+10,
+24
+],
+"minecraft:ochre_froglight": [
+251,
+245,
+207
+],
+"minecraft:orange_banner": [
+140,
+140,
+150
+],
+"minecraft:orange_bed": [
+140,
+140,
+150
+],
+"minecraft:orange_candle": [
+206,
+94,
+11
+],
+"minecraft:orange_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:orange_carpet": [
+140,
+140,
+150
+],
+"minecraft:orange_concrete": [
+224,
+97,
+0
+],
+"minecraft:orange_concrete_powder": [
+227,
+132,
+32
+],
+"minecraft:orange_glazed_terracotta": [
+155,
+146,
+90
+],
+"minecraft:orange_shulker_box": [
+234,
+106,
+8
+],
+"minecraft:orange_stained_glass": [
+215,
+126,
+50
+],
+"minecraft:orange_stained_glass_pane": [
+208,
+122,
+47
+],
+"minecraft:orange_terracotta": [
+161,
+84,
+37
+],
+"minecraft:orange_tulip": [
+104,
+142,
+31
+],
+"minecraft:orange_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:orange_wool": [
+240,
+118,
+19
+],
+"minecraft:oxeye_daisy": [
+157,
+193,
+128
+],
+"minecraft:oxidized_chiseled_copper": [
+83,
+162,
+132
+],
+"minecraft:oxidized_copper": [
+82,
+163,
+133
+],
+"minecraft:oxidized_copper_bulb": [
+69,
+131,
+109
+],
+"minecraft:oxidized_copper_door": [
+81,
+159,
+131
+],
+"minecraft:oxidized_copper_grate": [
+81,
+162,
+132
+],
+"minecraft:oxidized_copper_trapdoor": [
+84,
+163,
+133
+],
+"minecraft:oxidized_cut_copper": [
+79,
+154,
+126
+],
+"minecraft:oxidized_cut_copper_slab": [
+140,
+140,
+150
+],
+"minecraft:oxidized_cut_copper_stairs": [
+140,
+140,
+150
+],
+"minecraft:packed_ice": [
+141,
+180,
+250
+],
+"minecraft:packed_mud": [
+142,
+106,
+79
+],
+"minecraft:pearlescent_froglight": [
+246,
+240,
+240
+],
+"minecraft:peony": [
+132,
+129,
+142
+],
+"minecraft:petrified_oak_slab": [
+140,
+140,
+150
+],
+"minecraft:piglin_head": [
+140,
+140,
+150
+],
+"minecraft:piglin_wall_head": [
+140,
+140,
+150
+],
+"minecraft:pink_banner": [
+140,
+140,
+150
+],
+"minecraft:pink_bed": [
+140,
+140,
+150
+],
+"minecraft:pink_candle": [
+195,
+95,
+135
+],
+"minecraft:pink_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:pink_carpet": [
+140,
+140,
+150
+],
+"minecraft:pink_concrete": [
+213,
+101,
+143
+],
+"minecraft:pink_concrete_powder": [
+229,
+153,
+181
+],
+"minecraft:pink_glazed_terracotta": [
+235,
+155,
+182
+],
+"minecraft:pink_petals": [
+246,
+180,
+218
+],
+"minecraft:pink_shulker_box": [
+230,
+122,
+157
+],
+"minecraft:pink_stained_glass": [
+242,
+126,
+164
+],
+"minecraft:pink_stained_glass_pane": [
+232,
+122,
+159
+],
+"minecraft:pink_terracotta": [
+162,
+78,
+78
+],
+"minecraft:pink_tulip": [
+110,
+160,
+92
+],
+"minecraft:pink_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:pink_wool": [
+238,
+141,
+172
+],
+"minecraft:piston": [
+154,
+128,
+85
+],
+"minecraft:piston_head": [
+140,
+140,
+150
+],
+"minecraft:pitcher_crop": [
+195,
+167,
+104
+],
+"minecraft:pitcher_plant": [
+121,
+143,
+190
+],
+"minecraft:player_head": [
+140,
+140,
+150
+],
+"minecraft:player_wall_head": [
+140,
+140,
+150
+],
+"minecraft:podzol": [
+91,
+63,
+24
+],
+"minecraft:pointed_dripstone": [
+135,
+108,
+93
+],
+"minecraft:polished_andesite": [
+132,
+134,
+134
+],
+"minecraft:polished_andesite_slab": [
+140,
+140,
+150
+],
+"minecraft:polished_andesite_stairs": [
+140,
+140,
+150
+],
+"minecraft:polished_basalt": [
+100,
+99,
+101
+],
+"minecraft:polished_blackstone": [
+53,
+48,
+57
+],
+"minecraft:polished_blackstone_brick_slab": [
+140,
+140,
+150
+],
+"minecraft:polished_blackstone_brick_stairs": [
+140,
+140,
+150
+],
+"minecraft:polished_blackstone_brick_wall": [
+140,
+140,
+150
+],
+"minecraft:polished_blackstone_bricks": [
+48,
+42,
+49
+],
+"minecraft:polished_blackstone_button": [
+140,
+140,
+150
+],
+"minecraft:polished_blackstone_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:polished_blackstone_slab": [
+140,
+140,
+150
+],
+"minecraft:polished_blackstone_stairs": [
+140,
+140,
+150
+],
+"minecraft:polished_blackstone_wall": [
+140,
+140,
+150
+],
+"minecraft:polished_deepslate": [
+72,
+72,
+73
+],
+"minecraft:polished_deepslate_slab": [
+140,
+140,
+150
+],
+"minecraft:polished_deepslate_stairs": [
+140,
+140,
+150
+],
+"minecraft:polished_deepslate_wall": [
+140,
+140,
+150
+],
+"minecraft:polished_diorite": [
+194,
+194,
+195
+],
+"minecraft:polished_diorite_slab": [
+140,
+140,
+150
+],
+"minecraft:polished_diorite_stairs": [
+140,
+140,
+150
+],
+"minecraft:polished_granite": [
+154,
+106,
+89
+],
+"minecraft:polished_granite_slab": [
+140,
+140,
+150
+],
+"minecraft:polished_granite_stairs": [
+140,
+140,
+150
+],
+"minecraft:polished_tuff": [
+97,
+104,
+100
+],
+"minecraft:polished_tuff_slab": [
+140,
+140,
+150
+],
+"minecraft:polished_tuff_stairs": [
+140,
+140,
+150
+],
+"minecraft:polished_tuff_wall": [
+140,
+140,
+150
+],
+"minecraft:poppy": [
+115,
+70,
+38
+],
+"minecraft:potatoes": [
+140,
+140,
+150
+],
+"minecraft:potted_acacia_sapling": [
+140,
+140,
+150
+],
+"minecraft:potted_allium": [
+140,
+140,
+150
+],
+"minecraft:potted_azalea_bush": [
+100,
+122,
+48
+],
+"minecraft:potted_azure_bluet": [
+140,
+140,
+150
+],
+"minecraft:potted_bamboo": [
+140,
+140,
+150
+],
+"minecraft:potted_birch_sapling": [
+140,
+140,
+150
+],
+"minecraft:potted_blue_orchid": [
+140,
+140,
+150
+],
+"minecraft:potted_brown_mushroom": [
+140,
+140,
+150
+],
+"minecraft:potted_cactus": [
+140,
+140,
+150
+],
+"minecraft:potted_cherry_sapling": [
+140,
+140,
+150
+],
+"minecraft:potted_cornflower": [
+140,
+140,
+150
+],
+"minecraft:potted_crimson_fungus": [
+140,
+140,
+150
+],
+"minecraft:potted_crimson_roots": [
+140,
+140,
+150
+],
+"minecraft:potted_dandelion": [
+140,
+140,
+150
+],
+"minecraft:potted_dark_oak_sapling": [
+140,
+140,
+150
+],
+"minecraft:potted_dead_bush": [
+140,
+140,
+150
+],
+"minecraft:potted_fern": [
+140,
+140,
+150
+],
+"minecraft:potted_flowering_azalea_bush": [
+115,
+118,
+72
+],
+"minecraft:potted_jungle_sapling": [
+140,
+140,
+150
+],
+"minecraft:potted_lily_of_the_valley": [
+140,
+140,
+150
+],
+"minecraft:potted_mangrove_propagule": [
+140,
+140,
+150
+],
+"minecraft:potted_oak_sapling": [
+140,
+140,
+150
+],
+"minecraft:potted_orange_tulip": [
+140,
+140,
+150
+],
+"minecraft:potted_oxeye_daisy": [
+140,
+140,
+150
+],
+"minecraft:potted_pink_tulip": [
+140,
+140,
+150
+],
+"minecraft:potted_poppy": [
+140,
+140,
+150
+],
+"minecraft:potted_red_mushroom": [
+140,
+140,
+150
+],
+"minecraft:potted_red_tulip": [
+140,
+140,
+150
+],
+"minecraft:potted_spruce_sapling": [
+140,
+140,
+150
+],
+"minecraft:potted_torchflower": [
+140,
+140,
+150
+],
+"minecraft:potted_warped_fungus": [
+140,
+140,
+150
+],
+"minecraft:potted_warped_roots": [
+140,
+140,
+150
+],
+"minecraft:potted_white_tulip": [
+140,
+140,
+150
+],
+"minecraft:potted_wither_rose": [
+140,
+140,
+150
+],
+"minecraft:powder_snow": [
+248,
+253,
+253
+],
+"minecraft:powder_snow_cauldron": [
+140,
+140,
+150
+],
+"minecraft:powered_rail": [
+135,
+108,
+73
+],
+"minecraft:prismarine": [
+99,
+156,
+151
+],
+"minecraft:prismarine_brick_slab": [
+140,
+140,
+150
+],
+"minecraft:prismarine_brick_stairs": [
+140,
+140,
+150
+],
+"minecraft:prismarine_bricks": [
+99,
+172,
+158
+],
+"minecraft:prismarine_slab": [
+140,
+140,
+150
+],
+"minecraft:prismarine_stairs": [
+140,
+140,
+150
+],
+"minecraft:prismarine_wall": [
+140,
+140,
+150
+],
+"minecraft:pumpkin": [
+198,
+119,
+24
+],
+"minecraft:pumpkin_stem": [
+153,
+153,
+153
+],
+"minecraft:purple_banner": [
+140,
+140,
+150
+],
+"minecraft:purple_bed": [
+140,
+140,
+150
+],
+"minecraft:purple_candle": [
+99,
+33,
+151
+],
+"minecraft:purple_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:purple_carpet": [
+140,
+140,
+150
+],
+"minecraft:purple_concrete": [
+100,
+31,
+156
+],
+"minecraft:purple_concrete_powder": [
+132,
+55,
+177
+],
+"minecraft:purple_glazed_terracotta": [
+110,
+47,
+152
+],
+"minecraft:purple_shulker_box": [
+103,
+32,
+156
+],
+"minecraft:purple_stained_glass": [
+126,
+61,
+177
+],
+"minecraft:purple_stained_glass_pane": [
+122,
+61,
+171
+],
+"minecraft:purple_terracotta": [
+118,
+70,
+86
+],
+"minecraft:purple_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:purple_wool": [
+122,
+42,
+172
+],
+"minecraft:purpur_block": [
+170,
+126,
+169
+],
+"minecraft:purpur_pillar": [
+172,
+129,
+171
+],
+"minecraft:purpur_slab": [
+140,
+140,
+150
+],
+"minecraft:purpur_stairs": [
+140,
+140,
+150
+],
+"minecraft:quartz_block": [
+236,
+230,
+223
+],
+"minecraft:quartz_bricks": [
+235,
+229,
+221
+],
+"minecraft:quartz_pillar": [
+235,
+230,
+224
+],
+"minecraft:quartz_slab": [
+140,
+140,
+150
+],
+"minecraft:quartz_stairs": [
+140,
+140,
+150
+],
+"minecraft:rail": [
+124,
+108,
+82
+],
+"minecraft:raw_copper_block": [
+154,
+106,
+79
+],
+"minecraft:raw_gold_block": [
+222,
+169,
+47
+],
+"minecraft:raw_iron_block": [
+166,
+136,
+107
+],
+"minecraft:red_banner": [
+140,
+140,
+150
+],
+"minecraft:red_bed": [
+140,
+140,
+150
+],
+"minecraft:red_candle": [
+144,
+37,
+36
+],
+"minecraft:red_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:red_carpet": [
+140,
+140,
+150
+],
+"minecraft:red_concrete": [
+142,
+32,
+32
+],
+"minecraft:red_concrete_powder": [
+168,
+54,
+50
+],
+"minecraft:red_glazed_terracotta": [
+182,
+59,
+53
+],
+"minecraft:red_mushroom": [
+214,
+82,
+72
+],
+"minecraft:red_mushroom_block": [
+200,
+47,
+45
+],
+"minecraft:red_nether_brick_slab": [
+140,
+140,
+150
+],
+"minecraft:red_nether_brick_stairs": [
+140,
+140,
+150
+],
+"minecraft:red_nether_brick_wall": [
+140,
+140,
+150
+],
+"minecraft:red_nether_bricks": [
+70,
+7,
+9
+],
+"minecraft:red_sand": [
+190,
+102,
+33
+],
+"minecraft:red_sandstone": [
+186,
+99,
+29
+],
+"minecraft:red_sandstone_slab": [
+140,
+140,
+150
+],
+"minecraft:red_sandstone_stairs": [
+140,
+140,
+150
+],
+"minecraft:red_sandstone_wall": [
+140,
+140,
+150
+],
+"minecraft:red_shulker_box": [
+140,
+31,
+30
+],
+"minecraft:red_stained_glass": [
+152,
+50,
+50
+],
+"minecraft:red_stained_glass_pane": [
+147,
+47,
+47
+],
+"minecraft:red_terracotta": [
+143,
+61,
+47
+],
+"minecraft:red_tulip": [
+97,
+120,
+31
+],
+"minecraft:red_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:red_wool": [
+161,
+39,
+34
+],
+"minecraft:redstone_block": [
+174,
+24,
+5
+],
+"minecraft:redstone_lamp": [
+96,
+55,
+30
+],
+"minecraft:redstone_ore": [
+140,
+109,
+109
+],
+"minecraft:redstone_torch": [
+165,
+77,
+41
+],
+"minecraft:redstone_wall_torch": [
+140,
+140,
+150
+],
+"minecraft:redstone_wire": [
+140,
+140,
+150
+],
+"minecraft:reinforced_deepslate": [
+80,
+82,
+79
+],
+"minecraft:repeater": [
+161,
+158,
+157
+],
+"minecraft:repeating_command_block": [
+129,
+111,
+170
+],
+"minecraft:respawn_anchor": [
+75,
+24,
+145
+],
+"minecraft:rooted_dirt": [
+144,
+103,
+76
+],
+"minecraft:rose_bush": [
+124,
+67,
+37
+],
+"minecraft:sand": [
+219,
+207,
+163
+],
+"minecraft:sandstone": [
+216,
+203,
+155
+],
+"minecraft:sandstone_slab": [
+140,
+140,
+150
+],
+"minecraft:sandstone_stairs": [
+140,
+140,
+150
+],
+"minecraft:sandstone_wall": [
+140,
+140,
+150
+],
+"minecraft:scaffolding": [
+169,
+130,
+72
+],
+"minecraft:sculk": [
+12,
+30,
+36
+],
+"minecraft:sculk_catalyst": [
+15,
+32,
+38
+],
+"minecraft:sculk_sensor": [
+7,
+70,
+84
+],
+"minecraft:sculk_shrieker": [
+199,
+204,
+170
+],
+"minecraft:sculk_vein": [
+7,
+48,
+57
+],
+"minecraft:sea_lantern": [
+175,
+202,
+192
+],
+"minecraft:sea_pickle": [
+96,
+105,
+48
+],
+"minecraft:seagrass": [
+50,
+126,
+7
+],
+"minecraft:short_grass": [
+150,
+150,
+150
+],
+"minecraft:shroomlight": [
+241,
+147,
+72
+],
+"minecraft:shulker_box": [
+139,
+97,
+139
+],
+"minecraft:skeleton_skull": [
+140,
+140,
+150
+],
+"minecraft:skeleton_wall_skull": [
+140,
+140,
+150
+],
+"minecraft:slime_block": [
+111,
+191,
+91
+],
+"minecraft:small_amethyst_bud": [
+134,
+101,
+195
+],
+"minecraft:small_dripleaf": [
+94,
+118,
+45
+],
+"minecraft:smithing_table": [
+57,
+58,
+70
+],
+"minecraft:smoker": [
+86,
+84,
+82
+],
+"minecraft:smooth_basalt": [
+72,
+72,
+78
+],
+"minecraft:smooth_quartz": [
+140,
+140,
+150
+],
+"minecraft:smooth_quartz_slab": [
+140,
+140,
+150
+],
+"minecraft:smooth_quartz_stairs": [
+140,
+140,
+150
+],
+"minecraft:smooth_red_sandstone": [
+140,
+140,
+150
+],
+"minecraft:smooth_red_sandstone_slab": [
+140,
+140,
+150
+],
+"minecraft:smooth_red_sandstone_stairs": [
+140,
+140,
+150
+],
+"minecraft:smooth_sandstone": [
+140,
+140,
+150
+],
+"minecraft:smooth_sandstone_slab": [
+140,
+140,
+150
+],
+"minecraft:smooth_sandstone_stairs": [
+140,
+140,
+150
+],
+"minecraft:smooth_stone": [
+160,
+160,
+160
+],
+"minecraft:smooth_stone_slab": [
+167,
+167,
+167
+],
+"minecraft:sniffer_egg": [
+80,
+73,
+69
+],
+"minecraft:snow": [
+249,
+254,
+254
+],
+"minecraft:snow_block": [
+140,
+140,
+150
+],
+"minecraft:soul_campfire": [
+88,
+122,
+104
+],
+"minecraft:soul_fire": [
+140,
+140,
+150
+],
+"minecraft:soul_lantern": [
+67,
+91,
+106
+],
+"minecraft:soul_sand": [
+81,
+62,
+50
+],
+"minecraft:soul_soil": [
+75,
+57,
+46
+],
+"minecraft:soul_torch": [
+111,
+115,
+88
+],
+"minecraft:soul_wall_torch": [
+140,
+140,
+150
+],
+"minecraft:spawner": [
+35,
+46,
+62
+],
+"minecraft:sponge": [
+196,
+192,
+74
+],
+"minecraft:spore_blossom": [
+200,
+92,
+154
+],
+"minecraft:spruce_button": [
+140,
+140,
+150
+],
+"minecraft:spruce_door": [
+106,
+80,
+48
+],
+"minecraft:spruce_fence": [
+140,
+140,
+150
+],
+"minecraft:spruce_fence_gate": [
+140,
+140,
+150
+],
+"minecraft:spruce_hanging_sign": [
+93,
+72,
+46
+],
+"minecraft:spruce_leaves": [
+126,
+126,
+126
+],
+"minecraft:spruce_log": [
+59,
+37,
+16
+],
+"minecraft:spruce_planks": [
+115,
+85,
+48
+],
+"minecraft:spruce_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:spruce_sapling": [
+43,
+59,
+36
+],
+"minecraft:spruce_sign": [
+89,
+64,
+35
+],
+"minecraft:spruce_slab": [
+140,
+140,
+150
+],
+"minecraft:spruce_stairs": [
+140,
+140,
+150
+],
+"minecraft:spruce_trapdoor": [
+104,
+79,
+48
+],
+"minecraft:spruce_wall_hanging_sign": [
+140,
+140,
+150
+],
+"minecraft:spruce_wall_sign": [
+140,
+140,
+150
+],
+"minecraft:spruce_wood": [
+140,
+140,
+150
+],
+"minecraft:sticky_piston": [
+140,
+140,
+150
+],
+"minecraft:stone": [
+125,
+125,
+125
+],
+"minecraft:stone_brick_slab": [
+140,
+140,
+150
+],
+"minecraft:stone_brick_stairs": [
+140,
+140,
+150
+],
+"minecraft:stone_brick_wall": [
+140,
+140,
+150
+],
+"minecraft:stone_bricks": [
+122,
+122,
+122
+],
+"minecraft:stone_button": [
+140,
+140,
+150
+],
+"minecraft:stone_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:stone_slab": [
+140,
+140,
+150
+],
+"minecraft:stone_stairs": [
+140,
+140,
+150
+],
+"minecraft:stonecutter": [
+122,
+118,
+110
+],
+"minecraft:stripped_acacia_log": [
+175,
+93,
+59
+],
+"minecraft:stripped_acacia_wood": [
+140,
+140,
+150
+],
+"minecraft:stripped_bamboo_block": [
+194,
+173,
+80
+],
+"minecraft:stripped_birch_log": [
+197,
+176,
+118
+],
+"minecraft:stripped_birch_wood": [
+140,
+140,
+150
+],
+"minecraft:stripped_cherry_log": [
+215,
+145,
+149
+],
+"minecraft:stripped_cherry_wood": [
+140,
+140,
+150
+],
+"minecraft:stripped_crimson_hyphae": [
+140,
+140,
+150
+],
+"minecraft:stripped_crimson_stem": [
+137,
+57,
+90
+],
+"minecraft:stripped_dark_oak_log": [
+73,
+57,
+36
+],
+"minecraft:stripped_dark_oak_wood": [
+140,
+140,
+150
+],
+"minecraft:stripped_jungle_log": [
+171,
+132,
+84
+],
+"minecraft:stripped_jungle_wood": [
+140,
+140,
+150
+],
+"minecraft:stripped_mangrove_log": [
+119,
+54,
+48
+],
+"minecraft:stripped_mangrove_wood": [
+140,
+140,
+150
+],
+"minecraft:stripped_oak_log": [
+177,
+144,
+86
+],
+"minecraft:stripped_oak_wood": [
+140,
+140,
+150
+],
+"minecraft:stripped_spruce_log": [
+115,
+90,
+52
+],
+"minecraft:stripped_spruce_wood": [
+140,
+140,
+150
+],
+"minecraft:stripped_warped_hyphae": [
+140,
+140,
+150
+],
+"minecraft:stripped_warped_stem": [
+57,
+150,
+147
+],
+"minecraft:structure_block": [
+89,
+75,
+90
+],
+"minecraft:structure_void": [
+23,
+85,
+92
+],
+"minecraft:sugar_cane": [
+148,
+191,
+101
+],
+"minecraft:sunflower": [
+49,
+128,
+26
+],
+"minecraft:suspicious_gravel": [
+140,
+140,
+150
+],
+"minecraft:suspicious_sand": [
+140,
+140,
+150
+],
+"minecraft:sweet_berry_bush": [
+140,
+140,
+150
+],
+"minecraft:tall_grass": [
+149,
+147,
+149
+],
+"minecraft:tall_seagrass": [
+58,
+138,
+13
+],
+"minecraft:target": [
+225,
+166,
+154
+],
+"minecraft:terracotta": [
+152,
+94,
+67
+],
+"minecraft:tinted_glass": [
+43,
+38,
+44
+],
+"minecraft:tnt": [
+141,
+63,
+55
+],
+"minecraft:torch": [
+138,
+114,
+65
+],
+"minecraft:torchflower": [
+102,
+94,
+82
+],
+"minecraft:torchflower_crop": [
+140,
+140,
+150
+],
+"minecraft:trapped_chest": [
+140,
+140,
+150
+],
+"minecraft:trial_spawner": [
+140,
+140,
+150
+],
+"minecraft:tripwire": [
+130,
+130,
+130
+],
+"minecraft:tripwire_hook": [
+142,
+132,
+117
+],
+"minecraft:tube_coral": [
+47,
+83,
+197
+],
+"minecraft:tube_coral_block": [
+49,
+87,
+206
+],
+"minecraft:tube_coral_fan": [
+50,
+91,
+208
+],
+"minecraft:tube_coral_wall_fan": [
+140,
+140,
+150
+],
+"minecraft:tuff": [
+108,
+109,
+102
+],
+"minecraft:tuff_brick_slab": [
+140,
+140,
+150
+],
+"minecraft:tuff_brick_stairs": [
+140,
+140,
+150
+],
+"minecraft:tuff_brick_wall": [
+140,
+140,
+150
+],
+"minecraft:tuff_bricks": [
+98,
+102,
+95
+],
+"minecraft:tuff_slab": [
+140,
+140,
+150
+],
+"minecraft:tuff_stairs": [
+140,
+140,
+150
+],
+"minecraft:tuff_wall": [
+140,
+140,
+150
+],
+"minecraft:turtle_egg": [
+227,
+226,
+191
+],
+"minecraft:twisting_vines": [
+19,
+140,
+123
+],
+"minecraft:twisting_vines_plant": [
+19,
+134,
+121
+],
+"minecraft:vault": [
+53,
+68,
+78
+],
+"minecraft:verdant_froglight": [
+230,
+245,
+229
+],
+"minecraft:vine": [
+116,
+116,
+116
+],
+"minecraft:void_air": [
+140,
+140,
+150
+],
+"minecraft:wall_torch": [
+140,
+140,
+150
+],
+"minecraft:warped_button": [
+140,
+140,
+150
+],
+"minecraft:warped_door": [
+44,
+126,
+120
+],
+"minecraft:warped_fence": [
+140,
+140,
+150
+],
+"minecraft:warped_fence_gate": [
+140,
+140,
+150
+],
+"minecraft:warped_fungus": [
+67,
+107,
+89
+],
+"minecraft:warped_hanging_sign": [
+46,
+99,
+95
+],
+"minecraft:warped_hyphae": [
+140,
+140,
+150
+],
+"minecraft:warped_nylium": [
+43,
+114,
+101
+],
+"minecraft:warped_planks": [
+43,
+105,
+99
+],
+"minecraft:warped_pressure_plate": [
+140,
+140,
+150
+],
+"minecraft:warped_roots": [
+19,
+137,
+123
+],
+"minecraft:warped_sign": [
+40,
+98,
+97
+],
+"minecraft:warped_slab": [
+140,
+140,
+150
+],
+"minecraft:warped_stairs": [
+140,
+140,
+150
+],
+"minecraft:warped_stem": [
+58,
+58,
+77
+],
+"minecraft:warped_trapdoor": [
+48,
+123,
+115
+],
+"minecraft:warped_wall_hanging_sign": [
+140,
+140,
+150
+],
+"minecraft:warped_wall_sign": [
+140,
+140,
+150
+],
+"minecraft:warped_wart_block": [
+22,
+120,
+121
+],
+"minecraft:water": [
+176,
+176,
+176
+],
+"minecraft:water_cauldron": [
+140,
+140,
+150
+],
+"minecraft:waxed_chiseled_copper": [
+140,
+140,
+150
+],
+"minecraft:waxed_copper_block": [
+140,
+140,
+150
+],
+"minecraft:waxed_copper_bulb": [
+140,
+140,
+150
+],
+"minecraft:waxed_copper_door": [
+140,
+140,
+150
+],
+"minecraft:waxed_copper_grate": [
+140,
+140,
+150
+],
+"minecraft:waxed_copper_trapdoor": [
+140,
+140,
+150
+],
+"minecraft:waxed_cut_copper": [
+140,
+140,
+150
+],
+"minecraft:waxed_cut_copper_slab": [
+140,
+140,
+150
+],
+"minecraft:waxed_cut_copper_stairs": [
+140,
+140,
+150
+],
+"minecraft:waxed_exposed_chiseled_copper": [
+140,
+140,
+150
+],
+"minecraft:waxed_exposed_copper": [
+140,
+140,
+150
+],
+"minecraft:waxed_exposed_copper_bulb": [
+140,
+140,
+150
+],
+"minecraft:waxed_exposed_copper_door": [
+140,
+140,
+150
+],
+"minecraft:waxed_exposed_copper_grate": [
+140,
+140,
+150
+],
+"minecraft:waxed_exposed_copper_trapdoor": [
+140,
+140,
+150
+],
+"minecraft:waxed_exposed_cut_copper": [
+140,
+140,
+150
+],
+"minecraft:waxed_exposed_cut_copper_slab": [
+140,
+140,
+150
+],
+"minecraft:waxed_exposed_cut_copper_stairs": [
+140,
+140,
+150
+],
+"minecraft:waxed_oxidized_chiseled_copper": [
+140,
+140,
+150
+],
+"minecraft:waxed_oxidized_copper": [
+140,
+140,
+150
+],
+"minecraft:waxed_oxidized_copper_bulb": [
+140,
+140,
+150
+],
+"minecraft:waxed_oxidized_copper_door": [
+140,
+140,
+150
+],
+"minecraft:waxed_oxidized_copper_grate": [
+140,
+140,
+150
+],
+"minecraft:waxed_oxidized_copper_trapdoor": [
+140,
+140,
+150
+],
+"minecraft:waxed_oxidized_cut_copper": [
+140,
+140,
+150
+],
+"minecraft:waxed_oxidized_cut_copper_slab": [
+140,
+140,
+150
+],
+"minecraft:waxed_oxidized_cut_copper_stairs": [
+140,
+140,
+150
+],
+"minecraft:waxed_weathered_chiseled_copper": [
+140,
+140,
+150
+],
+"minecraft:waxed_weathered_copper": [
+140,
+140,
+150
+],
+"minecraft:waxed_weathered_copper_bulb": [
+140,
+140,
+150
+],
+"minecraft:waxed_weathered_copper_door": [
+140,
+140,
+150
+],
+"minecraft:waxed_weathered_copper_grate": [
+140,
+140,
+150
+],
+"minecraft:waxed_weathered_copper_trapdoor": [
+140,
+140,
+150
+],
+"minecraft:waxed_weathered_cut_copper": [
+140,
+140,
+150
+],
+"minecraft:waxed_weathered_cut_copper_slab": [
+140,
+140,
+150
+],
+"minecraft:waxed_weathered_cut_copper_stairs": [
+140,
+140,
+150
+],
+"minecraft:weathered_chiseled_copper": [
+104,
+151,
+111
+],
+"minecraft:weathered_copper": [
+108,
+153,
+110
+],
+"minecraft:weathered_copper_bulb": [
+92,
+126,
+98
+],
+"minecraft:weathered_copper_door": [
+109,
+149,
+109
+],
+"minecraft:weathered_copper_grate": [
+106,
+153,
+110
+],
+"minecraft:weathered_copper_trapdoor": [
+109,
+154,
+110
+],
+"minecraft:weathered_cut_copper": [
+109,
+145,
+107
+],
+"minecraft:weathered_cut_copper_slab": [
+140,
+140,
+150
+],
+"minecraft:weathered_cut_copper_stairs": [
+140,
+140,
+150
+],
+"minecraft:weeping_vines": [
+103,
+1,
+0
+],
+"minecraft:weeping_vines_plant": [
+137,
+19,
+14
+],
+"minecraft:wet_sponge": [
+171,
+181,
+70
+],
+"minecraft:wheat": [
+135,
+118,
+65
+],
+"minecraft:white_banner": [
+140,
+140,
+150
+],
+"minecraft:white_bed": [
+140,
+140,
+150
+],
+"minecraft:white_candle": [
+197,
+203,
+206
+],
+"minecraft:white_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:white_carpet": [
+140,
+140,
+150
+],
+"minecraft:white_concrete": [
+207,
+213,
+214
+],
+"minecraft:white_concrete_powder": [
+225,
+227,
+227
+],
+"minecraft:white_glazed_terracotta": [
+189,
+212,
+203
+],
+"minecraft:white_shulker_box": [
+215,
+220,
+221
+],
+"minecraft:white_stained_glass": [
+255,
+255,
+255
+],
+"minecraft:white_stained_glass_pane": [
+245,
+245,
+245
+],
+"minecraft:white_terracotta": [
+209,
+178,
+161
+],
+"minecraft:white_tulip": [
+98,
+167,
+79
+],
+"minecraft:white_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:white_wool": [
+233,
+236,
+237
+],
+"minecraft:wither_rose": [
+41,
+44,
+22
+],
+"minecraft:wither_skeleton_skull": [
+140,
+140,
+150
+],
+"minecraft:wither_skeleton_wall_skull": [
+140,
+140,
+150
+],
+"minecraft:yellow_banner": [
+140,
+140,
+150
+],
+"minecraft:yellow_bed": [
+140,
+140,
+150
+],
+"minecraft:yellow_candle": [
+196,
+155,
+49
+],
+"minecraft:yellow_candle_cake": [
+140,
+140,
+150
+],
+"minecraft:yellow_carpet": [
+140,
+140,
+150
+],
+"minecraft:yellow_concrete": [
+241,
+175,
+21
+],
+"minecraft:yellow_concrete_powder": [
+233,
+199,
+54
+],
+"minecraft:yellow_glazed_terracotta": [
+234,
+192,
+88
+],
+"minecraft:yellow_shulker_box": [
+248,
+189,
+29
+],
+"minecraft:yellow_stained_glass": [
+229,
+229,
+50
+],
+"minecraft:yellow_stained_glass_pane": [
+221,
+221,
+47
+],
+"minecraft:yellow_terracotta": [
+186,
+133,
+35
+],
+"minecraft:yellow_wall_banner": [
+140,
+140,
+150
+],
+"minecraft:yellow_wool": [
+248,
+198,
+39
+],
+"minecraft:zombie_head": [
+140,
+140,
+150
+],
+"minecraft:zombie_wall_head": [
+140,
+140,
+150
+],
+"moonlight:spawn_box": [
+140,
+140,
+150
+],
+"offroad:wheel_mount": [
+140,
+140,
+150
+],
+"terrain_slabs:azure_bluet_on_top": [
+140,
+140,
+150
+],
+"terrain_slabs:basalt_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:black_terracotta_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:blue_ice_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:brown_mushroom_on_top": [
+140,
+140,
+150
+],
+"terrain_slabs:brown_terracotta_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:calcite_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:clay_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:coarse_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:cornflower_on_top": [
+140,
+140,
+150
+],
+"terrain_slabs:crimson_nylium_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:cyan_terracotta_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:dandelion_on_top": [
+140,
+140,
+150
+],
+"terrain_slabs:dead_bush_on_top": [
+140,
+140,
+150
+],
+"terrain_slabs:deepslate_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:dirt_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:endstone_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:fern_on_top": [
+140,
+140,
+150
+],
+"terrain_slabs:grass_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:gravel_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:ice_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:light_blue_terracotta_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:light_gray_terracotta_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:moss_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:mud_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:mycelium_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:netherrack_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:orange_terracotta_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:packed_ice_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:packed_mud_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:path_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:podzol_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:poppy_on_top": [
+140,
+140,
+150
+],
+"terrain_slabs:red_mushroom_on_top": [
+140,
+140,
+150
+],
+"terrain_slabs:red_sand_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:red_terracotta_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:rooted_dirt_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:sand_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:seagrass_on_top": [
+140,
+140,
+150
+],
+"terrain_slabs:short_grass_on_top": [
+140,
+140,
+150
+],
+"terrain_slabs:smooth_basalt_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:snow_on_top": [
+140,
+140,
+150
+],
+"terrain_slabs:snow_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:soul_sand_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:soul_soil_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terracotta_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_andesite_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_blackstone_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_cobbled_deepslate_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_cobblestone_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_diorite_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_granite_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_mossy_cobblestone_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_prismarine_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_red_sandstone_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_sandstone_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_stone_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:terrain_tuff_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:warped_nylium_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:white_terracotta_slab": [
+140,
+140,
+150
+],
+"terrain_slabs:yellow_terracotta_slab": [
+140,
+140,
+150
+],
+"tracks:suspension_track": [
+140,
+140,
+150
+],
+"tracks:track_drive_wheel": [
+140,
+140,
+150
+],
+"tracks:track_mount": [
+140,
+140,
+150
+]
+}

@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "tag": "bakery:milk"
+    }
+  ],
+  "result": {
+    "id": "bakery:chocolate_truffle",
+    "count": 4
+  },
+  "container": {
+    "id": "bakery:jar",
+    "count": 1
+  },
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 0,
+  "recipe_book_tab": "meals"
+}

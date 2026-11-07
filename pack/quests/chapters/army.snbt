@@ -1,0 +1,161 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "army"
+	group: "136C2476B3C4FF9B"
+	id: "1128E579660E4BFB"
+	order_index: 4
+	quest_links: [ ]
+	images: [{
+		id: "47B28B4A3AE04BC3"
+		image: "dream_expedition:textures/quest_atlas/banner.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "hundred_years_war:scroll_shieldman"
+	quests: [
+		{
+			id: "1EC3AD87BFC95252"
+			rewards: [{
+				id: "40B30459BE8B373E"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "hexagon"
+			size: 2.5d
+			tasks: [{
+				id: "6B79D3EBCE57453A"
+				item: { count: 1, id: "hundred_years_war:scroll_shieldman" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1EC3AD87BFC95252"]
+			id: "08AFB0416F248E9F"
+			rewards: [
+				{
+					id: "482C2C3A985D42F6"
+					type: "xp"
+					xp: 40
+				}
+				{
+					id: "1626710604703A88"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_archer"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				count: 3L
+				id: "4C46897AA7DE23F8"
+				item: { count: 1, id: "hundred_years_war:scroll_shieldman" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["08AFB0416F248E9F"]
+			id: "3774075A895CD8CD"
+			rewards: [{
+				id: "5BD753EA092894C4"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "7D217163A70C1E34"
+				item: { count: 1, id: "hundred_years_war:conquerors_manual" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["08AFB0416F248E9F"]
+			id: "4E22D1438E8D160E"
+			rewards: [
+				{
+					id: "67AC14E0196D91A0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "70BC4AF05AE3E991"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_shieldman"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.2d
+			tasks: [{
+				entity: "hundred_years_war:bandit_soldier"
+				id: "50D350A8E43D4506"
+				type: "kill"
+				value: 5L
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["1EC3AD87BFC95252"]
+			id: "5389507E9E74A606"
+			rewards: [{
+				id: "084A24F3F02DF00E"
+				type: "xp"
+				xp: 60
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "5ED0693845DEEBF4"
+				item: { count: 1, id: "hundred_years_war:scroll_siege_engineer" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1EC3AD87BFC95252"]
+			id: "649E6446772C27A2"
+			rewards: [
+				{
+					id: "1F9362AFFF936F54"
+					type: "xp"
+					xp: 80
+				}
+				{
+					count: 2
+					id: "4A20D138A8471EC1"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_shieldman"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.2d
+			tasks: [{
+				count: 10L
+				id: "74D994275C986DA4"
+				item: { count: 1, id: "hundred_years_war:scroll_shieldman" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+	]
+}

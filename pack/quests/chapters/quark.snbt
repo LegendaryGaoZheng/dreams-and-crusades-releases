@@ -1,0 +1,257 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "quark"
+	group: "694D9840A70126D8"
+	id: "4CFBCBC12F15221E"
+	order_index: 9
+	quest_links: [ ]
+	images: [{
+		id: "31ABA30147E294F5"
+		image: "dream_expedition:textures/quest_atlas/works.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "quark:oak_vertical_slab"
+	quests: [
+		{
+			id: "73A04F2B744C8408"
+			rewards: [{
+				id: "709EA4E2D4688DDA"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "hexagon"
+			size: 2.5d
+			tasks: [{
+				count: 8L
+				id: "4529C7B9EC846366"
+				item: { count: 1, id: "quark:oak_vertical_slab" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["73A04F2B744C8408"]
+			id: "0B60B1D57C04960C"
+			rewards: [{
+				id: "67F4C0E603C752F0"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				count: 8L
+				id: "26C027C4AE1D3BC6"
+				item: { count: 1, id: "quark:oak_hedge" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["73A04F2B744C8408"]
+			id: "528AEA6E5B91E4A9"
+			rewards: [{
+				id: "19FDEB82A2D57525"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				count: 8L
+				id: "2E005C7885D2FA4F"
+				item: { count: 1, id: "quark:rope" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["73A04F2B744C8408"]
+			id: "29DE7F163E1FC74F"
+			rewards: [{
+				id: "11982707CBC5A0F9"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "63DE366C91A1C155"
+				item: { count: 1, id: "quark:glass_item_frame" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0B60B1D57C04960C"]
+			id: "3C86F208C26F3DAA"
+			rewards: [{
+				id: "0D60BE35942CCF3D"
+				type: "xp"
+				xp: 60
+			}]
+			shape: "gear"
+			size: 2.2d
+			tasks: [{
+				id: "0E3058171B940B46"
+				item: { count: 1, id: "quark:pickarang" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0B60B1D57C04960C"]
+			id: "448B8D94B555B68E"
+			rewards: [{
+				id: "3CEC61BA4459F7C0"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "22F98B46FB92DD52"
+				item: { count: 1, id: "quark:trowel" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["528AEA6E5B91E4A9"]
+			id: "2B2E1544DA94986E"
+			rewards: [{
+				id: "073179DAC62554E2"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "1C74E844DB3CD4E1"
+				item: { count: 1, id: "quark:seed_pouch" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["29DE7F163E1FC74F"]
+			id: "5B6546AD24596FBE"
+			rewards: [{
+				id: "4696F6D7914EBC4A"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "5A1F67E52EF2D79B"
+				item: { count: 1, id: "minecraft:hopper" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["29DE7F163E1FC74F"]
+			id: "58A82B26B880530F"
+			rewards: [{
+				id: "6D830A51423C18CE"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "514671316AA612C2"
+				item: { count: 1, id: "minecraft:chest" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["58A82B26B880530F"]
+			id: "05A71AEFD564FFF0"
+			rewards: [{
+				id: "20764DBF827887B0"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				count: 2L
+				id: "74295FD57E44B92F"
+				item: { count: 1, id: "minecraft:chest" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["448B8D94B555B68E"]
+			id: "2C6A976C2A2CCDED"
+			rewards: [{
+				id: "68F467A11159DDB8"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "533AC0665BFE3FE4"
+				item: { count: 1, id: "minecraft:iron_pickaxe" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2B2E1544DA94986E"]
+			id: "01F066A6A621FEDC"
+			rewards: [{
+				id: "14966115C5AD61AD"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "76B94F3C61E46254"
+				item: { count: 1, id: "minecraft:barrel" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["73A04F2B744C8408"]
+			id: "6907508145A22278"
+			rewards: [{
+				id: "1DCBC68C463B0795"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "5B31C7DC4B8CD4AF"
+				item: { count: 1, id: "minecraft:iron_chestplate" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+	]
+}

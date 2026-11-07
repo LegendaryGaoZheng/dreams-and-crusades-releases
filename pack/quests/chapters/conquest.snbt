@@ -1,0 +1,133 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "conquest"
+	group: "136C2476B3C4FF9B"
+	id: "51CE52FCF264365C"
+	order_index: 6
+	quest_links: [ ]
+	images: [{
+		id: "6643A62A593A6B9C"
+		image: "dream_expedition:textures/quest_atlas/banner.png"
+		width: 18.0d
+		height: 6.0d
+		x: 0.0d
+		y: -7.0d
+	}]
+	icon: "createbigcannons:steel_ingot"
+	quests: [
+		{
+			id: "1A7AA67FDC753724"
+			rewards: [{
+				id: "113A0136D6871586"
+				type: "xp"
+				xp: 150
+			}]
+			shape: "hexagon"
+			size: 2.5d
+			tasks: [{
+				count: 16L
+				id: "0DE805311E076B85"
+				item: { count: 1, id: "createbigcannons:steel_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A7AA67FDC753724"]
+			id: "3223F53B15C80F10"
+			rewards: [{
+				id: "5618956837C02DB6"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "5BF9EBF813782EF5"
+				item: { count: 1, id: "minecraft:tnt" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3223F53B15C80F10"]
+			id: "0C3AA21DF37B84BD"
+			rewards: [
+				{
+					id: "307CA76D189D6BA5"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "0DF975B6D8A4AD0A"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_shieldman"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.5d
+			tasks: [{
+				advancement: "dream_expedition:first_capture"
+				criterion: ""
+				id: "652DA3F94179E5EC"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0C3AA21DF37B84BD"]
+			id: "62C59776FE500FD3"
+			rewards: [
+				{
+					id: "49A6CBCF7C3E09E7"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "7404B4191984FEEC"
+					item: {
+						count: 1
+						id: "hundred_years_war:scroll_archer"
+					}
+					type: "item"
+				}
+			]
+			shape: "heart"
+			size: 2.5d
+			tasks: [{
+				advancement: "dream_expedition:five_captures"
+				criterion: ""
+				id: "59858ECA7727BD6B"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["1A7AA67FDC753724"]
+			id: "0ABA7A33B0171C51"
+			rewards: [{
+				id: "17783C104A90CBE4"
+				type: "xp"
+				xp: 60
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				count: 32L
+				id: "15CFF38908574C77"
+				item: { count: 1, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+	]
+}

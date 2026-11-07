@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "milestone": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "create:crafting/kinetics/mechanical_mixer"
+      }
+    }
+  }
+}
